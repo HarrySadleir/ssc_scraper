@@ -20,7 +20,7 @@ class Subject:
     code: str
     name: str
     href: str
-    specializations: List[Specialization]
+    children: List[Specialization]
 
 @dataclass_json
 @dataclass
@@ -28,7 +28,13 @@ class Program:
     code: str
     name: str
     href: str
-    subjects: List[Subject]
+    children: List[Subject]
+
+@dataclass_json
+@dataclass
+class UBC:
+    name: str
+    children: List[Program]
 
 def main():
     try:
@@ -48,19 +54,23 @@ def main():
             for subject_row in driver.find_elements(By.XPATH, tableXPath):
                 cols = subject_row.find_elements(By.XPATH, "./*")
                 subject = Subject(cols[0].text, cols[1].text, cols[0].find_element(By.XPATH, "./a").get_attribute('href'), [])
-                program.subjects.append(subject)
+                program.children.append(subject)
 
-            for subject in program.subjects:
+            for subject in program.children:
                 driver.get(subject.href)
                 sleep(1)
                 try:  
                     for spec_row in driver.find_elements(By.XPATH, tableXPath):
                         spec_cols = spec_row.find_elements(By.XPATH, "./*")
-                        subject.specializations.append(Specialization(spec_cols[0].text, spec_cols[1].text))
+                        subject.children.append(Specialization(spec_cols[0].text, spec_cols[1].text))
                 finally:
-                    pass               
+                    pass     
             with open('output/' + program.code + '.json', 'w', encoding='utf-8') as f:
                 json.dump(program.to_dict(), f, ensure_ascii=False, indent=4)
+            
+        
+        with open('output/all.json', 'w', encoding='utf-8') as f:
+            json.dump(UBC("UBC", programs).to_dict(), f, ensure_ascii=False, indent=4)
         
     finally:
         driver.close()
