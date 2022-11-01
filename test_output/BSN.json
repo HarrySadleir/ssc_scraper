@@ -1,0 +1,51 @@
+{
+    "code": "BSN",
+    "name": "Bachelor of Science in Nursing",
+    "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specprogram&tname=specprogram&dept=BSN",
+    "subjects": [
+        {
+            "code": "DIRE",
+            "name": "Direct Entry",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=BSN&specsubj=DIRE",
+            "specializations": [
+                {
+                    "code": "001442",
+                    "name": ""
+                }
+            ]
+        },
+        {
+            "code": "MEOJ",
+            "name": "Multiple Entry Option January",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=BSN&specsubj=MEOJ",
+            "specializations": [
+                {
+                    "code": "001443",
+                    "name": ""
+                }
+            ]
+        },
+        {
+            "code": "MEOS",
+            "name": "Multiple Entry Opt September",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=BSN&specsubj=MEOS",
+            "specializations": [
+                {
+                    "code": "001147",
+                    "name": ""
+                }
+            ]
+        },
+        {
+            "code": "PRNP",
+            "name": "Post RN Program",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=BSN&specsubj=PRNP",
+            "specializations": [
+                {
+                    "code": "001441",
+                    "name": ""
+                }
+            ]
+        }
+    ]
+}

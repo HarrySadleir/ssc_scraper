@@ -1,0 +1,114 @@
+{
+    "code": "BSFS",
+    "name": "Bachelor of Science(Forest Sc)",
+    "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specprogram&tname=specprogram&dept=BSFS",
+    "subjects": [
+        {
+            "code": "FORS",
+            "name": "Forest Sciences",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=BSFS&specsubj=FORS",
+            "specializations": [
+                {
+                    "code": "003664",
+                    "name": "Honours in Forest Sciences, Forest Hydrology"
+                },
+                {
+                    "code": "003663",
+                    "name": "Honours in Forest Sciences, Wildlife Ecology Conc."
+                },
+                {
+                    "code": "003058",
+                    "name": "Major in Forest Sciences, Aquatic Sciences"
+                },
+                {
+                    "code": "001678",
+                    "name": "Major in Forest Sciences, Tree Physiology Conc."
+                },
+                {
+                    "code": "001671",
+                    "name": "Major Forest Sciences,International Forestry Conc"
+                },
+                {
+                    "code": "001673",
+                    "name": "Major in Forest Sciences, Forest Entomology Conc."
+                },
+                {
+                    "code": "001675",
+                    "name": "Major in Forest Sciences, Forest Pathology Conc."
+                },
+                {
+                    "code": "001679",
+                    "name": "Major in Forest Sciences, Wildlife Ecology Conc."
+                },
+                {
+                    "code": "001677",
+                    "name": "Major in Forest Sciences, Forest Soils Conc."
+                },
+                {
+                    "code": "001670",
+                    "name": "Major in Forest Sciences"
+                },
+                {
+                    "code": "001672",
+                    "name": "Major in Forest Sciences, Forest Ecology Conc."
+                },
+                {
+                    "code": "001674",
+                    "name": "Major in Forest Sciences, Forest Genetics Conc."
+                },
+                {
+                    "code": "003056",
+                    "name": "Major in Forest Sciences, Forest Hydrology"
+                },
+                {
+                    "code": "003057",
+                    "name": "Major in Forest Sciences, Conservation Biology"
+                },
+                {
+                    "code": "003059",
+                    "name": "Major in Forest Sciences, Silviculture"
+                },
+                {
+                    "code": "003667",
+                    "name": "Honours in Forest Sciences, Silviculture"
+                },
+                {
+                    "code": "003656",
+                    "name": "Honours Forest Sciences, Intl Forestry Conc"
+                },
+                {
+                    "code": "003655",
+                    "name": "Honours in Forest Sciences"
+                },
+                {
+                    "code": "003666",
+                    "name": "Honours in Forest Sciences, Aquatic Sciences"
+                },
+                {
+                    "code": "003657",
+                    "name": "Honours in Forest Sciences, Forest Ecology Conc."
+                },
+                {
+                    "code": "003659",
+                    "name": "Honours in Forest Sciences, Forest Genetics Conc."
+                },
+                {
+                    "code": "003662",
+                    "name": "Honours in Forest Sciences, Tree Physiology Conc."
+                },
+                {
+                    "code": "003660",
+                    "name": "Honours in Forest Sciences, Forest Pathology Conc."
+                },
+                {
+                    "code": "003661",
+                    "name": "Honours in Forest Sciences, Forest Soils Conc."
+                },
+                {
+                    "code": "003665",
+                    "name": "Honours in Forest Sciences, Conservation Biology"
+                }
+            ]
+        }
+    ]
+}

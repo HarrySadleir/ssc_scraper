@@ -1,0 +1,1154 @@
+{
+    "code": "PHD",
+    "name": "Doctor of Philosophy",
+    "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specprogram&tname=specprogram&dept=PHD",
+    "subjects": [
+        {
+            "code": "AABI",
+            "name": "Applied Animal Biology",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=PHD&specsubj=AABI",
+            "specializations": [
+                {
+                    "code": "003241",
+                    "name": "In Applied Animal Biology"
+                }
+            ]
+        },
+        {
+            "code": "ANCB",
+            "name": "Anatomy & Cell Biology",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=PHD&specsubj=ANCB",
+            "specializations": [
+                {
+                    "code": "001896",
+                    "name": "In Anatomy and Cell Biology"
+                }
+            ]
+        },
+        {
+            "code": "ANTH",
+            "name": "Anthropology",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=PHD&specsubj=ANTH",
+            "specializations": [
+                {
+                    "code": "000131",
+                    "name": "In Anthropology"
+                }
+            ]
+        },
+        {
+            "code": "ARTH",
+            "name": "Art History & Visual Culture",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=PHD&specsubj=ARTH",
+            "specializations": [
+                {
+                    "code": "001806",
+                    "name": "In Art History and Theory"
+                }
+            ]
+        },
+        {
+            "code": "ASIA",
+            "name": "Asian Studies",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=PHD&specsubj=ASIA",
+            "specializations": [
+                {
+                    "code": "000063",
+                    "name": "In Asian Studies"
+                }
+            ]
+        },
+        {
+            "code": "ASTR",
+            "name": "Astronomy",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=PHD&specsubj=ASTR",
+            "specializations": [
+                {
+                    "code": "000022",
+                    "name": "In Astronomy"
+                }
+            ]
+        },
+        {
+            "code": "ATSC",
+            "name": "Atmospheric Science",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=PHD&specsubj=ATSC",
+            "specializations": [
+                {
+                    "code": "001035",
+                    "name": "In Atmospheric Science"
+                }
+            ]
+        },
+        {
+            "code": "AUDI",
+            "name": "Audiology & Speech Sciences",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=PHD&specsubj=AUDI",
+            "specializations": [
+                {
+                    "code": "000085",
+                    "name": "In Audiology and Speech Sciences"
+                }
+            ]
+        },
+        {
+            "code": "BADM",
+            "name": "Business Administration",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=PHD&specsubj=BADM",
+            "specializations": [
+                {
+                    "code": "003284",
+                    "name": "In Business Administration in Management Science"
+                },
+                {
+                    "code": "003288",
+                    "name": "In Business Admin in Strategy & Business Economics"
+                },
+                {
+                    "code": "003289",
+                    "name": "In Business Administration in Urban Land Economics"
+                },
+                {
+                    "code": "003287",
+                    "name": "In Business Admin in Transportation and Logistics"
+                },
+                {
+                    "code": "003764",
+                    "name": "In Business Admin in Marketing & Behavioural Scie"
+                },
+                {
+                    "code": "003281",
+                    "name": "In Business Administration in Accounting"
+                },
+                {
+                    "code": "003282",
+                    "name": "In Business Administration in Finance"
+                },
+                {
+                    "code": "003283",
+                    "name": "In Business Admin in Management Info Systems"
+                },
+                {
+                    "code": "003286",
+                    "name": "In Business Admin in Organizational Behaviour"
+                }
+            ]
+        },
+        {
+            "code": "BIMB",
+            "name": "Biochemistry & Molecular Biol",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=PHD&specsubj=BIMB",
+            "specializations": [
+                {
+                    "code": "000877",
+                    "name": "In Biochemistry and Molecular Biology"
+                }
+            ]
+        },
+        {
+            "code": "BIOF",
+            "name": "Bioinformatics",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=PHD&specsubj=BIOF",
+            "specializations": [
+                {
+                    "code": "001655",
+                    "name": "In Bioinformatics"
+                }
+            ]
+        },
+        {
+            "code": "BMEG",
+            "name": "Biomedical Engineering",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=PHD&specsubj=BMEG",
+            "specializations": [
+                {
+                    "code": "003040",
+                    "name": "In Biomedical Engineering"
+                },
+                {
+                    "code": "003041",
+                    "name": "In Biomedical Engineering"
+                },
+                {
+                    "code": "003043",
+                    "name": "In Biomedical Engineering"
+                },
+                {
+                    "code": "003042",
+                    "name": "In Biomedical Engineering"
+                },
+                {
+                    "code": "003561",
+                    "name": "In Biomedical Engineering"
+                }
+            ]
+        },
+        {
+            "code": "BOTA",
+            "name": "Botany",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=PHD&specsubj=BOTA",
+            "specializations": [
+                {
+                    "code": "000048",
+                    "name": "In Botany"
+                }
+            ]
+        },
+        {
+            "code": "CCFI",
+            "name": "Cross-Faculty Inquiry in Educ",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=PHD&specsubj=CCFI",
+            "specializations": [
+                {
+                    "code": "001666",
+                    "name": "In Cross-Faculty Inquiry in Education"
+                }
+            ]
+        },
+        {
+            "code": "CCST",
+            "name": "Critical Curatorial Studies",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=PHD&specsubj=CCST",
+            "specializations": [
+                {
+                    "code": "001807",
+                    "name": "In Critical Curatorial Studies"
+                }
+            ]
+        },
+        {
+            "code": "CELL",
+            "name": "Cell & Developmental",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=PHD&specsubj=CELL",
+            "specializations": [
+                {
+                    "code": "001810",
+                    "name": "In Cell and Developmental Biology"
+                }
+            ]
+        },
+        {
+            "code": "CHBE",
+            "name": "Chemical & Biol Engineering",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=PHD&specsubj=CHBE",
+            "specializations": [
+                {
+                    "code": "003040",
+                    "name": "In Biomedical Engineering"
+                },
+                {
+                    "code": "003035",
+                    "name": "In Chemical and Biological Engineering"
+                }
+            ]
+        },
+        {
+            "code": "CHEM",
+            "name": "Chemistry",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=PHD&specsubj=CHEM",
+            "specializations": [
+                {
+                    "code": "000320",
+                    "name": "In Chemistry"
+                }
+            ]
+        },
+        {
+            "code": "CIVL",
+            "name": "Civil Engineering",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=PHD&specsubj=CIVL",
+            "specializations": [
+                {
+                    "code": "000451",
+                    "name": "In Civil Engineering"
+                }
+            ]
+        },
+        {
+            "code": "CLAS",
+            "name": "Classics",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=PHD&specsubj=CLAS",
+            "specializations": [
+                {
+                    "code": "000322",
+                    "name": "In Classics"
+                }
+            ]
+        },
+        {
+            "code": "CMST",
+            "name": "Cinema and Media Studies",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=PHD&specsubj=CMST",
+            "specializations": [
+                {
+                    "code": "003523",
+                    "name": "In Cinema and Media Studies"
+                }
+            ]
+        },
+        {
+            "code": "CNPS",
+            "name": "Counselling Psychology",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=PHD&specsubj=CNPS",
+            "specializations": [
+                {
+                    "code": "000672",
+                    "name": "In Counselling Psychology"
+                }
+            ]
+        },
+        {
+            "code": "CPSC",
+            "name": "Computer Science",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=PHD&specsubj=CPSC",
+            "specializations": [
+                {
+                    "code": "000553",
+                    "name": "In Computer Science"
+                }
+            ]
+        },
+        {
+            "code": "CRSC",
+            "name": "Craniofacial Science",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=PHD&specsubj=CRSC",
+            "specializations": [
+                {
+                    "code": "003078",
+                    "name": "In Craniofacial Science"
+                }
+            ]
+        },
+        {
+            "code": "CUST",
+            "name": "Curriculum Studies",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=PHD&specsubj=CUST",
+            "specializations": [
+                {
+                    "code": "000923",
+                    "name": "In Curriculum Studies"
+                }
+            ]
+        },
+        {
+            "code": "ECON",
+            "name": "Economics",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=PHD&specsubj=ECON",
+            "specializations": [
+                {
+                    "code": "000476",
+                    "name": "In Economics"
+                }
+            ]
+        },
+        {
+            "code": "EDST",
+            "name": "Educational Studies",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=PHD&specsubj=EDST",
+            "specializations": [
+                {
+                    "code": "000381",
+                    "name": "In Educational Studies"
+                }
+            ]
+        },
+        {
+            "code": "EECE",
+            "name": "Electrical & Computer Eng",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=PHD&specsubj=EECE",
+            "specializations": [
+                {
+                    "code": "003041",
+                    "name": "In Biomedical Engineering"
+                },
+                {
+                    "code": "001440",
+                    "name": "In Electrical & Computer Engineering"
+                }
+            ]
+        },
+        {
+            "code": "ENGL",
+            "name": "English",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=PHD&specsubj=ENGL",
+            "specializations": [
+                {
+                    "code": "000369",
+                    "name": "In English"
+                }
+            ]
+        },
+        {
+            "code": "ETHM",
+            "name": "Ethnomusicology",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=PHD&specsubj=ETHM",
+            "specializations": [
+                {
+                    "code": "001462",
+                    "name": "In Ethnomusicology"
+                }
+            ]
+        },
+        {
+            "code": "FINA",
+            "name": "Fine Arts",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=PHD&specsubj=FINA",
+            "specializations": [
+                {
+                    "code": "000132",
+                    "name": "In Fine Arts (Art History)"
+                }
+            ]
+        },
+        {
+            "code": "FOOD",
+            "name": "Food Science",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=PHD&specsubj=FOOD",
+            "specializations": [
+                {
+                    "code": "000023",
+                    "name": "In Food Science"
+                }
+            ]
+        },
+        {
+            "code": "FREN",
+            "name": "French",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=PHD&specsubj=FREN",
+            "specializations": [
+                {
+                    "code": "000460",
+                    "name": "In French"
+                }
+            ]
+        },
+        {
+            "code": "FRST",
+            "name": "Forestry",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=PHD&specsubj=FRST",
+            "specializations": [
+                {
+                    "code": "000042",
+                    "name": "In Forestry"
+                }
+            ]
+        },
+        {
+            "code": "GENE",
+            "name": "Genetics",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=PHD&specsubj=GENE",
+            "specializations": [
+                {
+                    "code": "000314",
+                    "name": "In Genetics"
+                }
+            ]
+        },
+        {
+            "code": "GEOE",
+            "name": "Geological Engineering",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=PHD&specsubj=GEOE",
+            "specializations": [
+                {
+                    "code": "000200",
+                    "name": "In Geological Engineering"
+                }
+            ]
+        },
+        {
+            "code": "GEOG",
+            "name": "Geography",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=PHD&specsubj=GEOG",
+            "specializations": [
+                {
+                    "code": "000038",
+                    "name": "In Geography"
+                }
+            ]
+        },
+        {
+            "code": "GEOL",
+            "name": "Geology",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=PHD&specsubj=GEOL",
+            "specializations": [
+                {
+                    "code": "000157",
+                    "name": "In Geological Sciences"
+                }
+            ]
+        },
+        {
+            "code": "GEOP",
+            "name": "Geophysics",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=PHD&specsubj=GEOP",
+            "specializations": [
+                {
+                    "code": "000258",
+                    "name": "In Geophysics"
+                }
+            ]
+        },
+        {
+            "code": "GERM",
+            "name": "German",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=PHD&specsubj=GERM",
+            "specializations": [
+                {
+                    "code": "000025",
+                    "name": "In German"
+                }
+            ]
+        },
+        {
+            "code": "GMST",
+            "name": "Germanic Studies",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=PHD&specsubj=GMST",
+            "specializations": [
+                {
+                    "code": "000617",
+                    "name": "In Germanic Studies"
+                }
+            ]
+        },
+        {
+            "code": "GRSJ",
+            "name": "GenderRaceSexualitySocialJust",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=PHD&specsubj=GRSJ",
+            "specializations": [
+                {
+                    "code": "003225",
+                    "name": "In Gender, Race, Sexuality and Social Justice"
+                }
+            ]
+        },
+        {
+            "code": "GSAT",
+            "name": "Genome Science & Technology",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=PHD&specsubj=GSAT",
+            "specializations": [
+                {
+                    "code": "003087",
+                    "name": "In Genome Science and Technology"
+                }
+            ]
+        },
+        {
+            "code": "HDLC",
+            "name": "Human Devl,Learning & Culture",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=PHD&specsubj=HDLC",
+            "specializations": [
+                {
+                    "code": "001698",
+                    "name": "In Human Development, Learning and Culture"
+                }
+            ]
+        },
+        {
+            "code": "HISP",
+            "name": "Hispanic Studies",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=PHD&specsubj=HISP",
+            "specializations": [
+                {
+                    "code": "001423",
+                    "name": "In Hispanic Studies"
+                }
+            ]
+        },
+        {
+            "code": "HIST",
+            "name": "History",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=PHD&specsubj=HIST",
+            "specializations": [
+                {
+                    "code": "000434",
+                    "name": "In History"
+                }
+            ]
+        },
+        {
+            "code": "HUNU",
+            "name": "Human Nutrition",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=PHD&specsubj=HUNU",
+            "specializations": [
+                {
+                    "code": "000209",
+                    "name": "In Human Nutrition"
+                }
+            ]
+        },
+        {
+            "code": "INDS",
+            "name": "Interdisciplinary Studies",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=PHD&specsubj=INDS",
+            "specializations": [
+                {
+                    "code": "000231",
+                    "name": "In Interdisciplinary Studies"
+                }
+            ]
+        },
+        {
+            "code": "ISLF",
+            "name": "Int Stds In Land & Food Syst",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=PHD&specsubj=ISLF",
+            "specializations": [
+                {
+                    "code": "002004",
+                    "name": "In Integrated Studies in Land and Food Systems"
+                }
+            ]
+        },
+        {
+            "code": "KIN",
+            "name": "Kinesiology",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=PHD&specsubj=KIN",
+            "specializations": [
+                {
+                    "code": "003182",
+                    "name": "In Kinesiology"
+                }
+            ]
+        },
+        {
+            "code": "LAIS",
+            "name": "Lib, Arch and Info Stud",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=PHD&specsubj=LAIS",
+            "specializations": [
+                {
+                    "code": "001237",
+                    "name": "In Library, Archival and Information Studies"
+                }
+            ]
+        },
+        {
+            "code": "LAW",
+            "name": "Law",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=PHD&specsubj=LAW",
+            "specializations": [
+                {
+                    "code": "000086",
+                    "name": "In Law"
+                }
+            ]
+        },
+        {
+            "code": "LING",
+            "name": "Linguistics",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=PHD&specsubj=LING",
+            "specializations": [
+                {
+                    "code": "000441",
+                    "name": "In Linguistics"
+                }
+            ]
+        },
+        {
+            "code": "LLED",
+            "name": "Language & Literacy Ed",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=PHD&specsubj=LLED",
+            "specializations": [
+                {
+                    "code": "001482",
+                    "name": "In Language and Literacy Education"
+                }
+            ]
+        },
+        {
+            "code": "MATH",
+            "name": "Mathematics",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=PHD&specsubj=MATH",
+            "specializations": [
+                {
+                    "code": "000087",
+                    "name": "In Mathematics"
+                }
+            ]
+        },
+        {
+            "code": "MECH",
+            "name": "Mechanical Engineering",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=PHD&specsubj=MECH",
+            "specializations": [
+                {
+                    "code": "003043",
+                    "name": "In Biomedical Engineering"
+                },
+                {
+                    "code": "000239",
+                    "name": "In Mechanical Engineering"
+                }
+            ]
+        },
+        {
+            "code": "MEDG",
+            "name": "Medical Genetics",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=PHD&specsubj=MEDG",
+            "specializations": [
+                {
+                    "code": "006987",
+                    "name": "In Medical Genetics"
+                }
+            ]
+        },
+        {
+            "code": "MEDP",
+            "name": "Medical Physics",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=PHD&specsubj=MEDP",
+            "specializations": [
+                {
+                    "code": "003568",
+                    "name": "In Medical Physics"
+                }
+            ]
+        },
+        {
+            "code": "MEDX",
+            "name": "Experimental Medicine",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=PHD&specsubj=MEDX",
+            "specializations": [
+                {
+                    "code": "000307",
+                    "name": "In Experimental Medicine"
+                }
+            ]
+        },
+        {
+            "code": "MERM",
+            "name": "Measurement & Evaluation",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=PHD&specsubj=MERM",
+            "specializations": [
+                {
+                    "code": "001230",
+                    "name": "In Measurement, Evaluation & Research Methodology"
+                }
+            ]
+        },
+        {
+            "code": "MIIM",
+            "name": "Microbiology & Immunology",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=PHD&specsubj=MIIM",
+            "specializations": [
+                {
+                    "code": "001897",
+                    "name": "In Microbiology and Immunology"
+                }
+            ]
+        },
+        {
+            "code": "MINE",
+            "name": "Mining",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=PHD&specsubj=MINE",
+            "specializations": [
+                {
+                    "code": "001628",
+                    "name": "In Mining Engineering"
+                }
+            ]
+        },
+        {
+            "code": "MTRL",
+            "name": "Materials Engineering",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=PHD&specsubj=MTRL",
+            "specializations": [
+                {
+                    "code": "003042",
+                    "name": "In Biomedical Engineering"
+                },
+                {
+                    "code": "001593",
+                    "name": "In Materials Engineering"
+                }
+            ]
+        },
+        {
+            "code": "MUSC",
+            "name": "Music",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=PHD&specsubj=MUSC",
+            "specializations": [
+                {
+                    "code": "000333",
+                    "name": "In Music, Emphasis Theory"
+                },
+                {
+                    "code": "000324",
+                    "name": "In Music, Emphasis Musicology"
+                }
+            ]
+        },
+        {
+            "code": "NRSC",
+            "name": "Neuroscience",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=PHD&specsubj=NRSC",
+            "specializations": [
+                {
+                    "code": "000487",
+                    "name": "In Neuroscience"
+                }
+            ]
+        },
+        {
+            "code": "NURS",
+            "name": "Nursing",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=PHD&specsubj=NURS",
+            "specializations": [
+                {
+                    "code": "002939",
+                    "name": "In Nursing"
+                }
+            ]
+        },
+        {
+            "code": "OCCH",
+            "name": "Occupational Hygiene",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=PHD&specsubj=OCCH",
+            "specializations": [
+                {
+                    "code": "001323",
+                    "name": "In Occupational and Environmental Hygiene"
+                }
+            ]
+        },
+        {
+            "code": "OCF",
+            "name": "Oceans and Fisheries",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=PHD&specsubj=OCF",
+            "specializations": [
+                {
+                    "code": "003570",
+                    "name": "In Oceans and Fisheries"
+                }
+            ]
+        },
+        {
+            "code": "OCGY",
+            "name": "Oceanography",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=PHD&specsubj=OCGY",
+            "specializations": [
+                {
+                    "code": "000497",
+                    "name": "In Oceanography"
+                }
+            ]
+        },
+        {
+            "code": "ONCO",
+            "name": "Interdisciplinary Oncology",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=PHD&specsubj=ONCO",
+            "specializations": [
+                {
+                    "code": "001401",
+                    "name": "In Interdisciplinary Oncology"
+                }
+            ]
+        },
+        {
+            "code": "PALM",
+            "name": "Pathology/Laboratory Medicine",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=PHD&specsubj=PALM",
+            "specializations": [
+                {
+                    "code": "000883",
+                    "name": "In Pathology and Laboratory Medicine"
+                }
+            ]
+        },
+        {
+            "code": "PCTH",
+            "name": "Pharmacology",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=PHD&specsubj=PCTH",
+            "specializations": [
+                {
+                    "code": "000101",
+                    "name": "In Pharmacology and Therapeutics"
+                }
+            ]
+        },
+        {
+            "code": "PHAR",
+            "name": "Pharmaceutical Science",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=PHD&specsubj=PHAR",
+            "specializations": [
+                {
+                    "code": "000097",
+                    "name": "In Pharmaceutical Sciences"
+                }
+            ]
+        },
+        {
+            "code": "PHIL",
+            "name": "Philosophy",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=PHD&specsubj=PHIL",
+            "specializations": [
+                {
+                    "code": "000193",
+                    "name": "In Philosophy"
+                }
+            ]
+        },
+        {
+            "code": "PHYL",
+            "name": "Physiology",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=PHD&specsubj=PHYL",
+            "specializations": [
+                {
+                    "code": "000108",
+                    "name": "In Physiology"
+                }
+            ]
+        },
+        {
+            "code": "PHYS",
+            "name": "Physics",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=PHD&specsubj=PHYS",
+            "specializations": [
+                {
+                    "code": "000459",
+                    "name": "In Physics"
+                }
+            ]
+        },
+        {
+            "code": "PLAN",
+            "name": "Community & Regional Planning",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=PHD&specsubj=PLAN",
+            "specializations": [
+                {
+                    "code": "000474",
+                    "name": "In Planning"
+                }
+            ]
+        },
+        {
+            "code": "PLNT",
+            "name": "Plant Science",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=PHD&specsubj=PLNT",
+            "specializations": [
+                {
+                    "code": "000156",
+                    "name": "In Plant Science"
+                }
+            ]
+        },
+        {
+            "code": "POLI",
+            "name": "Political Science",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=PHD&specsubj=POLI",
+            "specializations": [
+                {
+                    "code": "000070",
+                    "name": "In Political Science"
+                }
+            ]
+        },
+        {
+            "code": "PSYC",
+            "name": "Psychology",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=PHD&specsubj=PSYC",
+            "specializations": [
+                {
+                    "code": "000337",
+                    "name": "In Psychology"
+                }
+            ]
+        },
+        {
+            "code": "RELG",
+            "name": "Religious Studies",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=PHD&specsubj=RELG",
+            "specializations": [
+                {
+                    "code": "000527",
+                    "name": "In Religious Studies"
+                }
+            ]
+        },
+        {
+            "code": "RES",
+            "name": "Resources,Enviro & Sustain",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=PHD&specsubj=RES",
+            "specializations": [
+                {
+                    "code": "003387",
+                    "name": "In Resources, Environment and Sustainability"
+                }
+            ]
+        },
+        {
+            "code": "RHSC",
+            "name": "Rehabilitation Sciences",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=PHD&specsubj=RHSC",
+            "specializations": [
+                {
+                    "code": "001434",
+                    "name": "In Rehabilitation Sciences"
+                }
+            ]
+        },
+        {
+            "code": "RPDS",
+            "name": "Reproductive Developmental Sc",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=PHD&specsubj=RPDS",
+            "specializations": [
+                {
+                    "code": "002973",
+                    "name": "In Reproductive and Developmental Sciences"
+                }
+            ]
+        },
+        {
+            "code": "SACP",
+            "name": "School & Applied Child Psych",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=PHD&specsubj=SACP",
+            "specializations": [
+                {
+                    "code": "003651",
+                    "name": "In School and Applied Child Psychology"
+                }
+            ]
+        },
+        {
+            "code": "SCPS",
+            "name": "School Psychology",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=PHD&specsubj=SCPS",
+            "specializations": [
+                {
+                    "code": "001231",
+                    "name": "In School Psychology"
+                }
+            ]
+        },
+        {
+            "code": "SOCI",
+            "name": "Sociology",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=PHD&specsubj=SOCI",
+            "specializations": [
+                {
+                    "code": "000147",
+                    "name": "In Sociology"
+                }
+            ]
+        },
+        {
+            "code": "SOIL",
+            "name": "Soil Science",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=PHD&specsubj=SOIL",
+            "specializations": [
+                {
+                    "code": "000371",
+                    "name": "In Soil Science"
+                }
+            ]
+        },
+        {
+            "code": "SOWK",
+            "name": "Social Work",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=PHD&specsubj=SOWK",
+            "specializations": [
+                {
+                    "code": "001500",
+                    "name": "In Social Work"
+                }
+            ]
+        },
+        {
+            "code": "SPED",
+            "name": "Special Education",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=PHD&specsubj=SPED",
+            "specializations": [
+                {
+                    "code": "001232",
+                    "name": "In Special Education"
+                }
+            ]
+        },
+        {
+            "code": "SPPH",
+            "name": "Population and Public Health",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=PHD&specsubj=SPPH",
+            "specializations": [
+                {
+                    "code": "003120",
+                    "name": "In Population and Public Health"
+                }
+            ]
+        },
+        {
+            "code": "STAT",
+            "name": "Statistics",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=PHD&specsubj=STAT",
+            "specializations": [
+                {
+                    "code": "000084",
+                    "name": "In Statistics"
+                }
+            ]
+        },
+        {
+            "code": "TESL",
+            "name": "Teaching Engl as a 2nd Lang",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=PHD&specsubj=TESL",
+            "specializations": [
+                {
+                    "code": "001394",
+                    "name": "In Teaching English as a Second Language"
+                }
+            ]
+        },
+        {
+            "code": "THTR",
+            "name": "Theatre",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=PHD&specsubj=THTR",
+            "specializations": [
+                {
+                    "code": "000006",
+                    "name": "In Theatre"
+                }
+            ]
+        },
+        {
+            "code": "VISA",
+            "name": "Visual Arts",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=PHD&specsubj=VISA",
+            "specializations": [
+                {
+                    "code": "001805",
+                    "name": "In Visual Arts"
+                }
+            ]
+        },
+        {
+            "code": "WACH",
+            "name": "Women+ & Children's Health Sci",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=PHD&specsubj=WACH",
+            "specializations": [
+                {
+                    "code": "003770",
+                    "name": "In Women+ & Child Hlth Scie In Child Health"
+                },
+                {
+                    "code": "003769",
+                    "name": "In Women+ and Children's Health Sciences"
+                },
+                {
+                    "code": "003772",
+                    "name": "In Women+ & Child Hlth Scie In Women+ Health"
+                },
+                {
+                    "code": "003771",
+                    "name": "In Women+ & Child Hlth Scie In Reprod & Devl Scie"
+                }
+            ]
+        },
+        {
+            "code": "ZOOL",
+            "name": "Zoology",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=PHD&specsubj=ZOOL",
+            "specializations": [
+                {
+                    "code": "000511",
+                    "name": "In Zoology"
+                }
+            ]
+        }
+    ]
+}

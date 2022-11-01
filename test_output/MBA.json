@@ -1,0 +1,242 @@
+{
+    "code": "MBA",
+    "name": "Master of Business Admin.",
+    "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specprogram&tname=specprogram&dept=MBA",
+    "subjects": [
+        {
+            "code": "ACSS",
+            "name": "Accounting Sub-Specialization",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=MBA&specsubj=ACSS",
+            "specializations": [
+                {
+                    "code": "001918",
+                    "name": "Accounting Sub-Specialization"
+                }
+            ]
+        },
+        {
+            "code": "BISS",
+            "name": "Business Intell Syst SubSpec",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=MBA&specsubj=BISS",
+            "specializations": [
+                {
+                    "code": "001917",
+                    "name": "Business Intelligence Systems Sub-Specialization"
+                }
+            ]
+        },
+        {
+            "code": "BUIN",
+            "name": "Business Innovation",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=MBA&specsubj=BUIN",
+            "specializations": [
+                {
+                    "code": "003216",
+                    "name": "Track: Business Innovation and Entrepreneurship"
+                }
+            ]
+        },
+        {
+            "code": "CSTM",
+            "name": "Consulting & Strategic Mgmt",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=MBA&specsubj=CSTM",
+            "specializations": [
+                {
+                    "code": "003213",
+                    "name": "Track: Consulting and Strategic Management"
+                }
+            ]
+        },
+        {
+            "code": "ENSS",
+            "name": "Entrepreneurship SubSpec",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=MBA&specsubj=ENSS",
+            "specializations": [
+                {
+                    "code": "001925",
+                    "name": "Entrepreneurship Sub-Specialization"
+                }
+            ]
+        },
+        {
+            "code": "ENTP",
+            "name": "Entrepreneurship",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=MBA&specsubj=ENTP",
+            "specializations": [
+                {
+                    "code": "000776",
+                    "name": "Entrepreneurship"
+                }
+            ]
+        },
+        {
+            "code": "FINC",
+            "name": "Finance",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=MBA&specsubj=FINC",
+            "specializations": [
+                {
+                    "code": "003214",
+                    "name": "Track: Finance"
+                },
+                {
+                    "code": "000780",
+                    "name": "Finance"
+                }
+            ]
+        },
+        {
+            "code": "INTB",
+            "name": "International Business",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=MBA&specsubj=INTB",
+            "specializations": [
+                {
+                    "code": "001570",
+                    "name": "International Business Sub-Specialization"
+                }
+            ]
+        },
+        {
+            "code": "INTM",
+            "name": "Information Tech & Management",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=MBA&specsubj=INTM",
+            "specializations": [
+                {
+                    "code": "000782",
+                    "name": "Information Technology and Management"
+                }
+            ]
+        },
+        {
+            "code": "ITSS",
+            "name": "InfoTech Mgmt SubSpec",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=MBA&specsubj=ITSS",
+            "specializations": [
+                {
+                    "code": "001930",
+                    "name": "Information Tech Management Sub-Specialization"
+                }
+            ]
+        },
+        {
+            "code": "MKSS",
+            "name": "Marketing SubSpec",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=MBA&specsubj=MKSS",
+            "specializations": [
+                {
+                    "code": "001929",
+                    "name": "Marketing Sub-Specialization"
+                }
+            ]
+        },
+        {
+            "code": "MKTG",
+            "name": "Marketing",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=MBA&specsubj=MKTG",
+            "specializations": [
+                {
+                    "code": "000791",
+                    "name": "Marketing"
+                }
+            ]
+        },
+        {
+            "code": "OBHR",
+            "name": "Org Behavior & HR",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=MBA&specsubj=OBHR",
+            "specializations": [
+                {
+                    "code": "001481",
+                    "name": "Organizational Behaviour & Human Resources"
+                }
+            ]
+        },
+        {
+            "code": "OBSS",
+            "name": "OrgBeh&HR SubSpec",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=MBA&specsubj=OBSS",
+            "specializations": [
+                {
+                    "code": "001928",
+                    "name": "Organizational Behaviour & HR Sub-Specialization"
+                }
+            ]
+        },
+        {
+            "code": "PRSM",
+            "name": "Product and Service Management",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=MBA&specsubj=PRSM",
+            "specializations": [
+                {
+                    "code": "003215",
+                    "name": "Track: Product and Service Management"
+                }
+            ]
+        },
+        {
+            "code": "SBSS",
+            "name": "Sustainability & Bus SubSpec",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=MBA&specsubj=SBSS",
+            "specializations": [
+                {
+                    "code": "001920",
+                    "name": "Sustainability and Business Sub-Specialization"
+                }
+            ]
+        },
+        {
+            "code": "SCMG",
+            "name": "Supply Chain Management",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=MBA&specsubj=SCMG",
+            "specializations": [
+                {
+                    "code": "000839",
+                    "name": "Supply Chain Management"
+                }
+            ]
+        },
+        {
+            "code": "SCSS",
+            "name": "Supply Chain Mgmt SubSpec",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=MBA&specsubj=SCSS",
+            "specializations": [
+                {
+                    "code": "001926",
+                    "name": "Supply Chain Management Sub-Specialization"
+                }
+            ]
+        },
+        {
+            "code": "STMG",
+            "name": "Strategic Management",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=MBA&specsubj=STMG",
+            "specializations": [
+                {
+                    "code": "000796",
+                    "name": "Strategic Management"
+                }
+            ]
+        },
+        {
+            "code": "STSS",
+            "name": "Strategic Mgmt SubSpec",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=MBA&specsubj=STSS",
+            "specializations": [
+                {
+                    "code": "001927",
+                    "name": "Strategic Management Sub-Specialization"
+                }
+            ]
+        },
+        {
+            "code": "SUBU",
+            "name": "Sustainability & Business",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=MBA&specsubj=SUBU",
+            "specializations": [
+                {
+                    "code": "001919",
+                    "name": "Sustainability and Business"
+                }
+            ]
+        }
+    ]
+}

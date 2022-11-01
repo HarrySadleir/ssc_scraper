@@ -1,0 +1,73 @@
+{
+    "code": "BSAG",
+    "name": "Bachelor of Scie (Agroecology)",
+    "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specprogram&tname=specprogram&dept=BSAG",
+    "subjects": [
+        {
+            "code": "AGRO",
+            "name": "Agroecology",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=BSAG&specsubj=AGRO",
+            "specializations": [
+                {
+                    "code": "001302",
+                    "name": "Concentration in Agroecology"
+                }
+            ]
+        },
+        {
+            "code": "ANST",
+            "name": "Animal Studies",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=BSAG&specsubj=ANST",
+            "specializations": [
+                {
+                    "code": "001202",
+                    "name": "Concentration in Animal Studies"
+                }
+            ]
+        },
+        {
+            "code": "COMM",
+            "name": "Commerce",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=BSAG&specsubj=COMM",
+            "specializations": [
+                {
+                    "code": "003090",
+                    "name": "Minor in Commerce"
+                }
+            ]
+        },
+        {
+            "code": "HORT",
+            "name": "Horticulture",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=BSAG&specsubj=HORT",
+            "specializations": [
+                {
+                    "code": "001203",
+                    "name": "Concentration in Horticulture"
+                }
+            ]
+        },
+        {
+            "code": "RECO",
+            "name": "Resource Economics",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=BSAG&specsubj=RECO",
+            "specializations": [
+                {
+                    "code": "001204",
+                    "name": "Concentration in Resource Economics"
+                }
+            ]
+        },
+        {
+            "code": "SOEN",
+            "name": "Soils & Environment",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=BSAG&specsubj=SOEN",
+            "specializations": [
+                {
+                    "code": "001219",
+                    "name": "Concentration in Soils & Environment"
+                }
+            ]
+        }
+    ]
+}

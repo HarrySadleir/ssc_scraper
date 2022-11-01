@@ -1,0 +1,772 @@
+{
+    "code": "BFA",
+    "name": "Bachelor of Fine Arts",
+    "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specprogram&tname=specprogram&dept=BFA",
+    "subjects": [
+        {
+            "code": "AABI",
+            "name": "Applied Animal Biology",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=BFA&specsubj=AABI",
+            "specializations": [
+                {
+                    "code": "003622",
+                    "name": "Minor in Applied Animal Biology"
+                }
+            ]
+        },
+        {
+            "code": "ACAM",
+            "name": "Asian Cdn&Asian Migration St",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=BFA&specsubj=ACAM",
+            "specializations": [
+                {
+                    "code": "003358",
+                    "name": "Minor in Asian Canadian & Asian Migration Studies"
+                }
+            ]
+        },
+        {
+            "code": "AFST",
+            "name": "African Studies",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=BFA&specsubj=AFST",
+            "specializations": [
+                {
+                    "code": "003790",
+                    "name": "Minor in African Studies"
+                }
+            ]
+        },
+        {
+            "code": "AMNE",
+            "name": "AncientMed & Near East Studies",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=BFA&specsubj=AMNE",
+            "specializations": [
+                {
+                    "code": "003852",
+                    "name": "Minor Ancient Mediterranean & Near Eastern Studies"
+                }
+            ]
+        },
+        {
+            "code": "AMUT",
+            "name": "Applied Music Technology",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=BFA&specsubj=AMUT",
+            "specializations": [
+                {
+                    "code": "003511",
+                    "name": "Minor in Applied Music Technology"
+                }
+            ]
+        },
+        {
+            "code": "ANTH",
+            "name": "Anthropology",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=BFA&specsubj=ANTH",
+            "specializations": [
+                {
+                    "code": "001633",
+                    "name": "Major in Anthropology"
+                },
+                {
+                    "code": "001480",
+                    "name": "Minor in Anthropology"
+                }
+            ]
+        },
+        {
+            "code": "ARTH",
+            "name": "Art History & Visual Culture",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=BFA&specsubj=ARTH",
+            "specializations": [
+                {
+                    "code": "001609",
+                    "name": "Honours in Art History"
+                },
+                {
+                    "code": "001605",
+                    "name": "Minor in Art History"
+                },
+                {
+                    "code": "001220",
+                    "name": "Major in Art History"
+                }
+            ]
+        },
+        {
+            "code": "ASAS",
+            "name": "Asian Area Studies",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=BFA&specsubj=ASAS",
+            "specializations": [
+                {
+                    "code": "003245",
+                    "name": "Minor in Asian Area Studies"
+                },
+                {
+                    "code": "001607",
+                    "name": "Major in Asian Area Studies"
+                }
+            ]
+        },
+        {
+            "code": "ASLC",
+            "name": "Asian Language & Culture",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=BFA&specsubj=ASLC",
+            "specializations": [
+                {
+                    "code": "003197",
+                    "name": "Major in Asian Language and Culture (Japan)"
+                },
+                {
+                    "code": "003528",
+                    "name": "Minor in Asian Language and Culture (China)"
+                },
+                {
+                    "code": "003531",
+                    "name": "Minor in Asian Language and Culture (South Asia)"
+                },
+                {
+                    "code": "003530",
+                    "name": "Minor in Asian Language and Culture (Korea)"
+                },
+                {
+                    "code": "003529",
+                    "name": "Minor in Asian Language and Culture (Japan)"
+                }
+            ]
+        },
+        {
+            "code": "BIOL",
+            "name": "Biology",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=BFA&specsubj=BIOL",
+            "specializations": [
+                {
+                    "code": "003614",
+                    "name": "Minor in Biology"
+                }
+            ]
+        },
+        {
+            "code": "CNRS",
+            "name": "Class,N.Eastern & Relg.Studies",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=BFA&specsubj=CNRS",
+            "specializations": [
+                {
+                    "code": "003596",
+                    "name": "Minor Classical,Near Eastern and Religious Studies"
+                }
+            ]
+        },
+        {
+            "code": "COMM",
+            "name": "Commerce",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=BFA&specsubj=COMM",
+            "specializations": [
+                {
+                    "code": "001076",
+                    "name": "Minor in Commerce"
+                }
+            ]
+        },
+        {
+            "code": "CPSC",
+            "name": "Computer Science",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=BFA&specsubj=CPSC",
+            "specializations": [
+                {
+                    "code": "003595",
+                    "name": "Minor in Computer Science"
+                }
+            ]
+        },
+        {
+            "code": "CRWR",
+            "name": "Creative Writing",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=BFA&specsubj=CRWR",
+            "specializations": [
+                {
+                    "code": "000477",
+                    "name": "Honours in Creative Writing"
+                },
+                {
+                    "code": "003341",
+                    "name": "Minor in Creative Writing"
+                },
+                {
+                    "code": "000237",
+                    "name": "Major in Creative Writing"
+                }
+            ]
+        },
+        {
+            "code": "CSIS",
+            "name": "Critical Studies in Sexuality",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=BFA&specsubj=CSIS",
+            "specializations": [
+                {
+                    "code": "001707",
+                    "name": "Minor in Critical Studies in Sexuality"
+                }
+            ]
+        },
+        {
+            "code": "DSCI",
+            "name": "Data Science",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=BFA&specsubj=DSCI",
+            "specializations": [
+                {
+                    "code": "003760",
+                    "name": "Minor in Data Science"
+                }
+            ]
+        },
+        {
+            "code": "ECON",
+            "name": "Economics",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=BFA&specsubj=ECON",
+            "specializations": [
+                {
+                    "code": "003492",
+                    "name": "Minor In Economics"
+                },
+                {
+                    "code": "001368",
+                    "name": "Major in Economics"
+                }
+            ]
+        },
+        {
+            "code": "EDUC",
+            "name": "Education",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=BFA&specsubj=EDUC",
+            "specializations": [
+                {
+                    "code": "003324",
+                    "name": "Minor in Education, Early Childhood Education"
+                },
+                {
+                    "code": "003321",
+                    "name": "Minor in Education, Special Education"
+                },
+                {
+                    "code": "003541",
+                    "name": "Minor in Education, Language Learning and Teaching"
+                },
+                {
+                    "code": "003323",
+                    "name": "Minor in Education, Community, Adult & Higher Ed"
+                },
+                {
+                    "code": "003322",
+                    "name": "Minor in Education, Interpersonal Development"
+                }
+            ]
+        },
+        {
+            "code": "ENGL",
+            "name": "English",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=BFA&specsubj=ENGL",
+            "specializations": [
+                {
+                    "code": "001016",
+                    "name": "Major in English, Emphasis Literature"
+                },
+                {
+                    "code": "001636",
+                    "name": "Minor in English,Emphasis Language"
+                },
+                {
+                    "code": "001637",
+                    "name": "Minor in English,Emphasis Literature"
+                },
+                {
+                    "code": "003836",
+                    "name": "Minor in English, Teacher Education Preparation"
+                },
+                {
+                    "code": "003592",
+                    "name": "Major in English, Emphasis Language and Literature"
+                },
+                {
+                    "code": "001017",
+                    "name": "Major in English, Emphasis Language"
+                }
+            ]
+        },
+        {
+            "code": "ENSO",
+            "name": "Environment and Society",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=BFA&specsubj=ENSO",
+            "specializations": [
+                {
+                    "code": "003105",
+                    "name": "Minor in Environment and Society"
+                }
+            ]
+        },
+        {
+            "code": "ENVS",
+            "name": "Environment & Sustainability",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=BFA&specsubj=ENVS",
+            "specializations": [
+                {
+                    "code": "003857",
+                    "name": "Minor in Environment and Sustainability"
+                }
+            ]
+        },
+        {
+            "code": "FIPR",
+            "name": "Film Production",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=BFA&specsubj=FIPR",
+            "specializations": [
+                {
+                    "code": "001526",
+                    "name": "Major in Film Production"
+                }
+            ]
+        },
+        {
+            "code": "FIST",
+            "name": "Film Studies",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=BFA&specsubj=FIST",
+            "specializations": [
+                {
+                    "code": "003070",
+                    "name": "Major in Film Studies"
+                },
+                {
+                    "code": "001433",
+                    "name": "Minor in Film Studies"
+                }
+            ]
+        },
+        {
+            "code": "FNEL",
+            "name": "First Nations&Endangered Lang",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=BFA&specsubj=FNEL",
+            "specializations": [
+                {
+                    "code": "003600",
+                    "name": "Major in First Nations and Endangered Languages"
+                },
+                {
+                    "code": "003601",
+                    "name": "Minor in First Nations and Endangered Languages"
+                }
+            ]
+        },
+        {
+            "code": "FNIS",
+            "name": "First Nations&Indigenous Stud",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=BFA&specsubj=FNIS",
+            "specializations": [
+                {
+                    "code": "003394",
+                    "name": "Minor in First Nations and Indigenous Studies"
+                },
+                {
+                    "code": "003393",
+                    "name": "Major in First Nations and Indigenous Studies"
+                }
+            ]
+        },
+        {
+            "code": "FREL",
+            "name": "French Language",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=BFA&specsubj=FREL",
+            "specializations": [
+                {
+                    "code": "003728",
+                    "name": "Minor in French Language"
+                }
+            ]
+        },
+        {
+            "code": "FRLC",
+            "name": "French Lang, Lit and Cultures",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=BFA&specsubj=FRLC",
+            "specializations": [
+                {
+                    "code": "003734",
+                    "name": "Major in French Language, Literatures and Cultures"
+                },
+                {
+                    "code": "003739",
+                    "name": "Minor in French Language, Literatures and Cultures"
+                }
+            ]
+        },
+        {
+            "code": "GEOG",
+            "name": "Geography",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=BFA&specsubj=GEOG",
+            "specializations": [
+                {
+                    "code": "003202",
+                    "name": "Major in Geography (Human Geography)"
+                },
+                {
+                    "code": "003620",
+                    "name": "Minor Geography (Environment and Sustainability)"
+                },
+                {
+                    "code": "004470",
+                    "name": "Minor in Geography (Human Geography)"
+                }
+            ]
+        },
+        {
+            "code": "GERM",
+            "name": "German",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=BFA&specsubj=GERM",
+            "specializations": [
+                {
+                    "code": "001520",
+                    "name": "Minor in German"
+                },
+                {
+                    "code": "003113",
+                    "name": "Honours in German"
+                }
+            ]
+        },
+        {
+            "code": "GISG",
+            "name": "Geog Info Sci & Geog Comput",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=BFA&specsubj=GISG",
+            "specializations": [
+                {
+                    "code": "003679",
+                    "name": "Minor In Geog Info Science And Geog Computation"
+                }
+            ]
+        },
+        {
+            "code": "GMST",
+            "name": "Germanic Studies",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=BFA&specsubj=GMST",
+            "specializations": [
+                {
+                    "code": "003165",
+                    "name": "Minor in German Studies"
+                }
+            ]
+        },
+        {
+            "code": "GRSJ",
+            "name": "GenderRaceSexualitySocialJust",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=BFA&specsubj=GRSJ",
+            "specializations": [
+                {
+                    "code": "003594",
+                    "name": "Major in Gender, Race,Sexuality and Social Justice"
+                }
+            ]
+        },
+        {
+            "code": "HGEO",
+            "name": "Human Geography",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=BFA&specsubj=HGEO",
+            "specializations": [
+                {
+                    "code": "003862",
+                    "name": "Minor in Human Geography"
+                }
+            ]
+        },
+        {
+            "code": "HIST",
+            "name": "History",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=BFA&specsubj=HIST",
+            "specializations": [
+                {
+                    "code": "001327",
+                    "name": "Major in History"
+                },
+                {
+                    "code": "001612",
+                    "name": "Minor in History"
+                }
+            ]
+        },
+        {
+            "code": "INFO",
+            "name": "Informatics",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=BFA&specsubj=INFO",
+            "specializations": [
+                {
+                    "code": "003721",
+                    "name": "Minor in Informatics"
+                }
+            ]
+        },
+        {
+            "code": "INTR",
+            "name": "International Relations",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=BFA&specsubj=INTR",
+            "specializations": [
+                {
+                    "code": "001466",
+                    "name": "Major in International Relations"
+                },
+                {
+                    "code": "001490",
+                    "name": "Minor in International Relations"
+                }
+            ]
+        },
+        {
+            "code": "ITAL",
+            "name": "Italian",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=BFA&specsubj=ITAL",
+            "specializations": [
+                {
+                    "code": "003198",
+                    "name": "Minor in Italian"
+                }
+            ]
+        },
+        {
+            "code": "JWST",
+            "name": "Jewish Studies",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=BFA&specsubj=JWST",
+            "specializations": [
+                {
+                    "code": "003683",
+                    "name": "Minor in Jewish Studies"
+                }
+            ]
+        },
+        {
+            "code": "LASO",
+            "name": "Law and Society",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=BFA&specsubj=LASO",
+            "specializations": [
+                {
+                    "code": "003243",
+                    "name": "Minor in Law and Society"
+                }
+            ]
+        },
+        {
+            "code": "LING",
+            "name": "Linguistics",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=BFA&specsubj=LING",
+            "specializations": [
+                {
+                    "code": "001332",
+                    "name": "Minor in Linguistics"
+                }
+            ]
+        },
+        {
+            "code": "MDVL",
+            "name": "Medieval Studies",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=BFA&specsubj=MDVL",
+            "specializations": [
+                {
+                    "code": "001227",
+                    "name": "Minor in Medieval Studies"
+                }
+            ]
+        },
+        {
+            "code": "MES",
+            "name": "Middle East Studies",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=BFA&specsubj=MES",
+            "specializations": [
+                {
+                    "code": "003691",
+                    "name": "Minor in Middle East Studies"
+                }
+            ]
+        },
+        {
+            "code": "MUSC",
+            "name": "Music",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=BFA&specsubj=MUSC",
+            "specializations": [
+                {
+                    "code": "003359",
+                    "name": "Minor in Music"
+                },
+                {
+                    "code": "001647",
+                    "name": "Major in Music"
+                }
+            ]
+        },
+        {
+            "code": "PHIL",
+            "name": "Philosophy",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=BFA&specsubj=PHIL",
+            "specializations": [
+                {
+                    "code": "001720",
+                    "name": "Major in Philosophy"
+                },
+                {
+                    "code": "003211",
+                    "name": "Honours in Philosophy"
+                },
+                {
+                    "code": "001542",
+                    "name": "Minor in Philosophy"
+                }
+            ]
+        },
+        {
+            "code": "POLI",
+            "name": "Political Science",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=BFA&specsubj=POLI",
+            "specializations": [
+                {
+                    "code": "001581",
+                    "name": "Major in Political Science"
+                }
+            ]
+        },
+        {
+            "code": "PSYC",
+            "name": "Psychology",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=BFA&specsubj=PSYC",
+            "specializations": [
+                {
+                    "code": "001450",
+                    "name": "Minor in Psychology"
+                },
+                {
+                    "code": "001408",
+                    "name": "Major in Psychology"
+                }
+            ]
+        },
+        {
+            "code": "RGST",
+            "name": "Study of Religion",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=BFA&specsubj=RGST",
+            "specializations": [
+                {
+                    "code": "003726",
+                    "name": "Honours in the Study of Religion"
+                },
+                {
+                    "code": "003673",
+                    "name": "Minor in Study of Religion"
+                }
+            ]
+        },
+        {
+            "code": "RMST",
+            "name": "Romance Studies",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=BFA&specsubj=RMST",
+            "specializations": [
+                {
+                    "code": "003831",
+                    "name": "Minor in Romance Studies"
+                }
+            ]
+        },
+        {
+            "code": "SCAN",
+            "name": "Scandinavian",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=BFA&specsubj=SCAN",
+            "specializations": [
+                {
+                    "code": "003166",
+                    "name": "Minor in Scandinavian Studies"
+                }
+            ]
+        },
+        {
+            "code": "SCIE",
+            "name": "Science",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=BFA&specsubj=SCIE",
+            "specializations": [
+                {
+                    "code": "001077",
+                    "name": "Minor in Science"
+                }
+            ]
+        },
+        {
+            "code": "SOCI",
+            "name": "Sociology",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=BFA&specsubj=SOCI",
+            "specializations": [
+                {
+                    "code": "003203",
+                    "name": "Major in Sociology"
+                }
+            ]
+        },
+        {
+            "code": "SPAN",
+            "name": "Spanish",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=BFA&specsubj=SPAN",
+            "specializations": [
+                {
+                    "code": "001610",
+                    "name": "Minor in Spanish"
+                },
+                {
+                    "code": "003106",
+                    "name": "Major in Spanish"
+                }
+            ]
+        },
+        {
+            "code": "SPSC",
+            "name": "Speech Science",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=BFA&specsubj=SPSC",
+            "specializations": [
+                {
+                    "code": "003145",
+                    "name": "Major in Speech Sciences"
+                }
+            ]
+        },
+        {
+            "code": "THTR",
+            "name": "Theatre",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=BFA&specsubj=THTR",
+            "specializations": [
+                {
+                    "code": "000107",
+                    "name": "Major in Theatre (Design/Technical)"
+                },
+                {
+                    "code": "000168",
+                    "name": "Major in Theatre (Acting)"
+                },
+                {
+                    "code": "003708",
+                    "name": "Honours in Theatre"
+                },
+                {
+                    "code": "001642",
+                    "name": "Major in Theatre"
+                }
+            ]
+        },
+        {
+            "code": "VISA",
+            "name": "Visual Arts",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=BFA&specsubj=VISA",
+            "specializations": [
+                {
+                    "code": "001359",
+                    "name": "Honours in Visual Arts"
+                },
+                {
+                    "code": "001453",
+                    "name": "Major in Visual Arts"
+                },
+                {
+                    "code": "001546",
+                    "name": "Minor in Visual Arts"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,128 @@
+{
+    "code": "MFA",
+    "name": "Master of Fine Arts",
+    "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specprogram&tname=specprogram&dept=MFA",
+    "subjects": [
+        {
+            "code": "ARTH",
+            "name": "Art History & Visual Culture",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=MFA&specsubj=ARTH",
+            "specializations": [
+                {
+                    "code": "001803",
+                    "name": "In Art History"
+                }
+            ]
+        },
+        {
+            "code": "CCST",
+            "name": "Critical Curatorial Studies",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=MFA&specsubj=CCST",
+            "specializations": [
+                {
+                    "code": "001804",
+                    "name": "In Critical & Curatorial Studies"
+                }
+            ]
+        },
+        {
+            "code": "CRTH",
+            "name": "Creative Writing/Theatre",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=MFA&specsubj=CRTH",
+            "specializations": [
+                {
+                    "code": "000428",
+                    "name": "In Creative Writing and Theatre"
+                }
+            ]
+        },
+        {
+            "code": "CRWR",
+            "name": "Creative Writing",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=MFA&specsubj=CRWR",
+            "specializations": [
+                {
+                    "code": "000374",
+                    "name": "In Creative Writing"
+                }
+            ]
+        },
+        {
+            "code": "FINA",
+            "name": "Fine Arts",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=MFA&specsubj=FINA",
+            "specializations": [
+                {
+                    "code": "000454",
+                    "name": "In Fine Arts (Studio Art)"
+                }
+            ]
+        },
+        {
+            "code": "FIPR",
+            "name": "Film Production",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=MFA&specsubj=FIPR",
+            "specializations": [
+                {
+                    "code": "001597",
+                    "name": "In Film Production"
+                }
+            ]
+        },
+        {
+            "code": "FIST",
+            "name": "Film Studies",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=MFA&specsubj=FIST",
+            "specializations": [
+                {
+                    "code": "000760",
+                    "name": "In Film Studies"
+                }
+            ]
+        },
+        {
+            "code": "FPCW",
+            "name": "Film Production/Creative Writ",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=MFA&specsubj=FPCW",
+            "specializations": [
+                {
+                    "code": "003069",
+                    "name": "In Film Production and Creative Writing"
+                }
+            ]
+        },
+        {
+            "code": "THFI",
+            "name": "Theatre and Film",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=MFA&specsubj=THFI",
+            "specializations": [
+                {
+                    "code": "000694",
+                    "name": "In Theatre and Film"
+                }
+            ]
+        },
+        {
+            "code": "THTR",
+            "name": "Theatre",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=MFA&specsubj=THTR",
+            "specializations": [
+                {
+                    "code": "000411",
+                    "name": "In Theatre"
+                }
+            ]
+        },
+        {
+            "code": "VISA",
+            "name": "Visual Arts",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=MFA&specsubj=VISA",
+            "specializations": [
+                {
+                    "code": "001802",
+                    "name": "In Visual Arts"
+                }
+            ]
+        }
+    ]
+}

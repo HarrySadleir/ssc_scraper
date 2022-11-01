@@ -1,0 +1,337 @@
+{
+    "code": "MED",
+    "name": "Master of Education",
+    "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specprogram&tname=specprogram&dept=MED",
+    "subjects": [
+        {
+            "code": "ALE",
+            "name": "Adult Learning and Education",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=MED&specsubj=ALE",
+            "specializations": [
+                {
+                    "code": "003196",
+                    "name": "In Adult Learning and Education"
+                }
+            ]
+        },
+        {
+            "code": "ALGC",
+            "name": "Adult Learning & Global Change",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=MED&specsubj=ALGC",
+            "specializations": [
+                {
+                    "code": "001311",
+                    "name": "in Adult Learning and Global Change"
+                }
+            ]
+        },
+        {
+            "code": "ARTE",
+            "name": "Art Education",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=MED&specsubj=ARTE",
+            "specializations": [
+                {
+                    "code": "000111",
+                    "name": "In Art Education"
+                }
+            ]
+        },
+        {
+            "code": "CCFI",
+            "name": "Cross-Faculty Inquiry in Educ",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=MED&specsubj=CCFI",
+            "specializations": [
+                {
+                    "code": "001668",
+                    "name": "In Cross-Faculty Inquiry in Education"
+                }
+            ]
+        },
+        {
+            "code": "CNPS",
+            "name": "Counselling Psychology",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=MED&specsubj=CNPS",
+            "specializations": [
+                {
+                    "code": "000564",
+                    "name": "In Counselling Psychology"
+                }
+            ]
+        },
+        {
+            "code": "CULE",
+            "name": "Curriculum & Leadership",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=MED&specsubj=CULE",
+            "specializations": [
+                {
+                    "code": "003212",
+                    "name": "In Curriculum and Leadership"
+                }
+            ]
+        },
+        {
+            "code": "CUST",
+            "name": "Curriculum Studies",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=MED&specsubj=CUST",
+            "specializations": [
+                {
+                    "code": "000914",
+                    "name": "In Curriculum Studies"
+                }
+            ]
+        },
+        {
+            "code": "ECED",
+            "name": "Early Childhood Education",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=MED&specsubj=ECED",
+            "specializations": [
+                {
+                    "code": "000074",
+                    "name": "In Early Childhood Education"
+                }
+            ]
+        },
+        {
+            "code": "EDAL",
+            "name": "Educational Admin & Leadership",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=MED&specsubj=EDAL",
+            "specializations": [
+                {
+                    "code": "003223",
+                    "name": "In Educational Administration and Leadership"
+                }
+            ]
+        },
+        {
+            "code": "EDST",
+            "name": "Educational Studies",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=MED&specsubj=EDST",
+            "specializations": [
+                {
+                    "code": "000027",
+                    "name": "In Educational Studies"
+                }
+            ]
+        },
+        {
+            "code": "HCI",
+            "name": "Human Computer Interaction",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=MED&specsubj=HCI",
+            "specializations": [
+                {
+                    "code": "001504",
+                    "name": "Sub-Specialization in Human-Computer Interaction"
+                }
+            ]
+        },
+        {
+            "code": "HDLC",
+            "name": "Human Devl,Learning & Culture",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=MED&specsubj=HDLC",
+            "specializations": [
+                {
+                    "code": "001696",
+                    "name": "In Human Development, Learning and Culture"
+                }
+            ]
+        },
+        {
+            "code": "HIED",
+            "name": "Higher Education",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=MED&specsubj=HIED",
+            "specializations": [
+                {
+                    "code": "000228",
+                    "name": "In Higher Education"
+                }
+            ]
+        },
+        {
+            "code": "HMED",
+            "name": "Home Economics Education",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=MED&specsubj=HMED",
+            "specializations": [
+                {
+                    "code": "000178",
+                    "name": "In Home Economics Education"
+                }
+            ]
+        },
+        {
+            "code": "HOPE",
+            "name": "Health,Outdoor & Physical Educ",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=MED&specsubj=HOPE",
+            "specializations": [
+                {
+                    "code": "003613",
+                    "name": "In Health, Outdoor and Physical Education"
+                }
+            ]
+        },
+        {
+            "code": "IEDU",
+            "name": "Indigenous Education",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=MED&specsubj=IEDU",
+            "specializations": [
+                {
+                    "code": "003780",
+                    "name": "In Indigenous Education"
+                }
+            ]
+        },
+        {
+            "code": "LITR",
+            "name": "Literacy Education",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=MED&specsubj=LITR",
+            "specializations": [
+                {
+                    "code": "001362",
+                    "name": "In Literacy Education"
+                }
+            ]
+        },
+        {
+            "code": "MAED",
+            "name": "Mathematics Education",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=MED&specsubj=MAED",
+            "specializations": [
+                {
+                    "code": "000294",
+                    "name": "In Mathematics Education"
+                }
+            ]
+        },
+        {
+            "code": "MERM",
+            "name": "Measurement & Evaluation",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=MED&specsubj=MERM",
+            "specializations": [
+                {
+                    "code": "000540",
+                    "name": "In Measurement, Evaluation & Research Methodology"
+                }
+            ]
+        },
+        {
+            "code": "MLED",
+            "name": "Modern Languages Education",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=MED&specsubj=MLED",
+            "specializations": [
+                {
+                    "code": "000352",
+                    "name": "In Modern Languages Education"
+                }
+            ]
+        },
+        {
+            "code": "MTSE",
+            "name": "Media & Technology Studies Ed",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=MED&specsubj=MTSE",
+            "specializations": [
+                {
+                    "code": "003316",
+                    "name": "In Media and Technology Studies Education"
+                }
+            ]
+        },
+        {
+            "code": "MUED",
+            "name": "Music Education",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=MED&specsubj=MUED",
+            "specializations": [
+                {
+                    "code": "000169",
+                    "name": "In Music Education"
+                }
+            ]
+        },
+        {
+            "code": "SACP",
+            "name": "School & Applied Child Psych",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=MED&specsubj=SACP",
+            "specializations": [
+                {
+                    "code": "003650",
+                    "name": "In School and Applied Child Psychology"
+                }
+            ]
+        },
+        {
+            "code": "SCED",
+            "name": "Science Education",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=MED&specsubj=SCED",
+            "specializations": [
+                {
+                    "code": "000261",
+                    "name": "In Science Education"
+                }
+            ]
+        },
+        {
+            "code": "SCPE",
+            "name": "Society,Cultr & Politics in Ed",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=MED&specsubj=SCPE",
+            "specializations": [
+                {
+                    "code": "001465",
+                    "name": "In Society, Culture and Politics in Education"
+                }
+            ]
+        },
+        {
+            "code": "SCPS",
+            "name": "School Psychology",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=MED&specsubj=SCPS",
+            "specializations": [
+                {
+                    "code": "000123",
+                    "name": "In School Psychology"
+                }
+            ]
+        },
+        {
+            "code": "SPED",
+            "name": "Special Education",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=MED&specsubj=SPED",
+            "specializations": [
+                {
+                    "code": "000365",
+                    "name": "In Special Education"
+                }
+            ]
+        },
+        {
+            "code": "SSED",
+            "name": "Social Studies Education",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=MED&specsubj=SSED",
+            "specializations": [
+                {
+                    "code": "000513",
+                    "name": "In Social Studies Education"
+                }
+            ]
+        },
+        {
+            "code": "TESL",
+            "name": "Teaching Engl as a 2nd Lang",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=MED&specsubj=TESL",
+            "specializations": [
+                {
+                    "code": "001393",
+                    "name": "In Teaching English as a Second Language"
+                }
+            ]
+        },
+        {
+            "code": "TSED",
+            "name": "Technology Studies Education",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=MED&specsubj=TSED",
+            "specializations": [
+                {
+                    "code": "002994",
+                    "name": "In Technology Studies Education"
+                }
+            ]
+        }
+    ]
+}

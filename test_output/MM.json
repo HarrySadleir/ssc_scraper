@@ -1,0 +1,29 @@
+{
+    "code": "MM",
+    "name": "Master of Management",
+    "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specprogram&tname=specprogram&dept=MM",
+    "subjects": [
+        {
+            "code": "INTB",
+            "name": "International Business",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=MM&specsubj=INTB",
+            "specializations": [
+                {
+                    "code": "003385",
+                    "name": "International Business"
+                }
+            ]
+        },
+        {
+            "code": "OPRE",
+            "name": "Operations Research",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=MM&specsubj=OPRE",
+            "specializations": [
+                {
+                    "code": "001367",
+                    "name": "In Operations Research"
+                }
+            ]
+        }
+    ]
+}

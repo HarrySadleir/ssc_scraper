@@ -1,0 +1,205 @@
+{
+    "code": "LLBMBA",
+    "name": "Combined LL.B. & M.B.A.",
+    "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specprogram&tname=specprogram&dept=LLBMBA",
+    "subjects": [
+        {
+            "code": "ACSS",
+            "name": "Accounting Sub-Specialization",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=LLBMBA&specsubj=ACSS",
+            "specializations": [
+                {
+                    "code": "001932",
+                    "name": "Accounting Sub-Specialization"
+                }
+            ]
+        },
+        {
+            "code": "BISS",
+            "name": "Business Intell Syst SubSpec",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=LLBMBA&specsubj=BISS",
+            "specializations": [
+                {
+                    "code": "001933",
+                    "name": "Business Intelligence Systems Sub-Specialization"
+                }
+            ]
+        },
+        {
+            "code": "ENSS",
+            "name": "Entrepreneurship SubSpec",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=LLBMBA&specsubj=ENSS",
+            "specializations": [
+                {
+                    "code": "001934",
+                    "name": "Entrepreneurship Sub-Specialization"
+                }
+            ]
+        },
+        {
+            "code": "ENTP",
+            "name": "Entrepreneurship",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=LLBMBA&specsubj=ENTP",
+            "specializations": [
+                {
+                    "code": "001051",
+                    "name": "Entrepreneurship"
+                }
+            ]
+        },
+        {
+            "code": "FINC",
+            "name": "Finance",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=LLBMBA&specsubj=FINC",
+            "specializations": [
+                {
+                    "code": "001047",
+                    "name": "Finance"
+                }
+            ]
+        },
+        {
+            "code": "INTB",
+            "name": "International Business",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=LLBMBA&specsubj=INTB",
+            "specializations": [
+                {
+                    "code": "001946",
+                    "name": "International Business Sub-Specialization"
+                }
+            ]
+        },
+        {
+            "code": "INTM",
+            "name": "Information Tech & Management",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=LLBMBA&specsubj=INTM",
+            "specializations": [
+                {
+                    "code": "001056",
+                    "name": "Information Technology and Management"
+                }
+            ]
+        },
+        {
+            "code": "ITSS",
+            "name": "InfoTech Mgmt SubSpec",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=LLBMBA&specsubj=ITSS",
+            "specializations": [
+                {
+                    "code": "001935",
+                    "name": "Information Tech Management Sub-Specialization"
+                }
+            ]
+        },
+        {
+            "code": "MKSS",
+            "name": "Marketing SubSpec",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=LLBMBA&specsubj=MKSS",
+            "specializations": [
+                {
+                    "code": "001936",
+                    "name": "Marketing Sub-Specialization"
+                }
+            ]
+        },
+        {
+            "code": "MKTG",
+            "name": "Marketing",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=LLBMBA&specsubj=MKTG",
+            "specializations": [
+                {
+                    "code": "001058",
+                    "name": "Marketing"
+                }
+            ]
+        },
+        {
+            "code": "OBHR",
+            "name": "Org Behavior & HR",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=LLBMBA&specsubj=OBHR",
+            "specializations": [
+                {
+                    "code": "001945",
+                    "name": "Organizational Behaviour & Human Resources"
+                }
+            ]
+        },
+        {
+            "code": "OBSS",
+            "name": "OrgBeh&HR SubSpec",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=LLBMBA&specsubj=OBSS",
+            "specializations": [
+                {
+                    "code": "001937",
+                    "name": "Organizational Behaviour & HR Sub-Specialization"
+                }
+            ]
+        },
+        {
+            "code": "SBSS",
+            "name": "Sustainability & Bus SubSpec",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=LLBMBA&specsubj=SBSS",
+            "specializations": [
+                {
+                    "code": "001940",
+                    "name": "Sustainability and Business Sub-Specialization"
+                }
+            ]
+        },
+        {
+            "code": "SCMG",
+            "name": "Supply Chain Management",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=LLBMBA&specsubj=SCMG",
+            "specializations": [
+                {
+                    "code": "001062",
+                    "name": "Supply Chain Management"
+                }
+            ]
+        },
+        {
+            "code": "SCSS",
+            "name": "Supply Chain Mgmt SubSpec",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=LLBMBA&specsubj=SCSS",
+            "specializations": [
+                {
+                    "code": "001939",
+                    "name": "Supply Chain Management Sub-Specialization"
+                }
+            ]
+        },
+        {
+            "code": "STMG",
+            "name": "Strategic Management",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=LLBMBA&specsubj=STMG",
+            "specializations": [
+                {
+                    "code": "001061",
+                    "name": "Strategic Management"
+                }
+            ]
+        },
+        {
+            "code": "STSS",
+            "name": "Strategic Mgmt SubSpec",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=LLBMBA&specsubj=STSS",
+            "specializations": [
+                {
+                    "code": "001938",
+                    "name": "Strategic Management Sub-Specialization"
+                }
+            ]
+        },
+        {
+            "code": "SUBU",
+            "name": "Sustainability & Business",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=LLBMBA&specsubj=SUBU",
+            "specializations": [
+                {
+                    "code": "001931",
+                    "name": "Sustainability and Business"
+                }
+            ]
+        }
+    ]
+}

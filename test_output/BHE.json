@@ -1,0 +1,51 @@
+{
+    "code": "BHE",
+    "name": "Bachelor of Home Economics",
+    "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specprogram&tname=specprogram&dept=BHE",
+    "subjects": [
+        {
+            "code": "CMPR",
+            "name": "Comprehensive",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=BHE&specsubj=CMPR",
+            "specializations": [
+                {
+                    "code": "000885",
+                    "name": "Comprehensive"
+                }
+            ]
+        },
+        {
+            "code": "FCNU",
+            "name": "Family Cons Serv/Food & Nutri",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=BHE&specsubj=FCNU",
+            "specializations": [
+                {
+                    "code": "000890",
+                    "name": "Family Consumer Services, Food and Nutrition"
+                }
+            ]
+        },
+        {
+            "code": "FCTX",
+            "name": "Family cons serv clothing/text",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=BHE&specsubj=FCTX",
+            "specializations": [
+                {
+                    "code": "000888",
+                    "name": "Family Consumer Services, Clothing and Textiles"
+                }
+            ]
+        },
+        {
+            "code": "FLED",
+            "name": "Family Life Education",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=BHE&specsubj=FLED",
+            "specializations": [
+                {
+                    "code": "000893",
+                    "name": "Family Life Education"
+                }
+            ]
+        }
+    ]
+}

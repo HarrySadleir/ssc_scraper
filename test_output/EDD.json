@@ -1,0 +1,18 @@
+{
+    "code": "EDD",
+    "name": "Doctor of Education",
+    "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specprogram&tname=specprogram&dept=EDD",
+    "subjects": [
+        {
+            "code": "EDLP",
+            "name": "Educ.Leadership & Policy",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=EDD&specsubj=EDLP",
+            "specializations": [
+                {
+                    "code": "000985",
+                    "name": "In Educational Leadership & Policy"
+                }
+            ]
+        }
+    ]
+}

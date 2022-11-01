@@ -1,0 +1,52 @@
+{
+    "code": "BSF",
+    "name": "Bachelor of Science Forestry",
+    "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specprogram&tname=specprogram&dept=BSF",
+    "subjects": [
+        {
+            "code": "COMM",
+            "name": "Commerce",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=BSF&specsubj=COMM",
+            "specializations": [
+                {
+                    "code": "001522",
+                    "name": "Minor in Commerce"
+                }
+            ]
+        },
+        {
+            "code": "FOPR",
+            "name": "Forest Operations",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=BSF&specsubj=FOPR",
+            "specializations": [
+                {
+                    "code": "000593",
+                    "name": "Major in Forest Operations"
+                }
+            ]
+        },
+        {
+            "code": "FORM",
+            "name": "Forest Resources Management",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=BSF&specsubj=FORM",
+            "specializations": [
+                {
+                    "code": "000315",
+                    "name": "Major in Forest Resources Management"
+                },
+                {
+                    "code": "001032",
+                    "name": "Maj Forest Resource Mgmt, Internat. Forestry Conc"
+                },
+                {
+                    "code": "003131",
+                    "name": "Maj Forest Resource Mgmt, Comm. & Aboriginal"
+                },
+                {
+                    "code": "003130",
+                    "name": "Maj Forest Resource Mgmtj, Integrated Res. Mgmt"
+                }
+            ]
+        }
+    ]
+}

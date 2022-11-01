@@ -1,0 +1,108 @@
+{
+    "code": "BSCA",
+    "name": "Bachelor of Scie(Agriculture)",
+    "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specprogram&tname=specprogram&dept=BSCA",
+    "subjects": [
+        {
+            "code": "AGEC",
+            "name": "Agricultural Economics",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=BSCA&specsubj=AGEC",
+            "specializations": [
+                {
+                    "code": "000498",
+                    "name": "Major in Agricultural Economics"
+                }
+            ]
+        },
+        {
+            "code": "AGRE",
+            "name": "Agro-ecology",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=BSCA&specsubj=AGRE",
+            "specializations": [
+                {
+                    "code": "000735",
+                    "name": "Major in Agro-ecology"
+                }
+            ]
+        },
+        {
+            "code": "ANSC",
+            "name": "Animal Science",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=BSCA&specsubj=ANSC",
+            "specializations": [
+                {
+                    "code": "000135",
+                    "name": "Major in Animal Science, Wildlife Option"
+                },
+                {
+                    "code": "000155",
+                    "name": "Major in Animal Science, Fish Aquaculture Option"
+                },
+                {
+                    "code": "000499",
+                    "name": "Major in Animal Science, Livestock Option"
+                },
+                {
+                    "code": "000219",
+                    "name": "Major Animal Science, Rangeland Resources Option"
+                },
+                {
+                    "code": "000303",
+                    "name": "Major in Animal Science"
+                },
+                {
+                    "code": "000194",
+                    "name": "Major in Animal Science, Poultry Option"
+                }
+            ]
+        },
+        {
+            "code": "FOOD",
+            "name": "Food Science",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=BSCA&specsubj=FOOD",
+            "specializations": [
+                {
+                    "code": "000134",
+                    "name": "Major in Food Science"
+                }
+            ]
+        },
+        {
+            "code": "INRS",
+            "name": "International Resource Systems",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=BSCA&specsubj=INRS",
+            "specializations": [
+                {
+                    "code": "000912",
+                    "name": "Major in International Resource Systems"
+                }
+            ]
+        },
+        {
+            "code": "PLNT",
+            "name": "Plant Science",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=BSCA&specsubj=PLNT",
+            "specializations": [
+                {
+                    "code": "000537",
+                    "name": "Major in Plant Science"
+                },
+                {
+                    "code": "000410",
+                    "name": "Major in Plant Science, Rangeland Resources Option"
+                }
+            ]
+        },
+        {
+            "code": "SOIL",
+            "name": "Soil Science",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=BSCA&specsubj=SOIL",
+            "specializations": [
+                {
+                    "code": "000326",
+                    "name": "Major in Soil Science"
+                }
+            ]
+        }
+    ]
+}

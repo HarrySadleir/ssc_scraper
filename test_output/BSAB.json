@@ -1,0 +1,103 @@
+{
+    "code": "BSAB",
+    "name": "Bachelor of Science (APBI)",
+    "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specprogram&tname=specprogram&dept=BSAB",
+    "subjects": [
+        {
+            "code": "AABI",
+            "name": "Applied Animal Biology",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=BSAB&specsubj=AABI",
+            "specializations": [
+                {
+                    "code": "003065",
+                    "name": "Major in Applied Animal Biology"
+                },
+                {
+                    "code": "003239",
+                    "name": "Honours in Applied Animal Biology"
+                }
+            ]
+        },
+        {
+            "code": "ARTS",
+            "name": "Arts",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=BSAB&specsubj=ARTS",
+            "specializations": [
+                {
+                    "code": "003574",
+                    "name": "Minor in Arts"
+                }
+            ]
+        },
+        {
+            "code": "COMM",
+            "name": "Commerce",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=BSAB&specsubj=COMM",
+            "specializations": [
+                {
+                    "code": "003088",
+                    "name": "Minor in Commerce"
+                }
+            ]
+        },
+        {
+            "code": "FERM",
+            "name": "Fermentations",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=BSAB&specsubj=FERM",
+            "specializations": [
+                {
+                    "code": "003577",
+                    "name": "Minor in Fermentations"
+                }
+            ]
+        },
+        {
+            "code": "PSYC",
+            "name": "Psychology",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=BSAB&specsubj=PSYC",
+            "specializations": [
+                {
+                    "code": "003694",
+                    "name": "Minor in Psychology"
+                }
+            ]
+        },
+        {
+            "code": "SAGE",
+            "name": "Sustainable Agriculture&Enviro",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=BSAB&specsubj=SAGE",
+            "specializations": [
+                {
+                    "code": "003582",
+                    "name": "Honours Sustainable Agriculture and Environment"
+                },
+                {
+                    "code": "003581",
+                    "name": "Major in Sustainable Agriculture and Environment"
+                }
+            ]
+        },
+        {
+            "code": "SCIE",
+            "name": "Science",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=BSAB&specsubj=SCIE",
+            "specializations": [
+                {
+                    "code": "003247",
+                    "name": "Minor in Science"
+                }
+            ]
+        },
+        {
+            "code": "SFS",
+            "name": "Sustainable Food Systems",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=BSAB&specsubj=SFS",
+            "specializations": [
+                {
+                    "code": "003607",
+                    "name": "Minor in Sustainable Food Systems"
+                }
+            ]
+        }
+    ]
+}

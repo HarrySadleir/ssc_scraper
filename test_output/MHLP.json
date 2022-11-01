@@ -1,0 +1,18 @@
+{
+    "code": "MHLP",
+    "name": "Master of HealthLeadership&Pol",
+    "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specprogram&tname=specprogram&dept=MHLP",
+    "subjects": [
+        {
+            "code": "CLED",
+            "name": "Clinical Education",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=MHLP&specsubj=CLED",
+            "specializations": [
+                {
+                    "code": "003422",
+                    "name": "In Clinical Education"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "code": "BUF",
+    "name": "Bachelor of Urban Forestry",
+    "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specprogram&tname=specprogram&dept=BUF",
+    "subjects": [
+        {
+            "code": "LSRP",
+            "name": "Landscape&RecPlanning",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=BUF&specsubj=LSRP",
+            "specializations": [
+                {
+                    "code": "003373",
+                    "name": "Minor in Landscape and Recreation Planning"
+                }
+            ]
+        },
+        {
+            "code": "UGSM",
+            "name": "Urban Greenspace Management",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=BUF&specsubj=UGSM",
+            "specializations": [
+                {
+                    "code": "003372",
+                    "name": "Minor in Urban Greenspace Management"
+                }
+            ]
+        }
+    ]
+}

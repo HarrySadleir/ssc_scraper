@@ -1,0 +1,18 @@
+{
+    "code": "BEST",
+    "name": "Bachelor of Science (F B Sc T)",
+    "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specprogram&tname=specprogram&dept=BEST",
+    "subjects": [
+        {
+            "code": "COMM",
+            "name": "Commerce",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=BEST&specsubj=COMM",
+            "specializations": [
+                {
+                    "code": "003763",
+                    "name": "Minor in Commerce"
+                }
+            ]
+        }
+    ]
+}

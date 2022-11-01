@@ -1,0 +1,128 @@
+{
+    "code": "MSCB",
+    "name": "Master of Scie(Business Admin)",
+    "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specprogram&tname=specprogram&dept=MSCB",
+    "subjects": [
+        {
+            "code": "FIAC",
+            "name": "Financial Accounting",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=MSCB&specsubj=FIAC",
+            "specializations": [
+                {
+                    "code": "000742",
+                    "name": "In Financial Accounting"
+                }
+            ]
+        },
+        {
+            "code": "FINC",
+            "name": "Finance",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=MSCB&specsubj=FINC",
+            "specializations": [
+                {
+                    "code": "001099",
+                    "name": "In Finance"
+                }
+            ]
+        },
+        {
+            "code": "INTB",
+            "name": "International Business",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=MSCB&specsubj=INTB",
+            "specializations": [
+                {
+                    "code": "001015",
+                    "name": "In International Business"
+                }
+            ]
+        },
+        {
+            "code": "MAAC",
+            "name": "Managerial Accounting",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=MSCB&specsubj=MAAC",
+            "specializations": [
+                {
+                    "code": "000731",
+                    "name": "In Managerial Accounting"
+                }
+            ]
+        },
+        {
+            "code": "MGSC",
+            "name": "Management Science",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=MSCB&specsubj=MGSC",
+            "specializations": [
+                {
+                    "code": "000642",
+                    "name": "In Management Science"
+                }
+            ]
+        },
+        {
+            "code": "MIS",
+            "name": "Management Info Systems",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=MSCB&specsubj=MIS",
+            "specializations": [
+                {
+                    "code": "000829",
+                    "name": "In Management Information Systems"
+                }
+            ]
+        },
+        {
+            "code": "MKTG",
+            "name": "Marketing",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=MSCB&specsubj=MKTG",
+            "specializations": [
+                {
+                    "code": "001166",
+                    "name": "In Marketing"
+                }
+            ]
+        },
+        {
+            "code": "ORBE",
+            "name": "Organizational Behavior",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=MSCB&specsubj=ORBE",
+            "specializations": [
+                {
+                    "code": "000871",
+                    "name": "In Organizational Behavior"
+                }
+            ]
+        },
+        {
+            "code": "POLY",
+            "name": "Policy",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=MSCB&specsubj=POLY",
+            "specializations": [
+                {
+                    "code": "000047",
+                    "name": "In Policy"
+                }
+            ]
+        },
+        {
+            "code": "TLOG",
+            "name": "Transportation & Logistics",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=MSCB&specsubj=TLOG",
+            "specializations": [
+                {
+                    "code": "001131",
+                    "name": "In Transportation and Logistics"
+                }
+            ]
+        },
+        {
+            "code": "UREC",
+            "name": "Urban Land Economics",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=MSCB&specsubj=UREC",
+            "specializations": [
+                {
+                    "code": "000934",
+                    "name": "In Urban Land Economics"
+                }
+            ]
+        }
+    ]
+}

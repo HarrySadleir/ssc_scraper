@@ -1,0 +1,132 @@
+{
+    "code": "BSFN",
+    "name": "Bachelor of Scie (FNH)",
+    "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specprogram&tname=specprogram&dept=BSFN",
+    "subjects": [
+        {
+            "code": "ARTS",
+            "name": "Arts",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=BSFN&specsubj=ARTS",
+            "specializations": [
+                {
+                    "code": "003575",
+                    "name": "Minor in Arts"
+                }
+            ]
+        },
+        {
+            "code": "COMM",
+            "name": "Commerce",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=BSFN&specsubj=COMM",
+            "specializations": [
+                {
+                    "code": "003089",
+                    "name": "Minor in Commerce"
+                }
+            ]
+        },
+        {
+            "code": "DIET",
+            "name": "Dietetics",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=BSFN&specsubj=DIET",
+            "specializations": [
+                {
+                    "code": "001174",
+                    "name": "Major in Dietetics"
+                }
+            ]
+        },
+        {
+            "code": "FERM",
+            "name": "Fermentations",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=BSFN&specsubj=FERM",
+            "specializations": [
+                {
+                    "code": "003578",
+                    "name": "Minor in Fermentations"
+                }
+            ]
+        },
+        {
+            "code": "FNSC",
+            "name": "Food & Nutr Sciences",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=BSFN&specsubj=FNSC",
+            "specializations": [
+                {
+                    "code": "001177",
+                    "name": "Major in Food and Nutritional Sciences"
+                }
+            ]
+        },
+        {
+            "code": "FNUH",
+            "name": "Food, Nutrition & Health",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=BSFN&specsubj=FNUH",
+            "specializations": [
+                {
+                    "code": "001616",
+                    "name": "Major in Food, Nutrition and Health"
+                }
+            ]
+        },
+        {
+            "code": "FOOD",
+            "name": "Food Science",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=BSFN&specsubj=FOOD",
+            "specializations": [
+                {
+                    "code": "001176",
+                    "name": "Major in Food Science"
+                },
+                {
+                    "code": "001275",
+                    "name": "Concentration in Food Science"
+                }
+            ]
+        },
+        {
+            "code": "KIN",
+            "name": "Kinesiology",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=BSFN&specsubj=KIN",
+            "specializations": [
+                {
+                    "code": "003184",
+                    "name": "Minor in Kinesiology"
+                }
+            ]
+        },
+        {
+            "code": "NUSC",
+            "name": "Nutritional Sciences",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=BSFN&specsubj=NUSC",
+            "specializations": [
+                {
+                    "code": "001178",
+                    "name": "Major in Nutritional Sciences"
+                }
+            ]
+        },
+        {
+            "code": "SCIE",
+            "name": "Science",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=BSFN&specsubj=SCIE",
+            "specializations": [
+                {
+                    "code": "003248",
+                    "name": "Minor in Science"
+                }
+            ]
+        },
+        {
+            "code": "SFS",
+            "name": "Sustainable Food Systems",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=BSFN&specsubj=SFS",
+            "specializations": [
+                {
+                    "code": "003609",
+                    "name": "Minor in Sustainable Food Systems"
+                }
+            ]
+        }
+    ]
+}

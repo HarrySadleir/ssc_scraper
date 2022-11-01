@@ -1,0 +1,29 @@
+{
+    "code": "MASLIS",
+    "name": "Combined M.A.S. & M.L.I.S.",
+    "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specprogram&tname=specprogram&dept=MASLIS",
+    "subjects": [
+        {
+            "code": "COOP",
+            "name": "Co-operative Education",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=MASLIS&specsubj=COOP",
+            "specializations": [
+                {
+                    "code": "004230",
+                    "name": "Co-Operative Education Program"
+                }
+            ]
+        },
+        {
+            "code": "FNAT",
+            "name": "First Nations Studies",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=MASLIS&specsubj=FNAT",
+            "specializations": [
+                {
+                    "code": "001318",
+                    "name": "Concentration First Nations"
+                }
+            ]
+        }
+    ]
+}

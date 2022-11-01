@@ -1,0 +1,40 @@
+{
+    "code": "MLIS",
+    "name": "Master of Library & Info Stud",
+    "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specprogram&tname=specprogram&dept=MLIS",
+    "subjects": [
+        {
+            "code": "COOP",
+            "name": "Co-operative Education",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=MLIS&specsubj=COOP",
+            "specializations": [
+                {
+                    "code": "004228",
+                    "name": "Co-Operative Education Program"
+                }
+            ]
+        },
+        {
+            "code": "FNAT",
+            "name": "First Nations Studies",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=MLIS&specsubj=FNAT",
+            "specializations": [
+                {
+                    "code": "001050",
+                    "name": "Concentration First Nations"
+                }
+            ]
+        },
+        {
+            "code": "HCI",
+            "name": "Human Computer Interaction",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=MLIS&specsubj=HCI",
+            "specializations": [
+                {
+                    "code": "003256",
+                    "name": "Sub-Specialization in Human-Computer Interaction"
+                }
+            ]
+        }
+    ]
+}

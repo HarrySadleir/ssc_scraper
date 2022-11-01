@@ -1,0 +1,51 @@
+{
+    "code": "BSFE",
+    "name": "Bachelor of Science (FRE)",
+    "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specprogram&tname=specprogram&dept=BSFE",
+    "subjects": [
+        {
+            "code": "ARTS",
+            "name": "Arts",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=BSFE&specsubj=ARTS",
+            "specializations": [
+                {
+                    "code": "003627",
+                    "name": "Minor in Arts"
+                }
+            ]
+        },
+        {
+            "code": "FERM",
+            "name": "Fermentations",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=BSFE&specsubj=FERM",
+            "specializations": [
+                {
+                    "code": "003628",
+                    "name": "Minor in Fermentations"
+                }
+            ]
+        },
+        {
+            "code": "SCIE",
+            "name": "Science",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=BSFE&specsubj=SCIE",
+            "specializations": [
+                {
+                    "code": "003629",
+                    "name": "Minor in Science"
+                }
+            ]
+        },
+        {
+            "code": "SFS",
+            "name": "Sustainable Food Systems",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=BSFE&specsubj=SFS",
+            "specializations": [
+                {
+                    "code": "003608",
+                    "name": "Minor in Sustainable Food Systems"
+                }
+            ]
+        }
+    ]
+}

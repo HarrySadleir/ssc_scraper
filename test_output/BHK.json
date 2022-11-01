@@ -1,0 +1,84 @@
+{
+    "code": "BHK",
+    "name": "Bachelor of Human Kinetics",
+    "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specprogram&tname=specprogram&dept=BHK",
+    "subjects": [
+        {
+            "code": "ARTS",
+            "name": "Arts",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=BHK&specsubj=ARTS",
+            "specializations": [
+                {
+                    "code": "001222",
+                    "name": "Minor in Arts"
+                }
+            ]
+        },
+        {
+            "code": "COMM",
+            "name": "Commerce",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=BHK&specsubj=COMM",
+            "specializations": [
+                {
+                    "code": "001149",
+                    "name": "Minor in Commerce"
+                }
+            ]
+        },
+        {
+            "code": "IDHK",
+            "name": "Interdisciplinary Studies",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=BHK&specsubj=IDHK",
+            "specializations": [
+                {
+                    "code": "001515",
+                    "name": "Interdisciplinary Studies Option"
+                }
+            ]
+        },
+        {
+            "code": "KINH",
+            "name": "Kinesiology & Health Science",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=BHK&specsubj=KINH",
+            "specializations": [
+                {
+                    "code": "001513",
+                    "name": "Kinesiology & Health Science Option"
+                }
+            ]
+        },
+        {
+            "code": "NUSC",
+            "name": "Nutritional Sciences",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=BHK&specsubj=NUSC",
+            "specializations": [
+                {
+                    "code": "001602",
+                    "name": "Minor in Nutritional Science"
+                }
+            ]
+        },
+        {
+            "code": "PEDH",
+            "name": "Physical & Health Education",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=BHK&specsubj=PEDH",
+            "specializations": [
+                {
+                    "code": "001514",
+                    "name": "Physical & Health Education Option"
+                }
+            ]
+        },
+        {
+            "code": "SCIE",
+            "name": "Science",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=BHK&specsubj=SCIE",
+            "specializations": [
+                {
+                    "code": "001221",
+                    "name": "Minor in Science"
+                }
+            ]
+        }
+    ]
+}

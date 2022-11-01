@@ -1,0 +1,18 @@
+{
+    "code": "MSN",
+    "name": "Master of Science in Nursing",
+    "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specprogram&tname=specprogram&dept=MSN",
+    "subjects": [
+        {
+            "code": "NPRF",
+            "name": "Nurse Practitioner (Family)",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=MSN&specsubj=NPRF",
+            "specializations": [
+                {
+                    "code": "001639",
+                    "name": "Nurse Practitioner (Family) Option"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "code": "EMBA",
+    "name": "Executive MBA",
+    "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specprogram&tname=specprogram&dept=EMBA",
+    "subjects": [
+        {
+            "code": "HECA",
+            "name": "Healthcare Management",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=EMBA&specsubj=HECA",
+            "specializations": [
+                {
+                    "code": "001812",
+                    "name": "In Healthcare Management"
+                }
+            ]
+        }
+    ]
+}

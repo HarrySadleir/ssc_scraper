@@ -1,0 +1,18 @@
+{
+    "code": "DPDT",
+    "name": "Diploma in Periodontics",
+    "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specprogram&tname=specprogram&dept=DPDT",
+    "subjects": [
+        {
+            "code": "PDNT",
+            "name": "Peridontics",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=DPDT&specsubj=PDNT",
+            "specializations": [
+                {
+                    "code": "001128",
+                    "name": "In Periodontics"
+                }
+            ]
+        }
+    ]
+}

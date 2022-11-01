@@ -1,0 +1,275 @@
+{
+    "code": "JDMBA",
+    "name": "Combined J.D. & M.B.A.",
+    "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specprogram&tname=specprogram&dept=JDMBA",
+    "subjects": [
+        {
+            "code": "ACSS",
+            "name": "Accounting Sub-Specialization",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=JDMBA&specsubj=ACSS",
+            "specializations": [
+                {
+                    "code": "001992",
+                    "name": "Accounting Sub-Specialization"
+                }
+            ]
+        },
+        {
+            "code": "BISS",
+            "name": "Business Intell Syst SubSpec",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=JDMBA&specsubj=BISS",
+            "specializations": [
+                {
+                    "code": "001993",
+                    "name": "Business Intelligence Systems Sub-Specialization"
+                }
+            ]
+        },
+        {
+            "code": "ENIB",
+            "name": "Entrepreneurship & Intl. Bus",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=JDMBA&specsubj=ENIB",
+            "specializations": [
+                {
+                    "code": "001980",
+                    "name": "Entrepreneurship and International Business"
+                }
+            ]
+        },
+        {
+            "code": "ENSS",
+            "name": "Entrepreneurship SubSpec",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=JDMBA&specsubj=ENSS",
+            "specializations": [
+                {
+                    "code": "001994",
+                    "name": "Entrepreneurship Sub-Specialization"
+                }
+            ]
+        },
+        {
+            "code": "ENTP",
+            "name": "Entrepreneurship",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=JDMBA&specsubj=ENTP",
+            "specializations": [
+                {
+                    "code": "001979",
+                    "name": "Entrepreneurship"
+                }
+            ]
+        },
+        {
+            "code": "FIIB",
+            "name": "Finance & Internat. Business",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=JDMBA&specsubj=FIIB",
+            "specializations": [
+                {
+                    "code": "001981",
+                    "name": "Finance and International Business"
+                }
+            ]
+        },
+        {
+            "code": "FINC",
+            "name": "Finance",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=JDMBA&specsubj=FINC",
+            "specializations": [
+                {
+                    "code": "001978",
+                    "name": "Finance"
+                }
+            ]
+        },
+        {
+            "code": "INTB",
+            "name": "International Business",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=JDMBA&specsubj=INTB",
+            "specializations": [
+                {
+                    "code": "002009",
+                    "name": "International Business Sub-Specialization"
+                },
+                {
+                    "code": "001984",
+                    "name": "International Business"
+                }
+            ]
+        },
+        {
+            "code": "INTM",
+            "name": "Information Tech & Management",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=JDMBA&specsubj=INTM",
+            "specializations": [
+                {
+                    "code": "001983",
+                    "name": "Information Technology and Management"
+                }
+            ]
+        },
+        {
+            "code": "ITIB",
+            "name": "Inf.Technol & Intl Business",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=JDMBA&specsubj=ITIB",
+            "specializations": [
+                {
+                    "code": "001982",
+                    "name": "Information Technology and International Business"
+                }
+            ]
+        },
+        {
+            "code": "ITSS",
+            "name": "InfoTech Mgmt SubSpec",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=JDMBA&specsubj=ITSS",
+            "specializations": [
+                {
+                    "code": "001995",
+                    "name": "Information Technology Management Sub-Spec"
+                }
+            ]
+        },
+        {
+            "code": "MKIB",
+            "name": "Marketing & Intl.Business",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=JDMBA&specsubj=MKIB",
+            "specializations": [
+                {
+                    "code": "001986",
+                    "name": "Marketing and International Business"
+                }
+            ]
+        },
+        {
+            "code": "MKSS",
+            "name": "Marketing SubSpec",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=JDMBA&specsubj=MKSS",
+            "specializations": [
+                {
+                    "code": "001996",
+                    "name": "Marketing Sub-Specialization"
+                }
+            ]
+        },
+        {
+            "code": "MKTG",
+            "name": "Marketing",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=JDMBA&specsubj=MKTG",
+            "specializations": [
+                {
+                    "code": "001985",
+                    "name": "Marketing"
+                }
+            ]
+        },
+        {
+            "code": "OBHR",
+            "name": "Org Behavior & HR",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=JDMBA&specsubj=OBHR",
+            "specializations": [
+                {
+                    "code": "002008",
+                    "name": "Organization Behaviour and Human Resources"
+                }
+            ]
+        },
+        {
+            "code": "OBSS",
+            "name": "OrgBeh&HR SubSpec",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=JDMBA&specsubj=OBSS",
+            "specializations": [
+                {
+                    "code": "001997",
+                    "name": "Organizational Behaviour & Human Resources SubSpec"
+                }
+            ]
+        },
+        {
+            "code": "SBSS",
+            "name": "Sustainability & Bus SubSpec",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=JDMBA&specsubj=SBSS",
+            "specializations": [
+                {
+                    "code": "002007",
+                    "name": "Sustainability and Business Sub-Specialization"
+                }
+            ]
+        },
+        {
+            "code": "SCIB",
+            "name": "Supply Chain Mgmt. & Intl. Bus",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=JDMBA&specsubj=SCIB",
+            "specializations": [
+                {
+                    "code": "001990",
+                    "name": "Supply Chain Management and International Business"
+                }
+            ]
+        },
+        {
+            "code": "SCMG",
+            "name": "Supply Chain Management",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=JDMBA&specsubj=SCMG",
+            "specializations": [
+                {
+                    "code": "001989",
+                    "name": "Supply Chain Management"
+                }
+            ]
+        },
+        {
+            "code": "SCSS",
+            "name": "Supply Chain Mgmt SubSpec",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=JDMBA&specsubj=SCSS",
+            "specializations": [
+                {
+                    "code": "001999",
+                    "name": "Supply Chain Management Sub-Specialization"
+                }
+            ]
+        },
+        {
+            "code": "SMIB",
+            "name": "Strat. Mgmt. & Intl. Business",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=JDMBA&specsubj=SMIB",
+            "specializations": [
+                {
+                    "code": "001987",
+                    "name": "Strategic Management and International Business"
+                }
+            ]
+        },
+        {
+            "code": "STMG",
+            "name": "Strategic Management",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=JDMBA&specsubj=STMG",
+            "specializations": [
+                {
+                    "code": "001988",
+                    "name": "Strategic Management"
+                }
+            ]
+        },
+        {
+            "code": "STSS",
+            "name": "Strategic Mgmt SubSpec",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=JDMBA&specsubj=STSS",
+            "specializations": [
+                {
+                    "code": "001998",
+                    "name": "Strategic Management Sub-Specialization"
+                }
+            ]
+        },
+        {
+            "code": "SUBU",
+            "name": "Sustainability & Business",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=JDMBA&specsubj=SUBU",
+            "specializations": [
+                {
+                    "code": "001991",
+                    "name": "Sustainability and Business"
+                }
+            ]
+        }
+    ]
+}

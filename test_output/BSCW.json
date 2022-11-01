@@ -1,0 +1,33 @@
+{
+    "code": "BSCW",
+    "name": "Bach of Sci(Wood Prods Proc)",
+    "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specprogram&tname=specprogram&dept=BSCW",
+    "subjects": [
+        {
+            "code": "COMM",
+            "name": "Commerce",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=BSCW&specsubj=COMM",
+            "specializations": [
+                {
+                    "code": "001085",
+                    "name": "Minor in Commerce"
+                }
+            ]
+        },
+        {
+            "code": "WDPP",
+            "name": "Wood Products Processing",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=BSCW&specsubj=WDPP",
+            "specializations": [
+                {
+                    "code": "001084",
+                    "name": ""
+                },
+                {
+                    "code": "001012",
+                    "name": "In Co-operative Education Option"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "code": "BASMEN",
+    "name": "Combined BASC & MENG",
+    "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specprogram&tname=specprogram&dept=BASMEN",
+    "subjects": [
+        {
+            "code": "EMEC",
+            "name": "Electro-Mechanical Design Eng",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=BASMEN&specsubj=EMEC",
+            "specializations": [
+                {
+                    "code": "000924",
+                    "name": "In Mechanical Engineering"
+                }
+            ]
+        }
+    ]
+}

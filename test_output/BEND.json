@@ -1,0 +1,18 @@
+{
+    "code": "BEND",
+    "name": "Bachelor of Environmental Des.",
+    "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specprogram&tname=specprogram&dept=BEND",
+    "subjects": [
+        {
+            "code": "ARTS",
+            "name": "Arts",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=BEND&specsubj=ARTS",
+            "specializations": [
+                {
+                    "code": "003509",
+                    "name": "Minor in Arts"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,1131 @@
+{
+    "code": "BSC",
+    "name": "Bachelor of Science",
+    "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specprogram&tname=specprogram&dept=BSC",
+    "subjects": [
+        {
+            "code": "ARTS",
+            "name": "Arts",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=BSC&specsubj=ARTS",
+            "specializations": [
+                {
+                    "code": "000697",
+                    "name": "Minor in Arts"
+                }
+            ]
+        },
+        {
+            "code": "ASTR",
+            "name": "Astronomy",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=BSC&specsubj=ASTR",
+            "specializations": [
+                {
+                    "code": "003192",
+                    "name": "Minor in Astronomy"
+                },
+                {
+                    "code": "000030",
+                    "name": "Major in Astronomy"
+                },
+                {
+                    "code": "000009",
+                    "name": "Combined Honours in Physics and Astronomy"
+                }
+            ]
+        },
+        {
+            "code": "ATSC",
+            "name": "Atmospheric Science",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=BSC&specsubj=ATSC",
+            "specializations": [
+                {
+                    "code": "000167",
+                    "name": "Major in Atmospheric Science"
+                },
+                {
+                    "code": "000429",
+                    "name": "Honours in Atmospheric Science"
+                },
+                {
+                    "code": "001372",
+                    "name": "Combined Honours Atmospheric Science&Computer Scie"
+                },
+                {
+                    "code": "001390",
+                    "name": "Combined Major Computer Science & Atmospheric Sc"
+                }
+            ]
+        },
+        {
+            "code": "BIOC",
+            "name": "Biochemistry",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=BSC&specsubj=BIOC",
+            "specializations": [
+                {
+                    "code": "000186",
+                    "name": "Honours in Biochemistry"
+                },
+                {
+                    "code": "000244",
+                    "name": "Major in Biochemistry"
+                },
+                {
+                    "code": "000565",
+                    "name": "Combined Honours in Biochemistry and Chemistry"
+                },
+                {
+                    "code": "003382",
+                    "name": "Combined Major in Biochemistry and Chemistry"
+                }
+            ]
+        },
+        {
+            "code": "BIOL",
+            "name": "Biology",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=BSC&specsubj=BIOL",
+            "specializations": [
+                {
+                    "code": "001460",
+                    "name": "Combined Honours in Biology and Computer Science"
+                },
+                {
+                    "code": "000305",
+                    "name": "Major in Biology, Plant Biology Option"
+                },
+                {
+                    "code": "000983",
+                    "name": "Honours in Biology, Evolutionary Biology Option"
+                },
+                {
+                    "code": "003194",
+                    "name": "Honours in Biology"
+                },
+                {
+                    "code": "003095",
+                    "name": "Major in Biology"
+                },
+                {
+                    "code": "000583",
+                    "name": "Honours in Biology, Conservation Biology Option"
+                },
+                {
+                    "code": "000248",
+                    "name": "Major in Biology, Marine Biology Option"
+                },
+                {
+                    "code": "000289",
+                    "name": "Major in Biology, Ecology Option"
+                },
+                {
+                    "code": "000405",
+                    "name": "Honours Biology, Cell and Developmental Biol Opt"
+                },
+                {
+                    "code": "000372",
+                    "name": "Honours in Biology, Plant Biology Option"
+                },
+                {
+                    "code": "000415",
+                    "name": "Honours in Biology, Genetics Option"
+                },
+                {
+                    "code": "000045",
+                    "name": "Honours in Biology, Ecology Option"
+                },
+                {
+                    "code": "000054",
+                    "name": "Honours in Biology, Animal Biology Option"
+                },
+                {
+                    "code": "000518",
+                    "name": "Honours in Biology, Marine Biology Option"
+                },
+                {
+                    "code": "000572",
+                    "name": "Major in Biology, General Biology Option"
+                },
+                {
+                    "code": "000149",
+                    "name": "Major in Biology, Animal Biology Option"
+                },
+                {
+                    "code": "000582",
+                    "name": "Major in Biology, Conservation Biology Option"
+                },
+                {
+                    "code": "001013",
+                    "name": "Honours in Biology, Applied Plant Biology Option"
+                },
+                {
+                    "code": "000633",
+                    "name": "Major in Biology, Cell Biology and Genetics Option"
+                },
+                {
+                    "code": "001370",
+                    "name": "Combined Major in Computer Science and Biology"
+                },
+                {
+                    "code": "000775",
+                    "name": "Combined Honours in Geology and Biology"
+                },
+                {
+                    "code": "003125",
+                    "name": "Combined Major in Oceanography and Biology"
+                },
+                {
+                    "code": "000535",
+                    "name": "Combined Honours in Oceanography and Biology"
+                }
+            ]
+        },
+        {
+            "code": "BIOP",
+            "name": "Biophysics",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=BSC&specsubj=BIOP",
+            "specializations": [
+                {
+                    "code": "003676",
+                    "name": "Combined Honours in Biophysics"
+                }
+            ]
+        },
+        {
+            "code": "BIOT",
+            "name": "Biotechnology",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=BSC&specsubj=BIOT",
+            "specializations": [
+                {
+                    "code": "001136",
+                    "name": "Honours in Biotechnology"
+                }
+            ]
+        },
+        {
+            "code": "CAPS",
+            "name": "Cell, Anatomical & Physiol Sci",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=BSC&specsubj=CAPS",
+            "specializations": [
+                {
+                    "code": "003221",
+                    "name": "Honours Cell, Anatomical & Physiological Sciences"
+                }
+            ]
+        },
+        {
+            "code": "CGBI",
+            "name": "Cell Biol and Genetics",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=BSC&specsubj=CGBI",
+            "specializations": [
+                {
+                    "code": "000633",
+                    "name": "Major in Biology, Cell Biology and Genetics Option"
+                }
+            ]
+        },
+        {
+            "code": "CHEB",
+            "name": "Chemical Biology",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=BSC&specsubj=CHEB",
+            "specializations": [
+                {
+                    "code": "003132",
+                    "name": "Combined Honours in Chemical Biology"
+                },
+                {
+                    "code": "003340",
+                    "name": "Combined Major in Chemical Biology"
+                }
+            ]
+        },
+        {
+            "code": "CHEM",
+            "name": "Chemistry",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=BSC&specsubj=CHEM",
+            "specializations": [
+                {
+                    "code": "003382",
+                    "name": "Combined Major in Biochemistry and Chemistry"
+                },
+                {
+                    "code": "000565",
+                    "name": "Combined Honours in Biochemistry and Chemistry"
+                },
+                {
+                    "code": "001378",
+                    "name": "Honours in Chemistry, Materials Chemistry Option"
+                },
+                {
+                    "code": "000409",
+                    "name": "Major in Chemistry"
+                },
+                {
+                    "code": "000206",
+                    "name": "Combined Honours in Chemistry and Mathematics"
+                },
+                {
+                    "code": "000677",
+                    "name": "Honours in Chemistry, Environmental Option"
+                },
+                {
+                    "code": "001377",
+                    "name": "Major in Chemistry, Materials Chemistry Option"
+                },
+                {
+                    "code": "000081",
+                    "name": "General Science in Chemistry"
+                },
+                {
+                    "code": "001212",
+                    "name": "General Science in Chemistry and Physics"
+                },
+                {
+                    "code": "001211",
+                    "name": "General Science in Chemistry and Life Science"
+                },
+                {
+                    "code": "001206",
+                    "name": "General Science-Chemistry & Mathematical Sciences"
+                },
+                {
+                    "code": "003228",
+                    "name": "Combined Honours in Chemistry and Oceanography"
+                },
+                {
+                    "code": "001210",
+                    "name": "General Science in Chemistry and Earth Science"
+                },
+                {
+                    "code": "002995",
+                    "name": "Major in Chemistry, Environmental Option"
+                },
+                {
+                    "code": "000213",
+                    "name": "Honours in Chemistry"
+                },
+                {
+                    "code": "001025",
+                    "name": "Combined Honours Chemistry & Environmental Science"
+                },
+                {
+                    "code": "001026",
+                    "name": "Combined Honours in Chemistry and Computer Science"
+                },
+                {
+                    "code": "003401",
+                    "name": "Combined Major in Computer Science and Chemistry"
+                },
+                {
+                    "code": "001066",
+                    "name": "General Science in Earth Science and Chemistry"
+                },
+                {
+                    "code": "001065",
+                    "name": "General Science in Life Science and Chemistry"
+                },
+                {
+                    "code": "001067",
+                    "name": "General Science - Mathematical Science & Chemistry"
+                },
+                {
+                    "code": "003383",
+                    "name": "Combined Major in Oceanography and Chemistry"
+                },
+                {
+                    "code": "001069",
+                    "name": "General Science in Physics and Chemistry"
+                },
+                {
+                    "code": "000517",
+                    "name": "Combined Honours in Physics and Chemistry"
+                }
+            ]
+        },
+        {
+            "code": "CLIM",
+            "name": "Climatology",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=BSC&specsubj=CLIM",
+            "specializations": [
+                {
+                    "code": "000568",
+                    "name": "Honours in Climatology"
+                }
+            ]
+        },
+        {
+            "code": "COGS",
+            "name": "Cognitive Systems",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=BSC&specsubj=COGS",
+            "specializations": [
+                {
+                    "code": "001226",
+                    "name": "Major Cognitive Systems,Computational Intel&Design"
+                },
+                {
+                    "code": "001225",
+                    "name": "Major in Cognitive Systems,Cognition and Brain Opt"
+                }
+            ]
+        },
+        {
+            "code": "COMM",
+            "name": "Commerce",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=BSC&specsubj=COMM",
+            "specializations": [
+                {
+                    "code": "000698",
+                    "name": "Minor in Commerce"
+                }
+            ]
+        },
+        {
+            "code": "CPSC",
+            "name": "Computer Science",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=BSC&specsubj=CPSC",
+            "specializations": [
+                {
+                    "code": "001372",
+                    "name": "Combined Honours Atmospheric Science&Computer Scie"
+                },
+                {
+                    "code": "001460",
+                    "name": "Combined Honours in Biology and Computer Science"
+                },
+                {
+                    "code": "001026",
+                    "name": "Combined Honours in Chemistry and Computer Science"
+                },
+                {
+                    "code": "001375",
+                    "name": "Combined Major in Computer Science and Statistics"
+                },
+                {
+                    "code": "001370",
+                    "name": "Combined Major in Computer Science and Biology"
+                },
+                {
+                    "code": "000021",
+                    "name": "Combined Honours Computer Science and Mathematics"
+                },
+                {
+                    "code": "001391",
+                    "name": "Combined Major in Computer Science and Physics"
+                },
+                {
+                    "code": "001390",
+                    "name": "Combined Major Computer Science & Atmospheric Sc"
+                },
+                {
+                    "code": "001373",
+                    "name": "Combined Honr Computer Science,Microbiology&Immuno"
+                },
+                {
+                    "code": "001376",
+                    "name": "Combined Honours Computer Science and Statistics"
+                },
+                {
+                    "code": "001371",
+                    "name": "Comb Maj Computer Science,Microbiology&Immunology"
+                },
+                {
+                    "code": "000154",
+                    "name": "Honours in Computer Science"
+                },
+                {
+                    "code": "003401",
+                    "name": "Combined Major in Computer Science and Chemistry"
+                },
+                {
+                    "code": "000376",
+                    "name": "Major in Computer Science"
+                },
+                {
+                    "code": "000138",
+                    "name": "Combined Honours in Computer Science and Physics"
+                },
+                {
+                    "code": "001429",
+                    "name": "Combined Major in Computer Science and Math"
+                },
+                {
+                    "code": "001200",
+                    "name": "Major in Computer Science,Software Engineering Opt"
+                },
+                {
+                    "code": "001493",
+                    "name": "Comb Maj Computer Science & Environmental Sciences"
+                },
+                {
+                    "code": "001201",
+                    "name": "Honours in Computer Science,Software Engineering"
+                },
+                {
+                    "code": "001228",
+                    "name": "Combined Honours in Computer Science & Geology"
+                },
+                {
+                    "code": "001625",
+                    "name": "Combined Honours in Geology and Computer Science"
+                }
+            ]
+        },
+        {
+            "code": "DSCI",
+            "name": "Data Science",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=BSC&specsubj=DSCI",
+            "specializations": [
+                {
+                    "code": "003743",
+                    "name": "Minor in Data Science"
+                }
+            ]
+        },
+        {
+            "code": "ECON",
+            "name": "Economics",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=BSC&specsubj=ECON",
+            "specializations": [
+                {
+                    "code": "001135",
+                    "name": "Combined Major in Mathematics and Economics"
+                },
+                {
+                    "code": "001330",
+                    "name": "Combined Major in Statistics and Economics"
+                }
+            ]
+        },
+        {
+            "code": "ENSC",
+            "name": "Environmental Sciences",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=BSC&specsubj=ENSC",
+            "specializations": [
+                {
+                    "code": "001025",
+                    "name": "Combined Honours Chemistry & Environmental Science"
+                },
+                {
+                    "code": "001493",
+                    "name": "Comb Maj Computer Science & Environmental Sciences"
+                },
+                {
+                    "code": "000589",
+                    "name": "Honours in Environmental Sciences"
+                },
+                {
+                    "code": "003085",
+                    "name": "Minor in Environmental Sciences"
+                },
+                {
+                    "code": "001263",
+                    "name": "Major in Environmental Sciences"
+                }
+            ]
+        },
+        {
+            "code": "EOSC",
+            "name": "Earth and Ocean Sciences",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=BSC&specsubj=EOSC",
+            "specializations": [
+                {
+                    "code": "001223",
+                    "name": "Major in Earth & Ocean Sciences"
+                }
+            ]
+        },
+        {
+            "code": "ERSC",
+            "name": "Earth Sciences",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=BSC&specsubj=ERSC",
+            "specializations": [
+                {
+                    "code": "001210",
+                    "name": "General Science in Chemistry and Earth Science"
+                },
+                {
+                    "code": "001071",
+                    "name": "General Science in Earth and Mathematical Sciences"
+                },
+                {
+                    "code": "001072",
+                    "name": "General Science in Earth Science and Physics"
+                },
+                {
+                    "code": "001213",
+                    "name": "General Science in Earth Science and Life Science"
+                },
+                {
+                    "code": "000225",
+                    "name": "General Science in Earth Science"
+                },
+                {
+                    "code": "001066",
+                    "name": "General Science in Earth Science and Chemistry"
+                },
+                {
+                    "code": "000768",
+                    "name": "General Science in Life Science and Earth Science"
+                },
+                {
+                    "code": "001207",
+                    "name": "General Science - Mathematical & Earth Sciences"
+                },
+                {
+                    "code": "001216",
+                    "name": "General Science in Physics & Earth Science"
+                }
+            ]
+        },
+        {
+            "code": "FIOC",
+            "name": "Fisheries Oceanography",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=BSC&specsubj=FIOC",
+            "specializations": [
+                {
+                    "code": "000577",
+                    "name": "Honours in Fisheries Oceanography"
+                }
+            ]
+        },
+        {
+            "code": "FSCT",
+            "name": "Biochemistry & Forensic Sci",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=BSC&specsubj=FSCT",
+            "specializations": [
+                {
+                    "code": "003508",
+                    "name": "Combined Honours Biochemistry and Forensic Science"
+                }
+            ]
+        },
+        {
+            "code": "GEOB",
+            "name": "Geographical Biogeosciences",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=BSC&specsubj=GEOB",
+            "specializations": [
+                {
+                    "code": "003428",
+                    "name": "Major in Geographical Sciences"
+                },
+                {
+                    "code": "003551",
+                    "name": "Combined Honours Geology and Geographical Sciences"
+                },
+                {
+                    "code": "003626",
+                    "name": "Combined Hon. Oceanography & Geographical Sciences"
+                }
+            ]
+        },
+        {
+            "code": "GEOG",
+            "name": "Geography",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=BSC&specsubj=GEOG",
+            "specializations": [
+                {
+                    "code": "002278",
+                    "name": "Combined Honours in Geography and Geology"
+                }
+            ]
+        },
+        {
+            "code": "GEOL",
+            "name": "Geology",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=BSC&specsubj=GEOL",
+            "specializations": [
+                {
+                    "code": "001228",
+                    "name": "Combined Honours in Computer Science & Geology"
+                },
+                {
+                    "code": "002278",
+                    "name": "Combined Honours in Geography and Geology"
+                },
+                {
+                    "code": "000775",
+                    "name": "Combined Honours in Geology and Biology"
+                },
+                {
+                    "code": "003246",
+                    "name": "Combined Honours in Geology and Oceanography"
+                },
+                {
+                    "code": "001625",
+                    "name": "Combined Honours in Geology and Computer Science"
+                },
+                {
+                    "code": "000462",
+                    "name": "Honours in Geological Sciences"
+                },
+                {
+                    "code": "003193",
+                    "name": "Major in Geology"
+                },
+                {
+                    "code": "003551",
+                    "name": "Combined Honours Geology and Geographical Sciences"
+                },
+                {
+                    "code": "000205",
+                    "name": "Combined Honours in Oceanography and Geology"
+                }
+            ]
+        },
+        {
+            "code": "GEOP",
+            "name": "Geophysics",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=BSC&specsubj=GEOP",
+            "specializations": [
+                {
+                    "code": "000380",
+                    "name": "Honours in Geophysics"
+                },
+                {
+                    "code": "000001",
+                    "name": "Major in Geophysics"
+                },
+                {
+                    "code": "000240",
+                    "name": "Combined Honours in Oceanography and Geophysics"
+                }
+            ]
+        },
+        {
+            "code": "HKIN",
+            "name": "Human Kinetics",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=BSC&specsubj=HKIN",
+            "specializations": [
+                {
+                    "code": "001600",
+                    "name": "Minor in Human Kinetics"
+                }
+            ]
+        },
+        {
+            "code": "INSC",
+            "name": "Integrated Sciences",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=BSC&specsubj=INSC",
+            "specializations": [
+                {
+                    "code": "001682",
+                    "name": "Major in Integrated Sciences"
+                }
+            ]
+        },
+        {
+            "code": "ISCI",
+            "name": "Integrated Sciences",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=BSC&specsubj=ISCI",
+            "specializations": [
+                {
+                    "code": "001511",
+                    "name": "Honours in Integrated Sciences"
+                }
+            ]
+        },
+        {
+            "code": "KIN",
+            "name": "Kinesiology",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=BSC&specsubj=KIN",
+            "specializations": [
+                {
+                    "code": "003183",
+                    "name": "Minor in Kinesiology"
+                }
+            ]
+        },
+        {
+            "code": "LFSC",
+            "name": "Life Sciences",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=BSC&specsubj=LFSC",
+            "specializations": [
+                {
+                    "code": "001211",
+                    "name": "General Science in Chemistry and Life Science"
+                },
+                {
+                    "code": "001213",
+                    "name": "General Science in Earth Science and Life Science"
+                },
+                {
+                    "code": "000440",
+                    "name": "General Science in Life Science"
+                },
+                {
+                    "code": "001214",
+                    "name": "General Science in Life and Mathematical Sciences"
+                },
+                {
+                    "code": "000768",
+                    "name": "General Science in Life Science and Earth Science"
+                },
+                {
+                    "code": "001065",
+                    "name": "General Science in Life Science and Chemistry"
+                },
+                {
+                    "code": "001070",
+                    "name": "General Science in Life Science and Physics"
+                },
+                {
+                    "code": "001163",
+                    "name": "General Science in Mathematical and Life Science"
+                },
+                {
+                    "code": "001217",
+                    "name": "General Science in Physics and Life Science"
+                }
+            ]
+        },
+        {
+            "code": "MASC",
+            "name": "Mathematical Sciences",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=BSC&specsubj=MASC",
+            "specializations": [
+                {
+                    "code": "001206",
+                    "name": "General Science-Chemistry & Mathematical Sciences"
+                },
+                {
+                    "code": "001071",
+                    "name": "General Science in Earth and Mathematical Sciences"
+                },
+                {
+                    "code": "001214",
+                    "name": "General Science in Life and Mathematical Sciences"
+                },
+                {
+                    "code": "001068",
+                    "name": "General Science in Mathematical Science & Physics"
+                },
+                {
+                    "code": "001163",
+                    "name": "General Science in Mathematical and Life Science"
+                },
+                {
+                    "code": "000029",
+                    "name": "General Science in Mathematical Science"
+                },
+                {
+                    "code": "001207",
+                    "name": "General Science - Mathematical & Earth Sciences"
+                },
+                {
+                    "code": "000185",
+                    "name": "Major in Mathematical Sciences"
+                },
+                {
+                    "code": "001067",
+                    "name": "General Science - Mathematical Science & Chemistry"
+                },
+                {
+                    "code": "001218",
+                    "name": "General Science in Physics & Mathematical Science"
+                }
+            ]
+        },
+        {
+            "code": "MATH",
+            "name": "Mathematics",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=BSC&specsubj=MATH",
+            "specializations": [
+                {
+                    "code": "000206",
+                    "name": "Combined Honours in Chemistry and Mathematics"
+                },
+                {
+                    "code": "000021",
+                    "name": "Combined Honours Computer Science and Mathematics"
+                },
+                {
+                    "code": "001429",
+                    "name": "Combined Major in Computer Science and Math"
+                },
+                {
+                    "code": "001135",
+                    "name": "Combined Major in Mathematics and Economics"
+                },
+                {
+                    "code": "000456",
+                    "name": "Major in Mathematics"
+                },
+                {
+                    "code": "000166",
+                    "name": "Honours in Mathematics"
+                },
+                {
+                    "code": "000014",
+                    "name": "Combined Honours in Physics and Mathematics"
+                }
+            ]
+        },
+        {
+            "code": "MBIM",
+            "name": "Microbiology and Immunology",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=BSC&specsubj=MBIM",
+            "specializations": [
+                {
+                    "code": "001371",
+                    "name": "Comb Maj Computer Science,Microbiology&Immunology"
+                },
+                {
+                    "code": "001373",
+                    "name": "Combined Honr Computer Science,Microbiology&Immuno"
+                },
+                {
+                    "code": "001154",
+                    "name": "Honours in Microbiology and Immunology"
+                },
+                {
+                    "code": "001153",
+                    "name": "Major in Microbiology and Immunology"
+                }
+            ]
+        },
+        {
+            "code": "MICB",
+            "name": "Microbiology",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=BSC&specsubj=MICB",
+            "specializations": [
+                {
+                    "code": "003144",
+                    "name": "Combined Major in Microbiology and Oceanography"
+                }
+            ]
+        },
+        {
+            "code": "NSCI",
+            "name": "Neuroscience",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=BSC&specsubj=NSCI",
+            "specializations": [
+                {
+                    "code": "003742",
+                    "name": "Major in Neuroscience"
+                }
+            ]
+        },
+        {
+            "code": "OCGY",
+            "name": "Oceanography",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=BSC&specsubj=OCGY",
+            "specializations": [
+                {
+                    "code": "003228",
+                    "name": "Combined Honours in Chemistry and Oceanography"
+                },
+                {
+                    "code": "003246",
+                    "name": "Combined Honours in Geology and Oceanography"
+                },
+                {
+                    "code": "003144",
+                    "name": "Combined Major in Microbiology and Oceanography"
+                },
+                {
+                    "code": "000336",
+                    "name": "Combined Honours in Oceanography and Physics"
+                },
+                {
+                    "code": "000535",
+                    "name": "Combined Honours in Oceanography and Biology"
+                },
+                {
+                    "code": "003126",
+                    "name": "Combined Major in Oceanography and Physics"
+                },
+                {
+                    "code": "003125",
+                    "name": "Combined Major in Oceanography and Biology"
+                },
+                {
+                    "code": "003383",
+                    "name": "Combined Major in Oceanography and Chemistry"
+                },
+                {
+                    "code": "003626",
+                    "name": "Combined Hon. Oceanography & Geographical Sciences"
+                },
+                {
+                    "code": "000205",
+                    "name": "Combined Honours in Oceanography and Geology"
+                },
+                {
+                    "code": "000240",
+                    "name": "Combined Honours in Oceanography and Geophysics"
+                }
+            ]
+        },
+        {
+            "code": "PCTH",
+            "name": "Pharmacology",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=BSC&specsubj=PCTH",
+            "specializations": [
+                {
+                    "code": "000019",
+                    "name": "Honours in Pharmacology"
+                },
+                {
+                    "code": "000311",
+                    "name": "Major in Pharmacology"
+                }
+            ]
+        },
+        {
+            "code": "PHYL",
+            "name": "Physiology",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=BSC&specsubj=PHYL",
+            "specializations": [
+                {
+                    "code": "000266",
+                    "name": "Honours in Physiology"
+                }
+            ]
+        },
+        {
+            "code": "PHYS",
+            "name": "Physics",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=BSC&specsubj=PHYS",
+            "specializations": [
+                {
+                    "code": "001212",
+                    "name": "General Science in Chemistry and Physics"
+                },
+                {
+                    "code": "001391",
+                    "name": "Combined Major in Computer Science and Physics"
+                },
+                {
+                    "code": "000138",
+                    "name": "Combined Honours in Computer Science and Physics"
+                },
+                {
+                    "code": "001072",
+                    "name": "General Science in Earth Science and Physics"
+                },
+                {
+                    "code": "001070",
+                    "name": "General Science in Life Science and Physics"
+                },
+                {
+                    "code": "001068",
+                    "name": "General Science in Mathematical Science & Physics"
+                },
+                {
+                    "code": "003126",
+                    "name": "Combined Major in Oceanography and Physics"
+                },
+                {
+                    "code": "000336",
+                    "name": "Combined Honours in Oceanography and Physics"
+                },
+                {
+                    "code": "001216",
+                    "name": "General Science in Physics & Earth Science"
+                },
+                {
+                    "code": "001217",
+                    "name": "General Science in Physics and Life Science"
+                },
+                {
+                    "code": "001218",
+                    "name": "General Science in Physics & Mathematical Science"
+                },
+                {
+                    "code": "000344",
+                    "name": "Honours in Physics"
+                },
+                {
+                    "code": "000271",
+                    "name": "General Science in Physics"
+                },
+                {
+                    "code": "000517",
+                    "name": "Combined Honours in Physics and Chemistry"
+                },
+                {
+                    "code": "000524",
+                    "name": "Major in Physics"
+                },
+                {
+                    "code": "000014",
+                    "name": "Combined Honours in Physics and Mathematics"
+                },
+                {
+                    "code": "000009",
+                    "name": "Combined Honours in Physics and Astronomy"
+                },
+                {
+                    "code": "001069",
+                    "name": "General Science in Physics and Chemistry"
+                }
+            ]
+        },
+        {
+            "code": "PSYC",
+            "name": "Psychology",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=BSC&specsubj=PSYC",
+            "specializations": [
+                {
+                    "code": "003504",
+                    "name": "Minor in Behavioural Neuroscience"
+                },
+                {
+                    "code": "003502",
+                    "name": "Major in Behavioural Neuroscience"
+                },
+                {
+                    "code": "003503",
+                    "name": "Honours in Behavioural Neuroscience"
+                }
+            ]
+        },
+        {
+            "code": "SCIE",
+            "name": "Science",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=BSC&specsubj=SCIE",
+            "specializations": [
+                {
+                    "code": "003096",
+                    "name": "Combined Major in Science"
+                }
+            ]
+        },
+        {
+            "code": "SFS",
+            "name": "Sustainable Food Systems",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=BSC&specsubj=SFS",
+            "specializations": [
+                {
+                    "code": "003611",
+                    "name": "Minor in Sustainable Food Systems"
+                }
+            ]
+        },
+        {
+            "code": "STAT",
+            "name": "Statistics",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=BSC&specsubj=STAT",
+            "specializations": [
+                {
+                    "code": "001375",
+                    "name": "Combined Major in Computer Science and Statistics"
+                },
+                {
+                    "code": "001376",
+                    "name": "Combined Honours Computer Science and Statistics"
+                },
+                {
+                    "code": "000562",
+                    "name": "Major in Statistics"
+                },
+                {
+                    "code": "000051",
+                    "name": "Honours in Statistics"
+                },
+                {
+                    "code": "001330",
+                    "name": "Combined Major in Statistics and Economics"
+                }
+            ]
+        }
+    ]
+}

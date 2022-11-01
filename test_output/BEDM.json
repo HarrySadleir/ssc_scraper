@@ -1,0 +1,51 @@
+{
+    "code": "BEDM",
+    "name": "Bachelor of Educ (Middle)",
+    "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specprogram&tname=specprogram&dept=BEDM",
+    "subjects": [
+        {
+            "code": "ENGL",
+            "name": "English",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=BEDM&specsubj=ENGL",
+            "specializations": [
+                {
+                    "code": "000955",
+                    "name": "Concentration in English"
+                }
+            ]
+        },
+        {
+            "code": "PHED",
+            "name": "Physical Education",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=BEDM&specsubj=PHED",
+            "specializations": [
+                {
+                    "code": "000967",
+                    "name": "Concentration in Physical Education"
+                }
+            ]
+        },
+        {
+            "code": "SCIE",
+            "name": "Science",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=BEDM&specsubj=SCIE",
+            "specializations": [
+                {
+                    "code": "000968",
+                    "name": "Concentration in Science"
+                }
+            ]
+        },
+        {
+            "code": "SSED",
+            "name": "Social Studies Education",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=BEDM&specsubj=SSED",
+            "specializations": [
+                {
+                    "code": "000971",
+                    "name": "Concentration in Social Studies"
+                }
+            ]
+        }
+    ]
+}

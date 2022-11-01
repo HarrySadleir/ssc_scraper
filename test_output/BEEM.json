@@ -1,0 +1,51 @@
+{
+    "code": "BEEM",
+    "name": "Bachelor of Educ (Elem & Mid)",
+    "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specprogram&tname=specprogram&dept=BEEM",
+    "subjects": [
+        {
+            "code": "FREN",
+            "name": "French",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=BEEM&specsubj=FREN",
+            "specializations": [
+                {
+                    "code": "003507",
+                    "name": "Concentration in Core French"
+                }
+            ]
+        },
+        {
+            "code": "FRIM",
+            "name": "Fren Immersion Educ",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=BEEM&specsubj=FRIM",
+            "specializations": [
+                {
+                    "code": "003506",
+                    "name": "Concentration in French Immersion Education"
+                }
+            ]
+        },
+        {
+            "code": "IEDU",
+            "name": "Indigenous Education",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=BEEM&specsubj=IEDU",
+            "specializations": [
+                {
+                    "code": "003642",
+                    "name": "Concentration in Indigenous Education"
+                }
+            ]
+        },
+        {
+            "code": "INDI",
+            "name": "Indigenous",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=BEEM&specsubj=INDI",
+            "specializations": [
+                {
+                    "code": "003505",
+                    "name": "Indigenous Concentration"
+                }
+            ]
+        }
+    ]
+}

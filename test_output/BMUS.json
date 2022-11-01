@@ -1,0 +1,454 @@
+{
+    "code": "BMUS",
+    "name": "Bachelor of Music",
+    "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specprogram&tname=specprogram&dept=BMUS",
+    "subjects": [
+        {
+            "code": "AMNE",
+            "name": "AncientMed & Near East Studies",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=BMUS&specsubj=AMNE",
+            "specializations": [
+                {
+                    "code": "003855",
+                    "name": "Minor Ancient Mediterranean & Near Eastern Studies"
+                }
+            ]
+        },
+        {
+            "code": "AMUT",
+            "name": "Applied Music Technology",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=BMUS&specsubj=AMUT",
+            "specializations": [
+                {
+                    "code": "003293",
+                    "name": "Minor in Applied Music Technology"
+                }
+            ]
+        },
+        {
+            "code": "ASAS",
+            "name": "Asian Area Studies",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=BMUS&specsubj=ASAS",
+            "specializations": [
+                {
+                    "code": "003648",
+                    "name": "Minor in Asian Area Studies"
+                }
+            ]
+        },
+        {
+            "code": "CNRS",
+            "name": "Class,N.Eastern & Relg.Studies",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=BMUS&specsubj=CNRS",
+            "specializations": [
+                {
+                    "code": "003653",
+                    "name": "Minor in Classical,Near Eastern &Religious Studies"
+                },
+                {
+                    "code": "003647",
+                    "name": "Maj Classical,Near East&Religious Stud Emp Archaeo"
+                }
+            ]
+        },
+        {
+            "code": "COMP",
+            "name": "Composition",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=BMUS&specsubj=COMP",
+            "specializations": [
+                {
+                    "code": "000117",
+                    "name": "Major in Composition"
+                }
+            ]
+        },
+        {
+            "code": "ECON",
+            "name": "Economics",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=BMUS&specsubj=ECON",
+            "specializations": [
+                {
+                    "code": "003599",
+                    "name": "Major in Economics"
+                },
+                {
+                    "code": "003589",
+                    "name": "Honours in Economics"
+                }
+            ]
+        },
+        {
+            "code": "ECPH",
+            "name": "Economics and Philosophy",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=BMUS&specsubj=ECPH",
+            "specializations": [
+                {
+                    "code": "003118",
+                    "name": "Combined Major in Economics and Philosophy"
+                }
+            ]
+        },
+        {
+            "code": "EDUC",
+            "name": "Education",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=BMUS&specsubj=EDUC",
+            "specializations": [
+                {
+                    "code": "003544",
+                    "name": "Minor in Education, Language Learning and Teaching"
+                },
+                {
+                    "code": "003333",
+                    "name": "Minor in Education, Special Education"
+                },
+                {
+                    "code": "003336",
+                    "name": "Minor in Education, Early Childhood Education"
+                },
+                {
+                    "code": "003335",
+                    "name": "Minor in Education, Community, Adult & Higher Ed"
+                },
+                {
+                    "code": "003334",
+                    "name": "Minor in Education, Interpersonal Development"
+                }
+            ]
+        },
+        {
+            "code": "ENGL",
+            "name": "English",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=BMUS&specsubj=ENGL",
+            "specializations": [
+                {
+                    "code": "003081",
+                    "name": "Minor in English, Emphasis Language"
+                },
+                {
+                    "code": "003839",
+                    "name": "Minor in English, Teacher Education Preparation"
+                },
+                {
+                    "code": "001543",
+                    "name": "Major in English, Emphasis Literature"
+                },
+                {
+                    "code": "001544",
+                    "name": "Major in English, Emphasis Language"
+                },
+                {
+                    "code": "003044",
+                    "name": "Minor in English,Emphasis Literature"
+                }
+            ]
+        },
+        {
+            "code": "ENVS",
+            "name": "Environment & Sustainability",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=BMUS&specsubj=ENVS",
+            "specializations": [
+                {
+                    "code": "003860",
+                    "name": "Minor in Environment and Sustainability"
+                }
+            ]
+        },
+        {
+            "code": "FREL",
+            "name": "French Language",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=BMUS&specsubj=FREL",
+            "specializations": [
+                {
+                    "code": "003731",
+                    "name": "Minor in French Language"
+                }
+            ]
+        },
+        {
+            "code": "FRLC",
+            "name": "French Lang, Lit and Cultures",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=BMUS&specsubj=FRLC",
+            "specializations": [
+                {
+                    "code": "003740",
+                    "name": "Minor in French Language, Literatures and Cultures"
+                }
+            ]
+        },
+        {
+            "code": "GEOG",
+            "name": "Geography",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=BMUS&specsubj=GEOG",
+            "specializations": [
+                {
+                    "code": "003311",
+                    "name": "Major in Geography (Human Geography)"
+                }
+            ]
+        },
+        {
+            "code": "GMST",
+            "name": "Germanic Studies",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=BMUS&specsubj=GMST",
+            "specializations": [
+                {
+                    "code": "003497",
+                    "name": "Minor in German Studies"
+                }
+            ]
+        },
+        {
+            "code": "GMUS",
+            "name": "General Studies",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=BMUS&specsubj=GMUS",
+            "specializations": [
+                {
+                    "code": "000438",
+                    "name": "Major in General Studies"
+                }
+            ]
+        },
+        {
+            "code": "GSEM",
+            "name": "General Studies Elementary Ed",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=BMUS&specsubj=GSEM",
+            "specializations": [
+                {
+                    "code": "000145",
+                    "name": "Major General Studies, Elementary Education Stream"
+                }
+            ]
+        },
+        {
+            "code": "GSSM",
+            "name": "General Studies Secondary Educ",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=BMUS&specsubj=GSSM",
+            "specializations": [
+                {
+                    "code": "000208",
+                    "name": "Major General Studies, Secondary Education Stream"
+                }
+            ]
+        },
+        {
+            "code": "GUIT",
+            "name": "Guitar",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=BMUS&specsubj=GUIT",
+            "specializations": [
+                {
+                    "code": "000469",
+                    "name": "Major in Guitar"
+                }
+            ]
+        },
+        {
+            "code": "HARP",
+            "name": "Harpsichord",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=BMUS&specsubj=HARP",
+            "specializations": [
+                {
+                    "code": "001420",
+                    "name": "Major in Harpsichord"
+                }
+            ]
+        },
+        {
+            "code": "HGEO",
+            "name": "Human Geography",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=BMUS&specsubj=HGEO",
+            "specializations": [
+                {
+                    "code": "003865",
+                    "name": "Minor in Human Geography"
+                }
+            ]
+        },
+        {
+            "code": "INFO",
+            "name": "Informatics",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=BMUS&specsubj=INFO",
+            "specializations": [
+                {
+                    "code": "003724",
+                    "name": "Minor in Informatics"
+                }
+            ]
+        },
+        {
+            "code": "MATH",
+            "name": "Mathematics",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=BMUS&specsubj=MATH",
+            "specializations": [
+                {
+                    "code": "003872",
+                    "name": "Minor in Math"
+                }
+            ]
+        },
+        {
+            "code": "MEST",
+            "name": "Modern European Studies",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=BMUS&specsubj=MEST",
+            "specializations": [
+                {
+                    "code": "003498",
+                    "name": "Major in Modern European Studies"
+                }
+            ]
+        },
+        {
+            "code": "MUHL",
+            "name": "Music History & Literature",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=BMUS&specsubj=MUHL",
+            "specializations": [
+                {
+                    "code": "000290",
+                    "name": "Major in Music History and Literature"
+                }
+            ]
+        },
+        {
+            "code": "MUSS",
+            "name": "Music Scholarship",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=BMUS&specsubj=MUSS",
+            "specializations": [
+                {
+                    "code": "001470",
+                    "name": "Major in Music Scholarship"
+                }
+            ]
+        },
+        {
+            "code": "MUTH",
+            "name": "Music Theory",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=BMUS&specsubj=MUTH",
+            "specializations": [
+                {
+                    "code": "000528",
+                    "name": "Major in Music Theory"
+                }
+            ]
+        },
+        {
+            "code": "OPER",
+            "name": "Opera",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=BMUS&specsubj=OPER",
+            "specializations": [
+                {
+                    "code": "000039",
+                    "name": "Major in Opera"
+                }
+            ]
+        },
+        {
+            "code": "ORGN",
+            "name": "Organ",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=BMUS&specsubj=ORGN",
+            "specializations": [
+                {
+                    "code": "000446",
+                    "name": "Major in Organ"
+                }
+            ]
+        },
+        {
+            "code": "ORIN",
+            "name": "Orchestral Instrument",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=BMUS&specsubj=ORIN",
+            "specializations": [
+                {
+                    "code": "000484",
+                    "name": "Major in Orchestral Instrument"
+                }
+            ]
+        },
+        {
+            "code": "PIAN",
+            "name": "Piano",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=BMUS&specsubj=PIAN",
+            "specializations": [
+                {
+                    "code": "000238",
+                    "name": "Major in Piano"
+                }
+            ]
+        },
+        {
+            "code": "RELG",
+            "name": "Religious Studies",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=BMUS&specsubj=RELG",
+            "specializations": [
+                {
+                    "code": "003074",
+                    "name": "Minor in Religious Studies"
+                }
+            ]
+        },
+        {
+            "code": "RMST",
+            "name": "Romance Studies",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=BMUS&specsubj=RMST",
+            "specializations": [
+                {
+                    "code": "003834",
+                    "name": "Minor in Romance Studies"
+                }
+            ]
+        },
+        {
+            "code": "RUSS",
+            "name": "Russian",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=BMUS&specsubj=RUSS",
+            "specializations": [
+                {
+                    "code": "003496",
+                    "name": "Minor in Russian"
+                }
+            ]
+        },
+        {
+            "code": "SOCI",
+            "name": "Sociology",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=BMUS&specsubj=SOCI",
+            "specializations": [
+                {
+                    "code": "003873",
+                    "name": "Minor in Sociology"
+                }
+            ]
+        },
+        {
+            "code": "THTR",
+            "name": "Theatre",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=BMUS&specsubj=THTR",
+            "specializations": [
+                {
+                    "code": "003706",
+                    "name": "Honours in Theatre"
+                }
+            ]
+        },
+        {
+            "code": "VISA",
+            "name": "Visual Arts",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=BMUS&specsubj=VISA",
+            "specializations": [
+                {
+                    "code": "003677",
+                    "name": "Minor in Visual Arts"
+                }
+            ]
+        },
+        {
+            "code": "VOIC",
+            "name": "Voice",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=BMUS&specsubj=VOIC",
+            "specializations": [
+                {
+                    "code": "000257",
+                    "name": "Major in Voice"
+                }
+            ]
+        }
+    ]
+}

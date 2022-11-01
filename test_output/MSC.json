@@ -1,0 +1,606 @@
+{
+    "code": "MSC",
+    "name": "Master of Science",
+    "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specprogram&tname=specprogram&dept=MSC",
+    "subjects": [
+        {
+            "code": "AABI",
+            "name": "Applied Animal Biology",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=MSC&specsubj=AABI",
+            "specializations": [
+                {
+                    "code": "003242",
+                    "name": "In Applied Animal Biology"
+                }
+            ]
+        },
+        {
+            "code": "AGEC",
+            "name": "Agricultural Economics",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=MSC&specsubj=AGEC",
+            "specializations": [
+                {
+                    "code": "000002",
+                    "name": "In Agricultural Economics"
+                }
+            ]
+        },
+        {
+            "code": "ANCB",
+            "name": "Anatomy & Cell Biology",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=MSC&specsubj=ANCB",
+            "specializations": [
+                {
+                    "code": "001895",
+                    "name": "In Anatomy and Cell Biology"
+                }
+            ]
+        },
+        {
+            "code": "ASTR",
+            "name": "Astronomy",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=MSC&specsubj=ASTR",
+            "specializations": [
+                {
+                    "code": "000349",
+                    "name": "In Astronomy"
+                }
+            ]
+        },
+        {
+            "code": "ATSC",
+            "name": "Atmospheric Science",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=MSC&specsubj=ATSC",
+            "specializations": [
+                {
+                    "code": "000830",
+                    "name": "In Atmospheric Science"
+                }
+            ]
+        },
+        {
+            "code": "AUDI",
+            "name": "Audiology & Speech Sciences",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=MSC&specsubj=AUDI",
+            "specializations": [
+                {
+                    "code": "000414",
+                    "name": "In Audiology and Speech Sciences"
+                }
+            ]
+        },
+        {
+            "code": "BIMB",
+            "name": "Biochemistry & Molecular Biol",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=MSC&specsubj=BIMB",
+            "specializations": [
+                {
+                    "code": "000876",
+                    "name": "In Biochemistry and Molecular Biology"
+                }
+            ]
+        },
+        {
+            "code": "BIOF",
+            "name": "Bioinformatics",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=MSC&specsubj=BIOF",
+            "specializations": [
+                {
+                    "code": "001654",
+                    "name": "In Bioinformatics"
+                }
+            ]
+        },
+        {
+            "code": "BOTA",
+            "name": "Botany",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=MSC&specsubj=BOTA",
+            "specializations": [
+                {
+                    "code": "000280",
+                    "name": "In Botany"
+                }
+            ]
+        },
+        {
+            "code": "CELL",
+            "name": "Cell & Developmental",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=MSC&specsubj=CELL",
+            "specializations": [
+                {
+                    "code": "001809",
+                    "name": "In Cell and Developmental Biology"
+                }
+            ]
+        },
+        {
+            "code": "CHBE",
+            "name": "Chemical & Biol Engineering",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=MSC&specsubj=CHBE",
+            "specializations": [
+                {
+                    "code": "003047",
+                    "name": "In Chemical and Biological Engineering"
+                }
+            ]
+        },
+        {
+            "code": "CHEM",
+            "name": "Chemistry",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=MSC&specsubj=CHEM",
+            "specializations": [
+                {
+                    "code": "000382",
+                    "name": "In Chemistry"
+                }
+            ]
+        },
+        {
+            "code": "CPSC",
+            "name": "Computer Science",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=MSC&specsubj=CPSC",
+            "specializations": [
+                {
+                    "code": "000050",
+                    "name": "In Computer Science"
+                }
+            ]
+        },
+        {
+            "code": "CRSC",
+            "name": "Craniofacial Science",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=MSC&specsubj=CRSC",
+            "specializations": [
+                {
+                    "code": "003077",
+                    "name": "In Craniofacial Science"
+                }
+            ]
+        },
+        {
+            "code": "FOOD",
+            "name": "Food Science",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=MSC&specsubj=FOOD",
+            "specializations": [
+                {
+                    "code": "000061",
+                    "name": "In Food Science"
+                }
+            ]
+        },
+        {
+            "code": "FRST",
+            "name": "Forestry",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=MSC&specsubj=FRST",
+            "specializations": [
+                {
+                    "code": "000435",
+                    "name": "In Forestry"
+                }
+            ]
+        },
+        {
+            "code": "GECN",
+            "name": "Genetic Counselling",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=MSC&specsubj=GECN",
+            "specializations": [
+                {
+                    "code": "000275",
+                    "name": "In Genetic Counselling"
+                }
+            ]
+        },
+        {
+            "code": "GENE",
+            "name": "Genetics",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=MSC&specsubj=GENE",
+            "specializations": [
+                {
+                    "code": "000569",
+                    "name": "In Genetics"
+                }
+            ]
+        },
+        {
+            "code": "GEOG",
+            "name": "Geography",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=MSC&specsubj=GEOG",
+            "specializations": [
+                {
+                    "code": "000514",
+                    "name": "In Geography"
+                }
+            ]
+        },
+        {
+            "code": "GEOL",
+            "name": "Geology",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=MSC&specsubj=GEOL",
+            "specializations": [
+                {
+                    "code": "000245",
+                    "name": "In Geological Sciences"
+                }
+            ]
+        },
+        {
+            "code": "GEOP",
+            "name": "Geophysics",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=MSC&specsubj=GEOP",
+            "specializations": [
+                {
+                    "code": "000115",
+                    "name": "In Geophysics"
+                }
+            ]
+        },
+        {
+            "code": "GSAT",
+            "name": "Genome Science & Technology",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=MSC&specsubj=GSAT",
+            "specializations": [
+                {
+                    "code": "003086",
+                    "name": "In Genome Science and Technology"
+                }
+            ]
+        },
+        {
+            "code": "HCI",
+            "name": "Human Computer Interaction",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=MSC&specsubj=HCI",
+            "specializations": [
+                {
+                    "code": "001506",
+                    "name": "Sub-Specialization in Human-Computer Interaction"
+                }
+            ]
+        },
+        {
+            "code": "HUNU",
+            "name": "Human Nutrition",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=MSC&specsubj=HUNU",
+            "specializations": [
+                {
+                    "code": "000276",
+                    "name": "In Human Nutrition"
+                }
+            ]
+        },
+        {
+            "code": "INDS",
+            "name": "Interdisciplinary Studies",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=MSC&specsubj=INDS",
+            "specializations": [
+                {
+                    "code": "000486",
+                    "name": "In Interdisciplinary Studies"
+                }
+            ]
+        },
+        {
+            "code": "ISLF",
+            "name": "Int Stds In Land & Food Syst",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=MSC&specsubj=ISLF",
+            "specializations": [
+                {
+                    "code": "002003",
+                    "name": "In Integrated Studies in Land and Food Systems"
+                }
+            ]
+        },
+        {
+            "code": "KIN",
+            "name": "Kinesiology",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=MSC&specsubj=KIN",
+            "specializations": [
+                {
+                    "code": "003180",
+                    "name": "In Kinesiology"
+                }
+            ]
+        },
+        {
+            "code": "MATH",
+            "name": "Mathematics",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=MSC&specsubj=MATH",
+            "specializations": [
+                {
+                    "code": "000321",
+                    "name": "In Mathematics"
+                }
+            ]
+        },
+        {
+            "code": "MEDG",
+            "name": "Medical Genetics",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=MSC&specsubj=MEDG",
+            "specializations": [
+                {
+                    "code": "002937",
+                    "name": "In Medical Genetics"
+                }
+            ]
+        },
+        {
+            "code": "MEDP",
+            "name": "Medical Physics",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=MSC&specsubj=MEDP",
+            "specializations": [
+                {
+                    "code": "003569",
+                    "name": "In Medical Physics"
+                }
+            ]
+        },
+        {
+            "code": "MEDX",
+            "name": "Experimental Medicine",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=MSC&specsubj=MEDX",
+            "specializations": [
+                {
+                    "code": "000442",
+                    "name": "In Experimental Medicine"
+                }
+            ]
+        },
+        {
+            "code": "MIIM",
+            "name": "Microbiology & Immunology",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=MSC&specsubj=MIIM",
+            "specializations": [
+                {
+                    "code": "000817",
+                    "name": "In Microbiology and Immunology"
+                }
+            ]
+        },
+        {
+            "code": "MTRL",
+            "name": "Materials Engineering",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=MSC&specsubj=MTRL",
+            "specializations": [
+                {
+                    "code": "001595",
+                    "name": "In Materials Engineering"
+                }
+            ]
+        },
+        {
+            "code": "NRSC",
+            "name": "Neuroscience",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=MSC&specsubj=NRSC",
+            "specializations": [
+                {
+                    "code": "000373",
+                    "name": "In Neuroscience"
+                }
+            ]
+        },
+        {
+            "code": "OCCH",
+            "name": "Occupational Hygiene",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=MSC&specsubj=OCCH",
+            "specializations": [
+                {
+                    "code": "001054",
+                    "name": "In Occupational and Environmental Hygiene"
+                }
+            ]
+        },
+        {
+            "code": "OCF",
+            "name": "Oceans and Fisheries",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=MSC&specsubj=OCF",
+            "specializations": [
+                {
+                    "code": "003571",
+                    "name": "In Oceans and Fisheries"
+                }
+            ]
+        },
+        {
+            "code": "OCGY",
+            "name": "Oceanography",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=MSC&specsubj=OCGY",
+            "specializations": [
+                {
+                    "code": "000450",
+                    "name": "In Oceanography"
+                }
+            ]
+        },
+        {
+            "code": "ONCO",
+            "name": "Interdisciplinary Oncology",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=MSC&specsubj=ONCO",
+            "specializations": [
+                {
+                    "code": "001400",
+                    "name": "In Interdisciplinary Oncology"
+                }
+            ]
+        },
+        {
+            "code": "PALM",
+            "name": "Pathology/Laboratory Medicine",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=MSC&specsubj=PALM",
+            "specializations": [
+                {
+                    "code": "000878",
+                    "name": "In Pathology and Laboratory Medicine"
+                }
+            ]
+        },
+        {
+            "code": "PCTH",
+            "name": "Pharmacology",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=MSC&specsubj=PCTH",
+            "specializations": [
+                {
+                    "code": "000142",
+                    "name": "In Pharmacology and Therapeutics"
+                }
+            ]
+        },
+        {
+            "code": "PHAR",
+            "name": "Pharmaceutical Science",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=MSC&specsubj=PHAR",
+            "specializations": [
+                {
+                    "code": "000530",
+                    "name": "In Pharmaceutical Sciences"
+                }
+            ]
+        },
+        {
+            "code": "PHYL",
+            "name": "Physiology",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=MSC&specsubj=PHYL",
+            "specializations": [
+                {
+                    "code": "000035",
+                    "name": "In Physiology"
+                }
+            ]
+        },
+        {
+            "code": "PHYS",
+            "name": "Physics",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=MSC&specsubj=PHYS",
+            "specializations": [
+                {
+                    "code": "000329",
+                    "name": "In Physics"
+                }
+            ]
+        },
+        {
+            "code": "PLNT",
+            "name": "Plant Science",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=MSC&specsubj=PLNT",
+            "specializations": [
+                {
+                    "code": "000028",
+                    "name": "In Plant Science"
+                }
+            ]
+        },
+        {
+            "code": "RES",
+            "name": "Resources,Enviro & Sustain",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=MSC&specsubj=RES",
+            "specializations": [
+                {
+                    "code": "003388",
+                    "name": "In Resources, Environment and Sustainability"
+                }
+            ]
+        },
+        {
+            "code": "RHSC",
+            "name": "Rehabilitation Sciences",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=MSC&specsubj=RHSC",
+            "specializations": [
+                {
+                    "code": "000739",
+                    "name": "In Rehabilitation Sciences"
+                }
+            ]
+        },
+        {
+            "code": "RPDS",
+            "name": "Reproductive Developmental Sc",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=MSC&specsubj=RPDS",
+            "specializations": [
+                {
+                    "code": "000594",
+                    "name": "In Reproductive and Developmental Sciences"
+                }
+            ]
+        },
+        {
+            "code": "SOIL",
+            "name": "Soil Science",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=MSC&specsubj=SOIL",
+            "specializations": [
+                {
+                    "code": "000461",
+                    "name": "In Soil Science"
+                }
+            ]
+        },
+        {
+            "code": "SPPH",
+            "name": "Population and Public Health",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=MSC&specsubj=SPPH",
+            "specializations": [
+                {
+                    "code": "003621",
+                    "name": "In Population & Pub Health, Health Economics Conc."
+                },
+                {
+                    "code": "003119",
+                    "name": "In Population and Public Health"
+                }
+            ]
+        },
+        {
+            "code": "STAT",
+            "name": "Statistics",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=MSC&specsubj=STAT",
+            "specializations": [
+                {
+                    "code": "000364",
+                    "name": "In Statistics"
+                }
+            ]
+        },
+        {
+            "code": "SURG",
+            "name": "Surgery",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=MSC&specsubj=SURG",
+            "specializations": [
+                {
+                    "code": "000099",
+                    "name": "In Surgery"
+                }
+            ]
+        },
+        {
+            "code": "WACH",
+            "name": "Women+ & Children's Health Sci",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=MSC&specsubj=WACH",
+            "specializations": [
+                {
+                    "code": "003766",
+                    "name": "In Women+ & Child Hlth Scie In Child Health"
+                },
+                {
+                    "code": "003765",
+                    "name": "In Women+ and Children's Health Sciences"
+                },
+                {
+                    "code": "003768",
+                    "name": "In Women+ & Child Hlth Scie In Women+ Health"
+                },
+                {
+                    "code": "003767",
+                    "name": "In Women+ & Child Hlth Scie In Reprod & Devl Scie"
+                }
+            ]
+        },
+        {
+            "code": "ZOOL",
+            "name": "Zoology",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=MSC&specsubj=ZOOL",
+            "specializations": [
+                {
+                    "code": "000217",
+                    "name": "In Zoology"
+                }
+            ]
+        }
+    ]
+}

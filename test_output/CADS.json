@@ -1,0 +1,18 @@
+{
+    "code": "CADS",
+    "name": "Certificate of Advanced Study",
+    "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specprogram&tname=specprogram&dept=CADS",
+    "subjects": [
+        {
+            "code": "FNAT",
+            "name": "First Nations Studies",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=CADS&specsubj=FNAT",
+            "specializations": [
+                {
+                    "code": "001382",
+                    "name": "Concentration First Nations"
+                }
+            ]
+        }
+    ]
+}

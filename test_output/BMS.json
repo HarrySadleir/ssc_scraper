@@ -1,0 +1,494 @@
+{
+    "code": "BMS",
+    "name": "Bachelor of Media Studies",
+    "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specprogram&tname=specprogram&dept=BMS",
+    "subjects": [
+        {
+            "code": "ACAM",
+            "name": "Asian Cdn&Asian Migration St",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=BMS&specsubj=ACAM",
+            "specializations": [
+                {
+                    "code": "003431",
+                    "name": "Minor in Asian Canadian & Asian Migration Studies"
+                }
+            ]
+        },
+        {
+            "code": "AFST",
+            "name": "African Studies",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=BMS&specsubj=AFST",
+            "specializations": [
+                {
+                    "code": "003438",
+                    "name": "Minor in African Studies"
+                }
+            ]
+        },
+        {
+            "code": "AMNE",
+            "name": "AncientMed & Near East Studies",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=BMS&specsubj=AMNE",
+            "specializations": [
+                {
+                    "code": "003853",
+                    "name": "Minor Ancient Mediterranean & Near Eastern Studies"
+                }
+            ]
+        },
+        {
+            "code": "AMUT",
+            "name": "Applied Music Technology",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=BMS&specsubj=AMUT",
+            "specializations": [
+                {
+                    "code": "003440",
+                    "name": "Minor in Applied Music Technology"
+                }
+            ]
+        },
+        {
+            "code": "ANTH",
+            "name": "Anthropology",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=BMS&specsubj=ANTH",
+            "specializations": [
+                {
+                    "code": "003439",
+                    "name": "Minor in Anthropology"
+                }
+            ]
+        },
+        {
+            "code": "ARTH",
+            "name": "Art History & Visual Culture",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=BMS&specsubj=ARTH",
+            "specializations": [
+                {
+                    "code": "003441",
+                    "name": "Minor in Art History"
+                }
+            ]
+        },
+        {
+            "code": "ASAS",
+            "name": "Asian Area Studies",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=BMS&specsubj=ASAS",
+            "specializations": [
+                {
+                    "code": "003430",
+                    "name": "Minor in Asian Area Studies"
+                }
+            ]
+        },
+        {
+            "code": "ASLC",
+            "name": "Asian Language & Culture",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=BMS&specsubj=ASLC",
+            "specializations": [
+                {
+                    "code": "003538",
+                    "name": "Minor in Asian Language and Culture (Korea)"
+                },
+                {
+                    "code": "003539",
+                    "name": "Minor in Asian Language and Culture (South Asia)"
+                },
+                {
+                    "code": "003537",
+                    "name": "Minor in Asian Language and Culture (Japan)"
+                },
+                {
+                    "code": "003536",
+                    "name": "Minor in Asian Language and Culture (China)"
+                }
+            ]
+        },
+        {
+            "code": "COMM",
+            "name": "Commerce",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=BMS&specsubj=COMM",
+            "specializations": [
+                {
+                    "code": "003360",
+                    "name": "Minor in Commerce"
+                }
+            ]
+        },
+        {
+            "code": "CPSC",
+            "name": "Computer Science",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=BMS&specsubj=CPSC",
+            "specializations": [
+                {
+                    "code": "003370",
+                    "name": "Minor in Computer Science"
+                }
+            ]
+        },
+        {
+            "code": "CRWR",
+            "name": "Creative Writing",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=BMS&specsubj=CRWR",
+            "specializations": [
+                {
+                    "code": "003442",
+                    "name": "Minor in Creative Writing"
+                }
+            ]
+        },
+        {
+            "code": "DSCI",
+            "name": "Data Science",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=BMS&specsubj=DSCI",
+            "specializations": [
+                {
+                    "code": "003762",
+                    "name": "Minor in Data Science"
+                }
+            ]
+        },
+        {
+            "code": "EDUC",
+            "name": "Education",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=BMS&specsubj=EDUC",
+            "specializations": [
+                {
+                    "code": "003329",
+                    "name": "Minor in Education, Special Education"
+                },
+                {
+                    "code": "003330",
+                    "name": "Minor in Education, Interpersonal Development"
+                },
+                {
+                    "code": "003543",
+                    "name": "Minor in Education, Language Learning and Teaching"
+                },
+                {
+                    "code": "003332",
+                    "name": "Minor in Education, Early Childhood Education"
+                },
+                {
+                    "code": "003331",
+                    "name": "Minor in Education, Community, Adult & Higher Ed"
+                }
+            ]
+        },
+        {
+            "code": "ENGL",
+            "name": "English",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=BMS&specsubj=ENGL",
+            "specializations": [
+                {
+                    "code": "003443",
+                    "name": "Minor in English, Emphasis Language"
+                },
+                {
+                    "code": "003837",
+                    "name": "Minor in English, Teacher Education Preparation"
+                },
+                {
+                    "code": "003444",
+                    "name": "Minor in English, Emphasis Literature"
+                }
+            ]
+        },
+        {
+            "code": "ENSO",
+            "name": "Environment and Society",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=BMS&specsubj=ENSO",
+            "specializations": [
+                {
+                    "code": "003554",
+                    "name": "Minor in Environment and Society"
+                }
+            ]
+        },
+        {
+            "code": "ENVS",
+            "name": "Environment & Sustainability",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=BMS&specsubj=ENVS",
+            "specializations": [
+                {
+                    "code": "003858",
+                    "name": "Minor in Environment and Sustainability"
+                }
+            ]
+        },
+        {
+            "code": "FIST",
+            "name": "Film Studies",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=BMS&specsubj=FIST",
+            "specializations": [
+                {
+                    "code": "003445",
+                    "name": "Minor in Film Studies"
+                }
+            ]
+        },
+        {
+            "code": "FNEL",
+            "name": "First Nations&Endangered Lang",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=BMS&specsubj=FNEL",
+            "specializations": [
+                {
+                    "code": "003432",
+                    "name": "Minor in First Nations and Endangered Languages"
+                }
+            ]
+        },
+        {
+            "code": "FNIS",
+            "name": "First Nations&Indigenous Stud",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=BMS&specsubj=FNIS",
+            "specializations": [
+                {
+                    "code": "003433",
+                    "name": "Minor in First Nations and Indigenous Studies"
+                }
+            ]
+        },
+        {
+            "code": "FREL",
+            "name": "French Language",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=BMS&specsubj=FREL",
+            "specializations": [
+                {
+                    "code": "003729",
+                    "name": "Minor in French Language"
+                }
+            ]
+        },
+        {
+            "code": "FRLC",
+            "name": "French Lang, Lit and Cultures",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=BMS&specsubj=FRLC",
+            "specializations": [
+                {
+                    "code": "003736",
+                    "name": "Minor in French Language, Literatures and Cultures"
+                }
+            ]
+        },
+        {
+            "code": "GEOG",
+            "name": "Geography",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=BMS&specsubj=GEOG",
+            "specializations": [
+                {
+                    "code": "003619",
+                    "name": "Minor Geography (Environment and Sustainability)"
+                }
+            ]
+        },
+        {
+            "code": "GERM",
+            "name": "German",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=BMS&specsubj=GERM",
+            "specializations": [
+                {
+                    "code": "003435",
+                    "name": "Minor in German"
+                }
+            ]
+        },
+        {
+            "code": "GISG",
+            "name": "Geog Info Sci & Geog Comput",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=BMS&specsubj=GISG",
+            "specializations": [
+                {
+                    "code": "003681",
+                    "name": "Minor In Geog Info Science And Geog Computation"
+                }
+            ]
+        },
+        {
+            "code": "GMST",
+            "name": "Germanic Studies",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=BMS&specsubj=GMST",
+            "specializations": [
+                {
+                    "code": "003436",
+                    "name": "Minor in German Studies"
+                }
+            ]
+        },
+        {
+            "code": "GRSJ",
+            "name": "GenderRaceSexualitySocialJust",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=BMS&specsubj=GRSJ",
+            "specializations": [
+                {
+                    "code": "003434",
+                    "name": "Minor in Gender, Race,Sexuality and Social Justice"
+                }
+            ]
+        },
+        {
+            "code": "HGEO",
+            "name": "Human Geography",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=BMS&specsubj=HGEO",
+            "specializations": [
+                {
+                    "code": "003863",
+                    "name": "Minor in Human Geography"
+                }
+            ]
+        },
+        {
+            "code": "INFO",
+            "name": "Informatics",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=BMS&specsubj=INFO",
+            "specializations": [
+                {
+                    "code": "003723",
+                    "name": "Minor in Informatics"
+                }
+            ]
+        },
+        {
+            "code": "JWST",
+            "name": "Jewish Studies",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=BMS&specsubj=JWST",
+            "specializations": [
+                {
+                    "code": "003685",
+                    "name": "Minor in Jewish Studies"
+                }
+            ]
+        },
+        {
+            "code": "MES",
+            "name": "Middle East Studies",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=BMS&specsubj=MES",
+            "specializations": [
+                {
+                    "code": "003693",
+                    "name": "Minor in Middle East Studies"
+                }
+            ]
+        },
+        {
+            "code": "MUSC",
+            "name": "Music",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=BMS&specsubj=MUSC",
+            "specializations": [
+                {
+                    "code": "003446",
+                    "name": "Minor in Music"
+                }
+            ]
+        },
+        {
+            "code": "POLI",
+            "name": "Political Science",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=BMS&specsubj=POLI",
+            "specializations": [
+                {
+                    "code": "003550",
+                    "name": "Minor in Political Science"
+                }
+            ]
+        },
+        {
+            "code": "PSYC",
+            "name": "Psychology",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=BMS&specsubj=PSYC",
+            "specializations": [
+                {
+                    "code": "003563",
+                    "name": "Minor in Psychology"
+                }
+            ]
+        },
+        {
+            "code": "RGST",
+            "name": "Study of Religion",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=BMS&specsubj=RGST",
+            "specializations": [
+                {
+                    "code": "003675",
+                    "name": "Minor in Study of Religion"
+                }
+            ]
+        },
+        {
+            "code": "RMST",
+            "name": "Romance Studies",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=BMS&specsubj=RMST",
+            "specializations": [
+                {
+                    "code": "003832",
+                    "name": "Minor in Romance Studies"
+                }
+            ]
+        },
+        {
+            "code": "SCAN",
+            "name": "Scandinavian",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=BMS&specsubj=SCAN",
+            "specializations": [
+                {
+                    "code": "003437",
+                    "name": "Minor in Scandinavian Studies"
+                }
+            ]
+        },
+        {
+            "code": "SOCI",
+            "name": "Sociology",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=BMS&specsubj=SOCI",
+            "specializations": [
+                {
+                    "code": "003585",
+                    "name": "Minor in Sociology"
+                }
+            ]
+        },
+        {
+            "code": "SPAN",
+            "name": "Spanish",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=BMS&specsubj=SPAN",
+            "specializations": [
+                {
+                    "code": "003584",
+                    "name": "Minor in Spanish"
+                }
+            ]
+        },
+        {
+            "code": "THTR",
+            "name": "Theatre",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=BMS&specsubj=THTR",
+            "specializations": [
+                {
+                    "code": "003447",
+                    "name": "Minor in Theatre"
+                }
+            ]
+        },
+        {
+            "code": "URST",
+            "name": "Urban Studies",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=BMS&specsubj=URST",
+            "specializations": [
+                {
+                    "code": "003558",
+                    "name": "Minor in Urban Studies"
+                }
+            ]
+        },
+        {
+            "code": "VISA",
+            "name": "Visual Arts",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=BMS&specsubj=VISA",
+            "specializations": [
+                {
+                    "code": "003448",
+                    "name": "Minor in Visual Arts"
+                }
+            ]
+        }
+    ]
+}

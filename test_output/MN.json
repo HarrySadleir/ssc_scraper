@@ -1,0 +1,18 @@
+{
+    "code": "MN",
+    "name": "Master of Nursing",
+    "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specprogram&tname=specprogram&dept=MN",
+    "subjects": [
+        {
+            "code": "NUPR",
+            "name": "Nurse Practitioner",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=MN&specsubj=NUPR",
+            "specializations": [
+                {
+                    "code": "001813",
+                    "name": "Nurse Practitioner"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,51 @@
+{
+    "code": "DMA",
+    "name": "Doctor of Musical Arts",
+    "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specprogram&tname=specprogram&dept=DMA",
+    "subjects": [
+        {
+            "code": "COMP",
+            "name": "Composition",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=DMA&specsubj=COMP",
+            "specializations": [
+                {
+                    "code": "000342",
+                    "name": "In Composition"
+                }
+            ]
+        },
+        {
+            "code": "ORIN",
+            "name": "Orchestral Instrument",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=DMA&specsubj=ORIN",
+            "specializations": [
+                {
+                    "code": "000788",
+                    "name": "In Orchestral Instrument"
+                }
+            ]
+        },
+        {
+            "code": "PIAN",
+            "name": "Piano",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=DMA&specsubj=PIAN",
+            "specializations": [
+                {
+                    "code": "000453",
+                    "name": "In Piano"
+                }
+            ]
+        },
+        {
+            "code": "VOIC",
+            "name": "Voice",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=DMA&specsubj=VOIC",
+            "specializations": [
+                {
+                    "code": "000220",
+                    "name": "In Voice"
+                }
+            ]
+        }
+    ]
+}

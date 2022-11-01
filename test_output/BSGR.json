@@ -1,0 +1,62 @@
+{
+    "code": "BSGR",
+    "name": "Bachelor of Scie (Global Res)",
+    "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specprogram&tname=specprogram&dept=BSGR",
+    "subjects": [
+        {
+            "code": "ARTS",
+            "name": "Arts",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=BSGR&specsubj=ARTS",
+            "specializations": [
+                {
+                    "code": "003576",
+                    "name": "Minor in Arts"
+                }
+            ]
+        },
+        {
+            "code": "COMM",
+            "name": "Commerce",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=BSGR&specsubj=COMM",
+            "specializations": [
+                {
+                    "code": "003091",
+                    "name": "Minor in Commerce"
+                }
+            ]
+        },
+        {
+            "code": "FERM",
+            "name": "Fermentations",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=BSGR&specsubj=FERM",
+            "specializations": [
+                {
+                    "code": "003579",
+                    "name": "Minor in Fermentations"
+                }
+            ]
+        },
+        {
+            "code": "SCIE",
+            "name": "Science",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=BSGR&specsubj=SCIE",
+            "specializations": [
+                {
+                    "code": "003249",
+                    "name": "Minor in Science"
+                }
+            ]
+        },
+        {
+            "code": "SFS",
+            "name": "Sustainable Food Systems",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=BSGR&specsubj=SFS",
+            "specializations": [
+                {
+                    "code": "003610",
+                    "name": "Minor in Sustainable Food Systems"
+                }
+            ]
+        }
+    ]
+}

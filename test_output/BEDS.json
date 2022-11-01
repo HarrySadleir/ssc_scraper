@@ -1,0 +1,458 @@
+{
+    "code": "BEDS",
+    "name": "Bachelor of Educ (Sec)",
+    "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specprogram&tname=specprogram&dept=BEDS",
+    "subjects": [
+        {
+            "code": "ART",
+            "name": "Art",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=BEDS&specsubj=ART",
+            "specializations": [
+                {
+                    "code": "003450",
+                    "name": "Teachable Subject: Art"
+                }
+            ]
+        },
+        {
+            "code": "BISC",
+            "name": "Biological Science",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=BEDS&specsubj=BISC",
+            "specializations": [
+                {
+                    "code": "003451",
+                    "name": "Teachable Subject: Biological Science"
+                }
+            ]
+        },
+        {
+            "code": "BISF",
+            "name": "Bisc Fren Immersion 12mo",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=BEDS&specsubj=BISF",
+            "specializations": [
+                {
+                    "code": "003452",
+                    "name": "Teachable Subject: French Immer Biological Science"
+                }
+            ]
+        },
+        {
+            "code": "BUED",
+            "name": "Business Education",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=BEDS&specsubj=BUED",
+            "specializations": [
+                {
+                    "code": "003453",
+                    "name": "Teachable Subject: Business"
+                }
+            ]
+        },
+        {
+            "code": "CAPC",
+            "name": "Career Prep - Chef Instructors",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=BEDS&specsubj=CAPC",
+            "specializations": [
+                {
+                    "code": "003454",
+                    "name": "Teachable Subject: Chef Education"
+                }
+            ]
+        },
+        {
+            "code": "CEPC",
+            "name": "Career Education - Chef Spec",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=BEDS&specsubj=CEPC",
+            "specializations": [
+                {
+                    "code": "003493",
+                    "name": "Teachable Subject: Chef Education"
+                }
+            ]
+        },
+        {
+            "code": "CHEF",
+            "name": "Chem Fren Immersion 12mo",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=BEDS&specsubj=CHEF",
+            "specializations": [
+                {
+                    "code": "003456",
+                    "name": "Teachable Subject: French Immersion Chemistry"
+                }
+            ]
+        },
+        {
+            "code": "CHEM",
+            "name": "Chemistry",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=BEDS&specsubj=CHEM",
+            "specializations": [
+                {
+                    "code": "003457",
+                    "name": "Teachable Subject: Chemistry"
+                }
+            ]
+        },
+        {
+            "code": "CHIN",
+            "name": "Chinese",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=BEDS&specsubj=CHIN",
+            "specializations": [
+                {
+                    "code": "003458",
+                    "name": "Teachable Subject: Mandarin"
+                }
+            ]
+        },
+        {
+            "code": "CPSC",
+            "name": "Computer Science",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=BEDS&specsubj=CPSC",
+            "specializations": [
+                {
+                    "code": "003459",
+                    "name": "Teachable Subject: Computer Science"
+                }
+            ]
+        },
+        {
+            "code": "ELLE",
+            "name": "English Language Learners Ed",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=BEDS&specsubj=ELLE",
+            "specializations": [
+                {
+                    "code": "003461",
+                    "name": "Teachable Subject: English Language Learners Ed"
+                }
+            ]
+        },
+        {
+            "code": "ENGL",
+            "name": "English",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=BEDS&specsubj=ENGL",
+            "specializations": [
+                {
+                    "code": "003460",
+                    "name": "Teachable Subject: English"
+                }
+            ]
+        },
+        {
+            "code": "ESSC",
+            "name": "Earth & Space Science",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=BEDS&specsubj=ESSC",
+            "specializations": [
+                {
+                    "code": "003462",
+                    "name": "Teachable Subject: Earth Science"
+                }
+            ]
+        },
+        {
+            "code": "ESSF",
+            "name": "Essc Fren Immersion 12mo",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=BEDS&specsubj=ESSF",
+            "specializations": [
+                {
+                    "code": "003463",
+                    "name": "Teachable Subject: French Immersion Earth Science"
+                }
+            ]
+        },
+        {
+            "code": "FREF",
+            "name": "French Education 12 Month",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=BEDS&specsubj=FREF",
+            "specializations": [
+                {
+                    "code": "003464",
+                    "name": "Teachable Subject: French Immersion"
+                }
+            ]
+        },
+        {
+            "code": "FREN",
+            "name": "French",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=BEDS&specsubj=FREN",
+            "specializations": [
+                {
+                    "code": "003465",
+                    "name": "Teachable Subject: French"
+                }
+            ]
+        },
+        {
+            "code": "GERM",
+            "name": "German",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=BEDS&specsubj=GERM",
+            "specializations": [
+                {
+                    "code": "003466",
+                    "name": "Teachable Subject: German"
+                }
+            ]
+        },
+        {
+            "code": "HMEC",
+            "name": "Home Economics",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=BEDS&specsubj=HMEC",
+            "specializations": [
+                {
+                    "code": "003467",
+                    "name": "Teachable Subject: Home Economics"
+                }
+            ]
+        },
+        {
+            "code": "IEDU",
+            "name": "Indigenous Education",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=BEDS&specsubj=IEDU",
+            "specializations": [
+                {
+                    "code": "003643",
+                    "name": "Concentration in Indigenous Education"
+                }
+            ]
+        },
+        {
+            "code": "INDG",
+            "name": "Indigenous Studies",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=BEDS&specsubj=INDG",
+            "specializations": [
+                {
+                    "code": "003468",
+                    "name": "Teachable Subject: Indigenous Studies"
+                }
+            ]
+        },
+        {
+            "code": "ITAL",
+            "name": "Italian",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=BEDS&specsubj=ITAL",
+            "specializations": [
+                {
+                    "code": "003469",
+                    "name": "Teachable Subject: Italian"
+                }
+            ]
+        },
+        {
+            "code": "JAPN",
+            "name": "Japanese",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=BEDS&specsubj=JAPN",
+            "specializations": [
+                {
+                    "code": "003470",
+                    "name": "Teachable Subject: Japanese"
+                }
+            ]
+        },
+        {
+            "code": "KORN",
+            "name": "Korean",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=BEDS&specsubj=KORN",
+            "specializations": [
+                {
+                    "code": "003471",
+                    "name": "Teachable Subject: Korean"
+                }
+            ]
+        },
+        {
+            "code": "MATF",
+            "name": "Math Fren Immersion 12mo",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=BEDS&specsubj=MATF",
+            "specializations": [
+                {
+                    "code": "003472",
+                    "name": "Teachable Subject: French Immersion Mathematics"
+                }
+            ]
+        },
+        {
+            "code": "MATH",
+            "name": "Mathematics",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=BEDS&specsubj=MATH",
+            "specializations": [
+                {
+                    "code": "003473",
+                    "name": "Teachable Subject: Mathematics"
+                }
+            ]
+        },
+        {
+            "code": "MUSC",
+            "name": "Music",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=BEDS&specsubj=MUSC",
+            "specializations": [
+                {
+                    "code": "003474",
+                    "name": "Teachable Subject: Music"
+                }
+            ]
+        },
+        {
+            "code": "PHED",
+            "name": "Physical Education",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=BEDS&specsubj=PHED",
+            "specializations": [
+                {
+                    "code": "003475",
+                    "name": "Teachable Subject: Physical Education"
+                }
+            ]
+        },
+        {
+            "code": "PHEF",
+            "name": "Phed Fren Immersion 12mo",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=BEDS&specsubj=PHEF",
+            "specializations": [
+                {
+                    "code": "003789",
+                    "name": "Teachable Subject: French Immer Physical Education"
+                }
+            ]
+        },
+        {
+            "code": "PHYF",
+            "name": "Phys Fren Immersion 12mo",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=BEDS&specsubj=PHYF",
+            "specializations": [
+                {
+                    "code": "003476",
+                    "name": "Teachable Subject: French Immersion Physics"
+                }
+            ]
+        },
+        {
+            "code": "PHYS",
+            "name": "Physics",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=BEDS&specsubj=PHYS",
+            "specializations": [
+                {
+                    "code": "003477",
+                    "name": "Teachable Subject: Physics"
+                }
+            ]
+        },
+        {
+            "code": "PUNJ",
+            "name": "Punjabi",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=BEDS&specsubj=PUNJ",
+            "specializations": [
+                {
+                    "code": "003478",
+                    "name": "Teachable Subject: Punjabi"
+                }
+            ]
+        },
+        {
+            "code": "RUSS",
+            "name": "Russian",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=BEDS&specsubj=RUSS",
+            "specializations": [
+                {
+                    "code": "003479",
+                    "name": "Teachable Subject: Russian"
+                }
+            ]
+        },
+        {
+            "code": "SPAN",
+            "name": "Spanish",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=BEDS&specsubj=SPAN",
+            "specializations": [
+                {
+                    "code": "003480",
+                    "name": "Teachable Subject: Spanish"
+                }
+            ]
+        },
+        {
+            "code": "SSGE",
+            "name": "Social Studies-Geography",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=BEDS&specsubj=SSGE",
+            "specializations": [
+                {
+                    "code": "003481",
+                    "name": "Teachable Subject: Social Studies Geography"
+                }
+            ]
+        },
+        {
+            "code": "SSGF",
+            "name": "Ssge Fren Immersion 12mo",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=BEDS&specsubj=SSGF",
+            "specializations": [
+                {
+                    "code": "003482",
+                    "name": "Teachable Subject: French Immersion Geography"
+                }
+            ]
+        },
+        {
+            "code": "SSHF",
+            "name": "Sshi Fren Immer 12mo",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=BEDS&specsubj=SSHF",
+            "specializations": [
+                {
+                    "code": "003483",
+                    "name": "Teachable Subject: French Immersion History"
+                }
+            ]
+        },
+        {
+            "code": "SSHI",
+            "name": "Social Studies-History",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=BEDS&specsubj=SSHI",
+            "specializations": [
+                {
+                    "code": "003484",
+                    "name": "Teachable Subject: History"
+                }
+            ]
+        },
+        {
+            "code": "SSSF",
+            "name": "Ssss Fren Immer 12moO",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=BEDS&specsubj=SSSF",
+            "specializations": [
+                {
+                    "code": "003485",
+                    "name": "Teachable Subject: French Immersion Social Science"
+                }
+            ]
+        },
+        {
+            "code": "SSSS",
+            "name": "Social Studies-Social Science",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=BEDS&specsubj=SSSS",
+            "specializations": [
+                {
+                    "code": "003486",
+                    "name": "Teachable Subject: Social Science"
+                }
+            ]
+        },
+        {
+            "code": "THTR",
+            "name": "Theatre",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=BEDS&specsubj=THTR",
+            "specializations": [
+                {
+                    "code": "003487",
+                    "name": "Teachable Subject: Theatre"
+                }
+            ]
+        },
+        {
+            "code": "TSED",
+            "name": "Technology Studies Education",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=BEDS&specsubj=TSED",
+            "specializations": [
+                {
+                    "code": "003488",
+                    "name": "Teachable Subject: Technology Education"
+                }
+            ]
+        }
+    ]
+}

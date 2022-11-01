@@ -1,0 +1,106 @@
+{
+    "code": "MEL",
+    "name": "Master of EngineeringLeadershp",
+    "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specprogram&tname=specprogram&dept=MEL",
+    "subjects": [
+        {
+            "code": "ADMM",
+            "name": "Advanced Materials Manufact",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=MEL&specsubj=ADMM",
+            "specializations": [
+                {
+                    "code": "003362",
+                    "name": "In Advanced Materials Manufacturing"
+                }
+            ]
+        },
+        {
+            "code": "CEEN",
+            "name": "Clean Energy Engineering",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=MEL&specsubj=CEEN",
+            "specializations": [
+                {
+                    "code": "003363",
+                    "name": "In Clean Energy Engineering"
+                }
+            ]
+        },
+        {
+            "code": "DESS",
+            "name": "Dependable Software Systems",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=MEL&specsubj=DESS",
+            "specializations": [
+                {
+                    "code": "003365",
+                    "name": "In Dependable Software Systems"
+                }
+            ]
+        },
+        {
+            "code": "GBPR",
+            "name": "Green BioProducts",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=MEL&specsubj=GBPR",
+            "specializations": [
+                {
+                    "code": "003366",
+                    "name": "In Green BioProducts"
+                }
+            ]
+        },
+        {
+            "code": "HPB",
+            "name": "High Performance Buildings",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=MEL&specsubj=HPB",
+            "specializations": [
+                {
+                    "code": "003420",
+                    "name": "In High Performance Buildings"
+                }
+            ]
+        },
+        {
+            "code": "IWME",
+            "name": "Integrated Water Management",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=MEL&specsubj=IWME",
+            "specializations": [
+                {
+                    "code": "003367",
+                    "name": "In Integrated Water Management"
+                }
+            ]
+        },
+        {
+            "code": "NAME",
+            "name": "Naval Arch & Marine Eng",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=MEL&specsubj=NAME",
+            "specializations": [
+                {
+                    "code": "003364",
+                    "name": "In Naval Architecture and Marine Engineering"
+                }
+            ]
+        },
+        {
+            "code": "SPE",
+            "name": "Sustainable Process Eng",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=MEL&specsubj=SPE",
+            "specializations": [
+                {
+                    "code": "003652",
+                    "name": "In Sustainable Process Engineering"
+                }
+            ]
+        },
+        {
+            "code": "URSY",
+            "name": "Urban Systems",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=MEL&specsubj=URSY",
+            "specializations": [
+                {
+                    "code": "003368",
+                    "name": "In Urban Systems"
+                }
+            ]
+        }
+    ]
+}

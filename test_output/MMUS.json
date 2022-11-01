@@ -1,0 +1,114 @@
+{
+    "code": "MMUS",
+    "name": "Master of Music",
+    "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specprogram&tname=specprogram&dept=MMUS",
+    "subjects": [
+        {
+            "code": "COMP",
+            "name": "Composition",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=MMUS&specsubj=COMP",
+            "specializations": [
+                {
+                    "code": "000493",
+                    "name": "In Composition"
+                }
+            ]
+        },
+        {
+            "code": "COND",
+            "name": "Conducting",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=MMUS&specsubj=COND",
+            "specializations": [
+                {
+                    "code": "003395",
+                    "name": "In Conducting, Emphasis Choral Conducting"
+                },
+                {
+                    "code": "003397",
+                    "name": "In Conducting, Emphasis Wind Conducting"
+                },
+                {
+                    "code": "003396",
+                    "name": "In Conducting, Emphasis Orchestral Conducting"
+                }
+            ]
+        },
+        {
+            "code": "GUIT",
+            "name": "Guitar",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=MMUS&specsubj=GUIT",
+            "specializations": [
+                {
+                    "code": "000299",
+                    "name": "In Guitar"
+                }
+            ]
+        },
+        {
+            "code": "HARP",
+            "name": "Harpsichord",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=MMUS&specsubj=HARP",
+            "specializations": [
+                {
+                    "code": "001512",
+                    "name": "In Harpsichord"
+                }
+            ]
+        },
+        {
+            "code": "OPER",
+            "name": "Opera",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=MMUS&specsubj=OPER",
+            "specializations": [
+                {
+                    "code": "000184",
+                    "name": "In Opera"
+                }
+            ]
+        },
+        {
+            "code": "ORGN",
+            "name": "Organ",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=MMUS&specsubj=ORGN",
+            "specializations": [
+                {
+                    "code": "000066",
+                    "name": "In Organ"
+                }
+            ]
+        },
+        {
+            "code": "ORIN",
+            "name": "Orchestral Instrument",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=MMUS&specsubj=ORIN",
+            "specializations": [
+                {
+                    "code": "000891",
+                    "name": "In Orchestral Instrument"
+                }
+            ]
+        },
+        {
+            "code": "PIAN",
+            "name": "Piano",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=MMUS&specsubj=PIAN",
+            "specializations": [
+                {
+                    "code": "000408",
+                    "name": "In Piano"
+                }
+            ]
+        },
+        {
+            "code": "VOIC",
+            "name": "Voice",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=MMUS&specsubj=VOIC",
+            "specializations": [
+                {
+                    "code": "000559",
+                    "name": "In Voice"
+                }
+            ]
+        }
+    ]
+}

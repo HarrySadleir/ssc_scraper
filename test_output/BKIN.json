@@ -1,0 +1,117 @@
+{
+    "code": "BKIN",
+    "name": "Bachelor of Kinesiology",
+    "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specprogram&tname=specprogram&dept=BKIN",
+    "subjects": [
+        {
+            "code": "ARTS",
+            "name": "Arts",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=BKIN&specsubj=ARTS",
+            "specializations": [
+                {
+                    "code": "003174",
+                    "name": "Minor in Arts"
+                }
+            ]
+        },
+        {
+            "code": "COMM",
+            "name": "Commerce",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=BKIN&specsubj=COMM",
+            "specializations": [
+                {
+                    "code": "003172",
+                    "name": "Minor in Commerce"
+                }
+            ]
+        },
+        {
+            "code": "IDKN",
+            "name": "Interdisciplinary Studies",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=BKIN&specsubj=IDKN",
+            "specializations": [
+                {
+                    "code": "003280",
+                    "name": "Interdisciplinary Studies Option"
+                }
+            ]
+        },
+        {
+            "code": "KINH",
+            "name": "Kinesiology & Health Science",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=BKIN&specsubj=KINH",
+            "specializations": [
+                {
+                    "code": "003175",
+                    "name": "Kinesiology and Health Science Option"
+                }
+            ]
+        },
+        {
+            "code": "MDSC",
+            "name": "Multidisciplinary Science",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=BKIN&specsubj=MDSC",
+            "specializations": [
+                {
+                    "code": "003605",
+                    "name": "Multidisciplinary Science"
+                }
+            ]
+        },
+        {
+            "code": "NPSC",
+            "name": "Neuromechanical&Physiological",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=BKIN&specsubj=NPSC",
+            "specializations": [
+                {
+                    "code": "003603",
+                    "name": "Neuromechanical & Physiological Sciences"
+                }
+            ]
+        },
+        {
+            "code": "NUSC",
+            "name": "Nutritional Sciences",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=BKIN&specsubj=NUSC",
+            "specializations": [
+                {
+                    "code": "003178",
+                    "name": "Minor in Nutritional Science"
+                }
+            ]
+        },
+        {
+            "code": "PEDH",
+            "name": "Physical & Health Education",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=BKIN&specsubj=PEDH",
+            "specializations": [
+                {
+                    "code": "003176",
+                    "name": "Physical and Health Education Option"
+                }
+            ]
+        },
+        {
+            "code": "SBSC",
+            "name": "Social & Behavioural Sciences",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=BKIN&specsubj=SBSC",
+            "specializations": [
+                {
+                    "code": "003604",
+                    "name": "Social & Behavioural Sciences"
+                }
+            ]
+        },
+        {
+            "code": "SCIE",
+            "name": "Science",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=BKIN&specsubj=SCIE",
+            "specializations": [
+                {
+                    "code": "003173",
+                    "name": "Minor in Science"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,40 @@
+{
+    "code": "BSCN",
+    "name": "Bach of Scie(Naturl Res Cons)",
+    "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specprogram&tname=specprogram&dept=BSCN",
+    "subjects": [
+        {
+            "code": "COOP",
+            "name": "Co-operative Education",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=BSCN&specsubj=COOP",
+            "specializations": [
+                {
+                    "code": "001693",
+                    "name": "Co-operative Education Program"
+                }
+            ]
+        },
+        {
+            "code": "GLOP",
+            "name": "Global Perspectives",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=BSCN&specsubj=GLOP",
+            "specializations": [
+                {
+                    "code": "001701",
+                    "name": "Major in Global Perspectives"
+                }
+            ]
+        },
+        {
+            "code": "SCMA",
+            "name": "Science & Management",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=BSCN&specsubj=SCMA",
+            "specializations": [
+                {
+                    "code": "001702",
+                    "name": "Major in Science and Management"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "code": "MAS",
+    "name": "Master of Archival Studies",
+    "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specprogram&tname=specprogram&dept=MAS",
+    "subjects": [
+        {
+            "code": "COOP",
+            "name": "Co-operative Education",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=MAS&specsubj=COOP",
+            "specializations": [
+                {
+                    "code": "004229",
+                    "name": "Co-Operative Education Program"
+                }
+            ]
+        },
+        {
+            "code": "FNAT",
+            "name": "First Nations Studies",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=MAS&specsubj=FNAT",
+            "specializations": [
+                {
+                    "code": "001381",
+                    "name": "Concentration First Nations"
+                }
+            ]
+        }
+    ]
+}

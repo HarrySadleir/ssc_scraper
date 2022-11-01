@@ -1,0 +1,18 @@
+{
+    "code": "BCS",
+    "name": "Bachelor of Computer Science",
+    "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specprogram&tname=specprogram&dept=BCS",
+    "subjects": [
+        {
+            "code": "COOP",
+            "name": "Co-operative Education",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=BCS&specsubj=COOP",
+            "specializations": [
+                {
+                    "code": "001723",
+                    "name": "Co-operative Education Program"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,453 @@
+{
+    "code": "BASC",
+    "name": "Bachelor of Applied Science",
+    "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specprogram&tname=specprogram&dept=BASC",
+    "subjects": [
+        {
+            "code": "ARTS",
+            "name": "Arts",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=BASC&specsubj=ARTS",
+            "specializations": [
+                {
+                    "code": "003063",
+                    "name": "Minor in Arts"
+                }
+            ]
+        },
+        {
+            "code": "BIOL",
+            "name": "Biology",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=BASC&specsubj=BIOL",
+            "specializations": [
+                {
+                    "code": "001374",
+                    "name": "In Chemical and Biological Engineering"
+                }
+            ]
+        },
+        {
+            "code": "BMEG",
+            "name": "Biomedical Engineering",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=BASC&specsubj=BMEG",
+            "specializations": [
+                {
+                    "code": "003501",
+                    "name": "In Biomedical Engineering"
+                },
+                {
+                    "code": "001541",
+                    "name": "In Electrical Engineering, Biomedical Option"
+                }
+            ]
+        },
+        {
+            "code": "CHML",
+            "name": "Chemical Engineering",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=BASC&specsubj=CHML",
+            "specializations": [
+                {
+                    "code": "000279",
+                    "name": "In Chemical Engineering"
+                },
+                {
+                    "code": "001374",
+                    "name": "In Chemical and Biological Engineering"
+                },
+                {
+                    "code": "001092",
+                    "name": "In Chemical Engineering, Processing Option"
+                },
+                {
+                    "code": "001091",
+                    "name": "In Chemical Engineering, Biotechnical Option"
+                },
+                {
+                    "code": "001090",
+                    "name": "In Chemical Engineering, Environmental Option"
+                }
+            ]
+        },
+        {
+            "code": "CIVL",
+            "name": "Civil Engineering",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=BASC&specsubj=CIVL",
+            "specializations": [
+                {
+                    "code": "000733",
+                    "name": "In Civil Engineering, Environmental Option"
+                },
+                {
+                    "code": "000558",
+                    "name": "In Civil Engineering"
+                }
+            ]
+        },
+        {
+            "code": "COMM",
+            "name": "Commerce",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=BASC&specsubj=COMM",
+            "specializations": [
+                {
+                    "code": "001078",
+                    "name": "Minor in Commerce"
+                }
+            ]
+        },
+        {
+            "code": "CPEN",
+            "name": "Computer Engineering",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=BASC&specsubj=CPEN",
+            "specializations": [
+                {
+                    "code": "001238",
+                    "name": "In Computer Engineering, Software Option"
+                },
+                {
+                    "code": "001148",
+                    "name": "In Computer Engineering"
+                },
+                {
+                    "code": "001140",
+                    "name": "In Computer Engineering, Honours Math Option"
+                }
+            ]
+        },
+        {
+            "code": "CPSC",
+            "name": "Computer Science",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=BASC&specsubj=CPSC",
+            "specializations": [
+                {
+                    "code": "000386",
+                    "name": "In Engineering Physics, Computer Science Option"
+                }
+            ]
+        },
+        {
+            "code": "ECON",
+            "name": "Economics",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=BASC&specsubj=ECON",
+            "specializations": [
+                {
+                    "code": "004486",
+                    "name": "Minor in Economics"
+                }
+            ]
+        },
+        {
+            "code": "ELEC",
+            "name": "Electrical Eng",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=BASC&specsubj=ELEC",
+            "specializations": [
+                {
+                    "code": "000126",
+                    "name": "In Electrical Engineering, Honours Math Option"
+                },
+                {
+                    "code": "001689",
+                    "name": "In Electrical Eng,Electrical Energy Systems Opt"
+                },
+                {
+                    "code": "001688",
+                    "name": "In Electrical Eng,Nanotechnology & Microsystems"
+                },
+                {
+                    "code": "000359",
+                    "name": "In Electrical Engineering"
+                },
+                {
+                    "code": "001541",
+                    "name": "In Electrical Engineering, Biomedical Option"
+                },
+                {
+                    "code": "003556",
+                    "name": "In Engineering Physics, Spec in Electrical Eng"
+                },
+                {
+                    "code": "000264",
+                    "name": "In Engineering Physics, Electrical Option"
+                }
+            ]
+        },
+        {
+            "code": "ENPH",
+            "name": "Engineering Physics",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=BASC&specsubj=ENPH",
+            "specializations": [
+                {
+                    "code": "000386",
+                    "name": "In Engineering Physics, Computer Science Option"
+                },
+                {
+                    "code": "000204",
+                    "name": "In Engineering Physics"
+                },
+                {
+                    "code": "000264",
+                    "name": "In Engineering Physics, Electrical Option"
+                },
+                {
+                    "code": "003556",
+                    "name": "In Engineering Physics, Spec in Electrical Eng"
+                },
+                {
+                    "code": "003046",
+                    "name": "In Engineering Physics, Mechatronic Science Option"
+                },
+                {
+                    "code": "003555",
+                    "name": "In Engineering Physics, Spec in Mechanical Eng"
+                },
+                {
+                    "code": "000011",
+                    "name": "In Engineering Physics, Mechanical Option"
+                }
+            ]
+        },
+        {
+            "code": "ENTP",
+            "name": "Entrepreneurship",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=BASC&specsubj=ENTP",
+            "specializations": [
+                {
+                    "code": "003553",
+                    "name": "Minor in Entrepreneurship"
+                }
+            ]
+        },
+        {
+            "code": "ENVE",
+            "name": "Environmental Engineering",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=BASC&specsubj=ENVE",
+            "specializations": [
+                {
+                    "code": "001090",
+                    "name": "In Chemical Engineering, Environmental Option"
+                },
+                {
+                    "code": "000733",
+                    "name": "In Civil Engineering, Environmental Option"
+                },
+                {
+                    "code": "001475",
+                    "name": "In Environmental Engineering"
+                }
+            ]
+        },
+        {
+            "code": "ENVL",
+            "name": "Environmental Engineering",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=BASC&specsubj=ENVL",
+            "specializations": [
+                {
+                    "code": "003670",
+                    "name": "In Environmental Engineering"
+                }
+            ]
+        },
+        {
+            "code": "GEOE",
+            "name": "Geological Engineering",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=BASC&specsubj=GEOE",
+            "specializations": [
+                {
+                    "code": "000234",
+                    "name": "In Geological Eng.. Envrnmntl and Geotech. Opt."
+                },
+                {
+                    "code": "000473",
+                    "name": "In Geological Engineering, Fuels and Minerals Opt."
+                },
+                {
+                    "code": "000119",
+                    "name": "In Geological Engineering"
+                },
+                {
+                    "code": "000292",
+                    "name": "In Geological Engineering, Applied Geophysics Opt."
+                }
+            ]
+        },
+        {
+            "code": "HMAT",
+            "name": "Honours Math",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=BASC&specsubj=HMAT",
+            "specializations": [
+                {
+                    "code": "001716",
+                    "name": "Minor in Honours Math"
+                }
+            ]
+        },
+        {
+            "code": "IGEN",
+            "name": "Integrated Engineering",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=BASC&specsubj=IGEN",
+            "specializations": [
+                {
+                    "code": "001179",
+                    "name": "In Integrated Engineering"
+                }
+            ]
+        },
+        {
+            "code": "MANU",
+            "name": "Manufacturing Engineering",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=BASC&specsubj=MANU",
+            "specializations": [
+                {
+                    "code": "003606",
+                    "name": "In Manufacturing Engineering"
+                }
+            ]
+        },
+        {
+            "code": "MECH",
+            "name": "Mechanical Engineering",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=BASC&specsubj=MECH",
+            "specializations": [
+                {
+                    "code": "000011",
+                    "name": "In Engineering Physics, Mechanical Option"
+                },
+                {
+                    "code": "003555",
+                    "name": "In Engineering Physics, Spec in Mechanical Eng"
+                },
+                {
+                    "code": "000480",
+                    "name": "In Mechanical Engineering, Naval Architecture Opt."
+                },
+                {
+                    "code": "000571",
+                    "name": "In Mechanical Eng., Computer-Aided Automation Opt."
+                },
+                {
+                    "code": "000799",
+                    "name": "In Mechanical Engineering, Electro-Mech. Design"
+                },
+                {
+                    "code": "003778",
+                    "name": "In Mechanical Engineering, Aerospace Option"
+                },
+                {
+                    "code": "001180",
+                    "name": "In Mechanical Engineering, Thermofluids Option"
+                },
+                {
+                    "code": "001432",
+                    "name": "In Mechanical Engineering, Mechatronics Option"
+                },
+                {
+                    "code": "000140",
+                    "name": "In Mech Eng, Industrial Aerodyn. and Aircraft"
+                },
+                {
+                    "code": "003777",
+                    "name": "In Mechanical Eng,Biomechanics&Medical Devices Opt"
+                },
+                {
+                    "code": "000180",
+                    "name": "In Mechanical Engineering"
+                },
+                {
+                    "code": "001454",
+                    "name": "In Mechanical Engineering, Honours Math Option"
+                },
+                {
+                    "code": "001690",
+                    "name": "In Mechanical Engineering,Biomedical Eng Opt"
+                }
+            ]
+        },
+        {
+            "code": "MINE",
+            "name": "Mining",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=BASC&specsubj=MINE",
+            "specializations": [
+                {
+                    "code": "001430",
+                    "name": "In Mining Engineering"
+                },
+                {
+                    "code": "000031",
+                    "name": "In Mining and Mineral Process Eng., Mining Option"
+                }
+            ]
+        },
+        {
+            "code": "MMPE",
+            "name": "Mining & Mineral Process Eng",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=BASC&specsubj=MMPE",
+            "specializations": [
+                {
+                    "code": "000296",
+                    "name": "In Mining and Mineral Process Engineering"
+                },
+                {
+                    "code": "000031",
+                    "name": "In Mining and Mineral Process Eng., Mining Option"
+                },
+                {
+                    "code": "000490",
+                    "name": "In Mining & Mineral Process Eng., Mineral Proc.Opt"
+                }
+            ]
+        },
+        {
+            "code": "MTRL",
+            "name": "Materials Engineering",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=BASC&specsubj=MTRL",
+            "specializations": [
+                {
+                    "code": "003045",
+                    "name": "In Materials Engineering"
+                }
+            ]
+        },
+        {
+            "code": "PHIL",
+            "name": "Philosophy",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=BASC&specsubj=PHIL",
+            "specializations": [
+                {
+                    "code": "004489",
+                    "name": "Minor in Philosophy"
+                }
+            ]
+        },
+        {
+            "code": "PSYC",
+            "name": "Psychology",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=BASC&specsubj=PSYC",
+            "specializations": [
+                {
+                    "code": "004488",
+                    "name": "Minor in Psychology"
+                }
+            ]
+        },
+        {
+            "code": "SCIE",
+            "name": "Science",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=BASC&specsubj=SCIE",
+            "specializations": [
+                {
+                    "code": "003337",
+                    "name": "Minor in Science"
+                }
+            ]
+        },
+        {
+            "code": "SOCI",
+            "name": "Sociology",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=BASC&specsubj=SOCI",
+            "specializations": [
+                {
+                    "code": "004487",
+                    "name": "Minor in Sociology"
+                }
+            ]
+        }
+    ]
+}

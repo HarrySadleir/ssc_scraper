@@ -1,0 +1,282 @@
+{
+    "code": "DEDU",
+    "name": "Diploma in Education",
+    "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specprogram&tname=specprogram&dept=DEDU",
+    "subjects": [
+        {
+            "code": "ADED",
+            "name": "Adult Education",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=DEDU&specsubj=ADED",
+            "specializations": [
+                {
+                    "code": "000224",
+                    "name": "(Adult Education)"
+                }
+            ]
+        },
+        {
+            "code": "ARTE",
+            "name": "Art Education",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=DEDU&specsubj=ARTE",
+            "specializations": [
+                {
+                    "code": "000468",
+                    "name": "(Art Education)"
+                }
+            ]
+        },
+        {
+            "code": "BUED",
+            "name": "Business Education",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=DEDU&specsubj=BUED",
+            "specializations": [
+                {
+                    "code": "000277",
+                    "name": "(Business Education)"
+                }
+            ]
+        },
+        {
+            "code": "CSED",
+            "name": "Computing Studies Education",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=DEDU&specsubj=CSED",
+            "specializations": [
+                {
+                    "code": "000521",
+                    "name": "(Computing Studies Education)"
+                }
+            ]
+        },
+        {
+            "code": "ECED",
+            "name": "Early Childhood Education",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=DEDU&specsubj=ECED",
+            "specializations": [
+                {
+                    "code": "000904",
+                    "name": "(Early Childhood Education)"
+                }
+            ]
+        },
+        {
+            "code": "EDCI",
+            "name": "Educ Curric & Instruct Studies",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=DEDU&specsubj=EDCI",
+            "specializations": [
+                {
+                    "code": "000191",
+                    "name": "(Curriculum and Instructional Studies)"
+                }
+            ]
+        },
+        {
+            "code": "EDYC",
+            "name": "Education of Young Children",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=DEDU&specsubj=EDYC",
+            "specializations": [
+                {
+                    "code": "000331",
+                    "name": "(Education of Young Children)"
+                }
+            ]
+        },
+        {
+            "code": "EYED",
+            "name": "Early Years Education",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=DEDU&specsubj=EYED",
+            "specializations": [
+                {
+                    "code": "001380",
+                    "name": "(Early Years Education)"
+                }
+            ]
+        },
+        {
+            "code": "GUID",
+            "name": "Guidance Studies",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=DEDU&specsubj=GUID",
+            "specializations": [
+                {
+                    "code": "000494",
+                    "name": "(Guidance Studies)"
+                }
+            ]
+        },
+        {
+            "code": "HLED",
+            "name": "Health Education",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=DEDU&specsubj=HLED",
+            "specializations": [
+                {
+                    "code": "000872",
+                    "name": "(Health Education)"
+                }
+            ]
+        },
+        {
+            "code": "HMED",
+            "name": "Home Economics Education",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=DEDU&specsubj=HMED",
+            "specializations": [
+                {
+                    "code": "000863",
+                    "name": "(Home Economics Education)"
+                }
+            ]
+        },
+        {
+            "code": "IDSC",
+            "name": "Infant Devl/Supp Child Care",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=DEDU&specsubj=IDSC",
+            "specializations": [
+                {
+                    "code": "001229",
+                    "name": "(Infant Development/Supported Child Care)"
+                }
+            ]
+        },
+        {
+            "code": "LIBE",
+            "name": "Library Education",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=DEDU&specsubj=LIBE",
+            "specializations": [
+                {
+                    "code": "000092",
+                    "name": "(Library Education)"
+                }
+            ]
+        },
+        {
+            "code": "LLED",
+            "name": "Language & Literacy Ed",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=DEDU&specsubj=LLED",
+            "specializations": [
+                {
+                    "code": "001171",
+                    "name": "(Language and Literacy Education)"
+                }
+            ]
+        },
+        {
+            "code": "MAED",
+            "name": "Mathematics Education",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=DEDU&specsubj=MAED",
+            "specializations": [
+                {
+                    "code": "000350",
+                    "name": "(Mathematics Education)"
+                }
+            ]
+        },
+        {
+            "code": "MSED",
+            "name": "Mathematics & Science Educ",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=DEDU&specsubj=MSED",
+            "specializations": [
+                {
+                    "code": "000500",
+                    "name": "(Mathematics and Science Education)"
+                }
+            ]
+        },
+        {
+            "code": "OTEN",
+            "name": "Outdoor Environmental Educ",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=DEDU&specsubj=OTEN",
+            "specializations": [
+                {
+                    "code": "000650",
+                    "name": "(Outdoor Environmental Education)"
+                }
+            ]
+        },
+        {
+            "code": "PHED",
+            "name": "Physical Education",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=DEDU&specsubj=PHED",
+            "specializations": [
+                {
+                    "code": "000426",
+                    "name": "(Physical Education)"
+                }
+            ]
+        },
+        {
+            "code": "SCED",
+            "name": "Science Education",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=DEDU&specsubj=SCED",
+            "specializations": [
+                {
+                    "code": "000520",
+                    "name": "(Science Education)"
+                }
+            ]
+        },
+        {
+            "code": "SEDP",
+            "name": "Secondary Education Dipl Pgm",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=DEDU&specsubj=SEDP",
+            "specializations": [
+                {
+                    "code": "001686",
+                    "name": "(Secondary Education)"
+                }
+            ]
+        },
+        {
+            "code": "SPED",
+            "name": "Special Education",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=DEDU&specsubj=SPED",
+            "specializations": [
+                {
+                    "code": "000033",
+                    "name": "(Special Education)"
+                }
+            ]
+        },
+        {
+            "code": "SSED",
+            "name": "Social Studies Education",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=DEDU&specsubj=SSED",
+            "specializations": [
+                {
+                    "code": "001095",
+                    "name": "(Social Studies Education)"
+                }
+            ]
+        },
+        {
+            "code": "TESL",
+            "name": "Teaching Engl as a 2nd Lang",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=DEDU&specsubj=TESL",
+            "specializations": [
+                {
+                    "code": "003377",
+                    "name": "(Teaching English as a Second Language)"
+                }
+            ]
+        },
+        {
+            "code": "TSED",
+            "name": "Technology Studies Education",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=DEDU&specsubj=TSED",
+            "specializations": [
+                {
+                    "code": "002941",
+                    "name": "(Technology Studies in Education)"
+                }
+            ]
+        },
+        {
+            "code": "VPAE",
+            "name": "Visual & Performing Arts in Ed",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=DEDU&specsubj=VPAE",
+            "specializations": [
+                {
+                    "code": "000125",
+                    "name": "(Visual and Performing Arts in Education)"
+                }
+            ]
+        }
+    ]
+}

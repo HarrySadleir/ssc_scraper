@@ -1,0 +1,719 @@
+{
+    "code": "MA",
+    "name": "Master of Arts",
+    "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specprogram&tname=specprogram&dept=MA",
+    "subjects": [
+        {
+            "code": "ACRE",
+            "name": "Ancient Culture,Religion&Ethn",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=MA&specsubj=ACRE",
+            "specializations": [
+                {
+                    "code": "001369",
+                    "name": "In Ancient Culture, Religion & Ethnicity"
+                }
+            ]
+        },
+        {
+            "code": "ALE",
+            "name": "Adult Learning and Education",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=MA&specsubj=ALE",
+            "specializations": [
+                {
+                    "code": "003195",
+                    "name": "In Adult Learning and Education"
+                }
+            ]
+        },
+        {
+            "code": "ANTH",
+            "name": "Anthropology",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=MA&specsubj=ANTH",
+            "specializations": [
+                {
+                    "code": "000176",
+                    "name": "In Anthropology"
+                }
+            ]
+        },
+        {
+            "code": "ARTE",
+            "name": "Art Education",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=MA&specsubj=ARTE",
+            "specializations": [
+                {
+                    "code": "000431",
+                    "name": "In Art Education"
+                }
+            ]
+        },
+        {
+            "code": "ARTH",
+            "name": "Art History & Visual Culture",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=MA&specsubj=ARTH",
+            "specializations": [
+                {
+                    "code": "001801",
+                    "name": "In Art History and Theory"
+                }
+            ]
+        },
+        {
+            "code": "ASIA",
+            "name": "Asian Studies",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=MA&specsubj=ASIA",
+            "specializations": [
+                {
+                    "code": "000458",
+                    "name": "In Asian Studies"
+                }
+            ]
+        },
+        {
+            "code": "BUED",
+            "name": "Business Education",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=MA&specsubj=BUED",
+            "specializations": [
+                {
+                    "code": "000164",
+                    "name": "In Business Education"
+                }
+            ]
+        },
+        {
+            "code": "CCFI",
+            "name": "Cross-Faculty Inquiry in Educ",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=MA&specsubj=CCFI",
+            "specializations": [
+                {
+                    "code": "001667",
+                    "name": "In Cross-Faculty Inquiry in Education"
+                }
+            ]
+        },
+        {
+            "code": "CCST",
+            "name": "Critical Curatorial Studies",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=MA&specsubj=CCST",
+            "specializations": [
+                {
+                    "code": "001894",
+                    "name": "In Art History (Critical Curatorial Studies)"
+                }
+            ]
+        },
+        {
+            "code": "CHIL",
+            "name": "Children's Literature",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=MA&specsubj=CHIL",
+            "specializations": [
+                {
+                    "code": "001038",
+                    "name": "in Children's Literature"
+                }
+            ]
+        },
+        {
+            "code": "CLAS",
+            "name": "Classics",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=MA&specsubj=CLAS",
+            "specializations": [
+                {
+                    "code": "000171",
+                    "name": "In Classics"
+                }
+            ]
+        },
+        {
+            "code": "CMST",
+            "name": "Cinema and Media Studies",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=MA&specsubj=CMST",
+            "specializations": [
+                {
+                    "code": "003522",
+                    "name": "In Cinema and Media Studies"
+                }
+            ]
+        },
+        {
+            "code": "CNAR",
+            "name": "Classic &Near East Archaeology",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=MA&specsubj=CNAR",
+            "specializations": [
+                {
+                    "code": "003257",
+                    "name": "In Classical and Near Eastern Archaeology"
+                }
+            ]
+        },
+        {
+            "code": "CNPS",
+            "name": "Counselling Psychology",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=MA&specsubj=CNPS",
+            "specializations": [
+                {
+                    "code": "000395",
+                    "name": "In Counselling Psychology"
+                }
+            ]
+        },
+        {
+            "code": "CRWR",
+            "name": "Creative Writing",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=MA&specsubj=CRWR",
+            "specializations": [
+                {
+                    "code": "009215",
+                    "name": "In Creative Writing"
+                }
+            ]
+        },
+        {
+            "code": "CUST",
+            "name": "Curriculum Studies",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=MA&specsubj=CUST",
+            "specializations": [
+                {
+                    "code": "000920",
+                    "name": "In Curriculum Studies"
+                }
+            ]
+        },
+        {
+            "code": "ECED",
+            "name": "Early Childhood Education",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=MA&specsubj=ECED",
+            "specializations": [
+                {
+                    "code": "000052",
+                    "name": "In Early Childhood Education"
+                }
+            ]
+        },
+        {
+            "code": "ECON",
+            "name": "Economics",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=MA&specsubj=ECON",
+            "specializations": [
+                {
+                    "code": "000399",
+                    "name": "In Economics"
+                }
+            ]
+        },
+        {
+            "code": "EDST",
+            "name": "Educational Studies",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=MA&specsubj=EDST",
+            "specializations": [
+                {
+                    "code": "000285",
+                    "name": "In Educational Studies"
+                }
+            ]
+        },
+        {
+            "code": "ENGL",
+            "name": "English",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=MA&specsubj=ENGL",
+            "specializations": [
+                {
+                    "code": "000104",
+                    "name": "In English"
+                }
+            ]
+        },
+        {
+            "code": "EUST",
+            "name": "European Studies",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=MA&specsubj=EUST",
+            "specializations": [
+                {
+                    "code": "001160",
+                    "name": "In European Studies"
+                }
+            ]
+        },
+        {
+            "code": "FINA",
+            "name": "Fine Arts",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=MA&specsubj=FINA",
+            "specializations": [
+                {
+                    "code": "000098",
+                    "name": "In Fine Arts (Art History)"
+                }
+            ]
+        },
+        {
+            "code": "FIPR",
+            "name": "Film Production",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=MA&specsubj=FIPR",
+            "specializations": [
+                {
+                    "code": "001596",
+                    "name": "In Film Production"
+                }
+            ]
+        },
+        {
+            "code": "FIST",
+            "name": "Film Studies",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=MA&specsubj=FIST",
+            "specializations": [
+                {
+                    "code": "000898",
+                    "name": "In Film Studies"
+                }
+            ]
+        },
+        {
+            "code": "FREN",
+            "name": "French",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=MA&specsubj=FREN",
+            "specializations": [
+                {
+                    "code": "000519",
+                    "name": "In French"
+                }
+            ]
+        },
+        {
+            "code": "GEOG",
+            "name": "Geography",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=MA&specsubj=GEOG",
+            "specializations": [
+                {
+                    "code": "000278",
+                    "name": "In Geography"
+                }
+            ]
+        },
+        {
+            "code": "GERM",
+            "name": "German",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=MA&specsubj=GERM",
+            "specializations": [
+                {
+                    "code": "000507",
+                    "name": "In Germanic Studies"
+                }
+            ]
+        },
+        {
+            "code": "GRSJ",
+            "name": "GenderRaceSexualitySocialJust",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=MA&specsubj=GRSJ",
+            "specializations": [
+                {
+                    "code": "003224",
+                    "name": "In Gender, Race, Sexuality and Social Justice"
+                }
+            ]
+        },
+        {
+            "code": "HCI",
+            "name": "Human Computer Interaction",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=MA&specsubj=HCI",
+            "specializations": [
+                {
+                    "code": "001507",
+                    "name": "Sub-Specialization in Human-Computer Interaction"
+                }
+            ]
+        },
+        {
+            "code": "HDLC",
+            "name": "Human Devl,Learning & Culture",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=MA&specsubj=HDLC",
+            "specializations": [
+                {
+                    "code": "001697",
+                    "name": "In Human Development, Learning and Culture"
+                }
+            ]
+        },
+        {
+            "code": "HIED",
+            "name": "Higher Education",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=MA&specsubj=HIED",
+            "specializations": [
+                {
+                    "code": "000267",
+                    "name": "In Higher Education"
+                }
+            ]
+        },
+        {
+            "code": "HISP",
+            "name": "Hispanic Studies",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=MA&specsubj=HISP",
+            "specializations": [
+                {
+                    "code": "001422",
+                    "name": "In Hispanic Studies"
+                }
+            ]
+        },
+        {
+            "code": "HIST",
+            "name": "History",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=MA&specsubj=HIST",
+            "specializations": [
+                {
+                    "code": "000037",
+                    "name": "In History"
+                }
+            ]
+        },
+        {
+            "code": "HMED",
+            "name": "Home Economics Education",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=MA&specsubj=HMED",
+            "specializations": [
+                {
+                    "code": "000306",
+                    "name": "In Home Economics Education"
+                }
+            ]
+        },
+        {
+            "code": "HOPE",
+            "name": "Health,Outdoor & Physical Educ",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=MA&specsubj=HOPE",
+            "specializations": [
+                {
+                    "code": "003612",
+                    "name": "In Health, Outdoor and Physical Education"
+                }
+            ]
+        },
+        {
+            "code": "INDS",
+            "name": "Interdisciplinary Studies",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=MA&specsubj=INDS",
+            "specializations": [
+                {
+                    "code": "000313",
+                    "name": "In Interdisciplinary Studies"
+                }
+            ]
+        },
+        {
+            "code": "KIN",
+            "name": "Kinesiology",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=MA&specsubj=KIN",
+            "specializations": [
+                {
+                    "code": "003181",
+                    "name": "In Kinesiology"
+                }
+            ]
+        },
+        {
+            "code": "LING",
+            "name": "Linguistics",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=MA&specsubj=LING",
+            "specializations": [
+                {
+                    "code": "000312",
+                    "name": "In Linguistics"
+                }
+            ]
+        },
+        {
+            "code": "LITR",
+            "name": "Literacy Education",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=MA&specsubj=LITR",
+            "specializations": [
+                {
+                    "code": "001361",
+                    "name": "In Literacy Education"
+                }
+            ]
+        },
+        {
+            "code": "MAED",
+            "name": "Mathematics Education",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=MA&specsubj=MAED",
+            "specializations": [
+                {
+                    "code": "000034",
+                    "name": "In Mathematics Education"
+                }
+            ]
+        },
+        {
+            "code": "MATH",
+            "name": "Mathematics",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=MA&specsubj=MATH",
+            "specializations": [
+                {
+                    "code": "000212",
+                    "name": "In Mathematics"
+                }
+            ]
+        },
+        {
+            "code": "MERM",
+            "name": "Measurement & Evaluation",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=MA&specsubj=MERM",
+            "specializations": [
+                {
+                    "code": "000437",
+                    "name": "In Measurement, Eval and Research Methodology"
+                }
+            ]
+        },
+        {
+            "code": "MLED",
+            "name": "Modern Languages Education",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=MA&specsubj=MLED",
+            "specializations": [
+                {
+                    "code": "000418",
+                    "name": "In Modern Languages Education"
+                }
+            ]
+        },
+        {
+            "code": "MTSE",
+            "name": "Media & Technology Studies Ed",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=MA&specsubj=MTSE",
+            "specializations": [
+                {
+                    "code": "003315",
+                    "name": "In Media and Technology Studies Education"
+                }
+            ]
+        },
+        {
+            "code": "MUED",
+            "name": "Music Education",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=MA&specsubj=MUED",
+            "specializations": [
+                {
+                    "code": "000080",
+                    "name": "In Music Education"
+                }
+            ]
+        },
+        {
+            "code": "MUSC",
+            "name": "Music",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=MA&specsubj=MUSC",
+            "specializations": [
+                {
+                    "code": "000413",
+                    "name": "In Music, Emphasis Ethnomusicology"
+                },
+                {
+                    "code": "000547",
+                    "name": "In Music, Emphasis Musicology"
+                },
+                {
+                    "code": "000543",
+                    "name": "In Music, Emphasis Theory"
+                }
+            ]
+        },
+        {
+            "code": "PHIL",
+            "name": "Philosophy",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=MA&specsubj=PHIL",
+            "specializations": [
+                {
+                    "code": "000113",
+                    "name": "In Philosophy"
+                }
+            ]
+        },
+        {
+            "code": "POLI",
+            "name": "Political Science",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=MA&specsubj=POLI",
+            "specializations": [
+                {
+                    "code": "000360",
+                    "name": "In Political Science"
+                }
+            ]
+        },
+        {
+            "code": "PSYC",
+            "name": "Psychology",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=MA&specsubj=PSYC",
+            "specializations": [
+                {
+                    "code": "000016",
+                    "name": "In Psychology"
+                }
+            ]
+        },
+        {
+            "code": "RELG",
+            "name": "Religious Studies",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=MA&specsubj=RELG",
+            "specializations": [
+                {
+                    "code": "000327",
+                    "name": "In Religious Studies"
+                }
+            ]
+        },
+        {
+            "code": "RES",
+            "name": "Resources,Enviro & Sustain",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=MA&specsubj=RES",
+            "specializations": [
+                {
+                    "code": "003389",
+                    "name": "In Resources, Environment and Sustainability"
+                }
+            ]
+        },
+        {
+            "code": "SACP",
+            "name": "School & Applied Child Psych",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=MA&specsubj=SACP",
+            "specializations": [
+                {
+                    "code": "003649",
+                    "name": "In School and Applied Child Psychology"
+                }
+            ]
+        },
+        {
+            "code": "SCED",
+            "name": "Science Education",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=MA&specsubj=SCED",
+            "specializations": [
+                {
+                    "code": "000488",
+                    "name": "In Science Education"
+                }
+            ]
+        },
+        {
+            "code": "SCPE",
+            "name": "Society,Cultr & Politics in Ed",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=MA&specsubj=SCPE",
+            "specializations": [
+                {
+                    "code": "001464",
+                    "name": "In Society, Culture and Politics in Education"
+                }
+            ]
+        },
+        {
+            "code": "SCPS",
+            "name": "School Psychology",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=MA&specsubj=SCPS",
+            "specializations": [
+                {
+                    "code": "000354",
+                    "name": "In School Psychology"
+                }
+            ]
+        },
+        {
+            "code": "SOCI",
+            "name": "Sociology",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=MA&specsubj=SOCI",
+            "specializations": [
+                {
+                    "code": "000385",
+                    "name": "In Sociology"
+                }
+            ]
+        },
+        {
+            "code": "SPED",
+            "name": "Special Education",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=MA&specsubj=SPED",
+            "specializations": [
+                {
+                    "code": "000255",
+                    "name": "In Special Education"
+                }
+            ]
+        },
+        {
+            "code": "SSED",
+            "name": "Social Studies Education",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=MA&specsubj=SSED",
+            "specializations": [
+                {
+                    "code": "000274",
+                    "name": "In Social Studies Education"
+                }
+            ]
+        },
+        {
+            "code": "STS",
+            "name": "Science and Technology Studies",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=MA&specsubj=STS",
+            "specializations": [
+                {
+                    "code": "003189",
+                    "name": "In Science and Technology Studies"
+                }
+            ]
+        },
+        {
+            "code": "TESL",
+            "name": "Teaching Engl as a 2nd Lang",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=MA&specsubj=TESL",
+            "specializations": [
+                {
+                    "code": "001392",
+                    "name": "in Teaching English as a Second Language"
+                }
+            ]
+        },
+        {
+            "code": "THTR",
+            "name": "Theatre",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=MA&specsubj=THTR",
+            "specializations": [
+                {
+                    "code": "000419",
+                    "name": "In Theatre"
+                }
+            ]
+        },
+        {
+            "code": "TSED",
+            "name": "Technology Studies Education",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=MA&specsubj=TSED",
+            "specializations": [
+                {
+                    "code": "000620",
+                    "name": "In Technology Studies Education"
+                }
+            ]
+        },
+        {
+            "code": "VISA",
+            "name": "Visual Arts",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=MA&specsubj=VISA",
+            "specializations": [
+                {
+                    "code": "001800",
+                    "name": "In Visual Arts"
+                }
+            ]
+        },
+        {
+            "code": "VRHC",
+            "name": "Vocational Rehab Counselling",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=MA&specsubj=VRHC",
+            "specializations": [
+                {
+                    "code": "000338",
+                    "name": "In Vocational Rehabilitation Counselling"
+                }
+            ]
+        }
+    ]
+}

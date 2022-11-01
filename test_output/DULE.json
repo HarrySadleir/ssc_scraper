@@ -1,0 +1,62 @@
+{
+    "code": "DULE",
+    "name": "Diploma in Urban Land Econ.",
+    "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specprogram&tname=specprogram&dept=DULE",
+    "subjects": [
+        {
+            "code": "APPR",
+            "name": "Appraisal",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=DULE&specsubj=APPR",
+            "specializations": [
+                {
+                    "code": "001080",
+                    "name": "Appraisal Option"
+                }
+            ]
+        },
+        {
+            "code": "DVEL",
+            "name": "Development",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=DULE&specsubj=DVEL",
+            "specializations": [
+                {
+                    "code": "001283",
+                    "name": "Development Option"
+                }
+            ]
+        },
+        {
+            "code": "REBR",
+            "name": "Real Estate Brokerage",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=DULE&specsubj=REBR",
+            "specializations": [
+                {
+                    "code": "003573",
+                    "name": "Real Estate Brokerage Option"
+                }
+            ]
+        },
+        {
+            "code": "REMT",
+            "name": "Real Estate Management",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=DULE&specsubj=REMT",
+            "specializations": [
+                {
+                    "code": "001079",
+                    "name": "Real Estate Management Option"
+                }
+            ]
+        },
+        {
+            "code": "RPAS",
+            "name": "Real Property Assmt",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=DULE&specsubj=RPAS",
+            "specializations": [
+                {
+                    "code": "001081",
+                    "name": "Real Property Assessment Option"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,171 @@
+{
+    "code": "MASC",
+    "name": "Master of Applied Science",
+    "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specprogram&tname=specprogram&dept=MASC",
+    "subjects": [
+        {
+            "code": "BMEG",
+            "name": "Biomedical Engineering",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=MASC&specsubj=BMEG",
+            "specializations": [
+                {
+                    "code": "003038",
+                    "name": "In Biomedical Engineering"
+                },
+                {
+                    "code": "003036",
+                    "name": "In Biomedical Engineering"
+                },
+                {
+                    "code": "003560",
+                    "name": "In Biomedical Engineering"
+                },
+                {
+                    "code": "003039",
+                    "name": "In Biomedical Engineering"
+                },
+                {
+                    "code": "003037",
+                    "name": "In Biomedical Engineering"
+                }
+            ]
+        },
+        {
+            "code": "CHBE",
+            "name": "Chemical & Biol Engineering",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=MASC&specsubj=CHBE",
+            "specializations": [
+                {
+                    "code": "003036",
+                    "name": "In Biomedical Engineering"
+                },
+                {
+                    "code": "000221",
+                    "name": "In Chemical and Biological Engineering"
+                }
+            ]
+        },
+        {
+            "code": "CIVL",
+            "name": "Civil Engineering",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=MASC&specsubj=CIVL",
+            "specializations": [
+                {
+                    "code": "000465",
+                    "name": "In Civil Engineering"
+                }
+            ]
+        },
+        {
+            "code": "EECE",
+            "name": "Electrical & Computer Eng",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=MASC&specsubj=EECE",
+            "specializations": [
+                {
+                    "code": "003037",
+                    "name": "In Biomedical Engineering"
+                },
+                {
+                    "code": "001438",
+                    "name": "In Electrical & Computer Engineering"
+                }
+            ]
+        },
+        {
+            "code": "ENPH",
+            "name": "Engineering Physics",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=MASC&specsubj=ENPH",
+            "specializations": [
+                {
+                    "code": "000544",
+                    "name": "In Engineering Physics"
+                }
+            ]
+        },
+        {
+            "code": "FRST",
+            "name": "Forestry",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=MASC&specsubj=FRST",
+            "specializations": [
+                {
+                    "code": "000654",
+                    "name": "In Forestry"
+                }
+            ]
+        },
+        {
+            "code": "GEOE",
+            "name": "Geological Engineering",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=MASC&specsubj=GEOE",
+            "specializations": [
+                {
+                    "code": "000505",
+                    "name": "In Geological Engineering"
+                }
+            ]
+        },
+        {
+            "code": "GEOP",
+            "name": "Geophysics",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=MASC&specsubj=GEOP",
+            "specializations": [
+                {
+                    "code": "000043",
+                    "name": "In Geophysics"
+                }
+            ]
+        },
+        {
+            "code": "HCI",
+            "name": "Human Computer Interaction",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=MASC&specsubj=HCI",
+            "specializations": [
+                {
+                    "code": "001508",
+                    "name": "Sub-Specialization in Human-Computer Interaction"
+                }
+            ]
+        },
+        {
+            "code": "MECH",
+            "name": "Mechanical Engineering",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=MASC&specsubj=MECH",
+            "specializations": [
+                {
+                    "code": "003039",
+                    "name": "In Biomedical Engineering"
+                },
+                {
+                    "code": "000545",
+                    "name": "In Mechanical Engineering"
+                }
+            ]
+        },
+        {
+            "code": "MINE",
+            "name": "Mining",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=MASC&specsubj=MINE",
+            "specializations": [
+                {
+                    "code": "001627",
+                    "name": "In Mining Engineering"
+                }
+            ]
+        },
+        {
+            "code": "MTRL",
+            "name": "Materials Engineering",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=MASC&specsubj=MTRL",
+            "specializations": [
+                {
+                    "code": "003038",
+                    "name": "In Biomedical Engineering"
+                },
+                {
+                    "code": "001594",
+                    "name": "In Materials Engineering"
+                }
+            ]
+        }
+    ]
+}

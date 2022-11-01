@@ -1,0 +1,117 @@
+{
+    "code": "BCOM",
+    "name": "Bachelor of Commerce",
+    "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specprogram&tname=specprogram&dept=BCOM",
+    "subjects": [
+        {
+            "code": "ACCT",
+            "name": "Accounting",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=BCOM&specsubj=ACCT",
+            "specializations": [
+                {
+                    "code": "000077",
+                    "name": "Accounting Option"
+                }
+            ]
+        },
+        {
+            "code": "BTM",
+            "name": "Business Technology Mgmt",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=BCOM&specsubj=BTM",
+            "specializations": [
+                {
+                    "code": "003146",
+                    "name": "Business Technology Management"
+                }
+            ]
+        },
+        {
+            "code": "ENTR",
+            "name": "Entrepreneurship Commerce",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=BCOM&specsubj=ENTR",
+            "specializations": [
+                {
+                    "code": "003258",
+                    "name": "Entrepreneurship Option"
+                }
+            ]
+        },
+        {
+            "code": "FINC",
+            "name": "Finance",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=BCOM&specsubj=FINC",
+            "specializations": [
+                {
+                    "code": "000491",
+                    "name": "Finance Option"
+                }
+            ]
+        },
+        {
+            "code": "GMGT",
+            "name": "General Business Mgmt",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=BCOM&specsubj=GMGT",
+            "specializations": [
+                {
+                    "code": "000621",
+                    "name": "General Business Management Option"
+                }
+            ]
+        },
+        {
+            "code": "GSCL",
+            "name": "Global Supply Chain & Log",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=BCOM&specsubj=GSCL",
+            "specializations": [
+                {
+                    "code": "003349",
+                    "name": "Global Supply Chain and Logistics Management"
+                }
+            ]
+        },
+        {
+            "code": "MKTG",
+            "name": "Marketing",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=BCOM&specsubj=MKTG",
+            "specializations": [
+                {
+                    "code": "000172",
+                    "name": "Marketing Option"
+                }
+            ]
+        },
+        {
+            "code": "OBHR",
+            "name": "Org Behavior & HR",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=BCOM&specsubj=OBHR",
+            "specializations": [
+                {
+                    "code": "003117",
+                    "name": "Organizational Behaviour & Human Resources Option"
+                }
+            ]
+        },
+        {
+            "code": "OPLG",
+            "name": "Operations and Logistics",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=BCOM&specsubj=OPLG",
+            "specializations": [
+                {
+                    "code": "003353",
+                    "name": "Operations and Logistics"
+                }
+            ]
+        },
+        {
+            "code": "REAL",
+            "name": "Real Estate",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=BCOM&specsubj=REAL",
+            "specializations": [
+                {
+                    "code": "001389",
+                    "name": "Real Estate Option"
+                }
+            ]
+        }
+    ]
+}

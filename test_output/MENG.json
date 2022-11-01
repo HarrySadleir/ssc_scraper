@@ -1,0 +1,128 @@
+{
+    "code": "MENG",
+    "name": "Master of Engineering",
+    "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specprogram&tname=specprogram&dept=MENG",
+    "subjects": [
+        {
+            "code": "BMEG",
+            "name": "Biomedical Engineering",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=MENG&specsubj=BMEG",
+            "specializations": [
+                {
+                    "code": "003062",
+                    "name": "In Biomedical Engineering"
+                }
+            ]
+        },
+        {
+            "code": "CEEN",
+            "name": "Clean Energy Engineering",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=MENG&specsubj=CEEN",
+            "specializations": [
+                {
+                    "code": "003076",
+                    "name": "In Clean Energy Engineering"
+                }
+            ]
+        },
+        {
+            "code": "CHBE",
+            "name": "Chemical & Biol Engineering",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=MENG&specsubj=CHBE",
+            "specializations": [
+                {
+                    "code": "000083",
+                    "name": "In Chemical and Biological Engineering"
+                }
+            ]
+        },
+        {
+            "code": "CIVL",
+            "name": "Civil Engineering",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=MENG&specsubj=CIVL",
+            "specializations": [
+                {
+                    "code": "000207",
+                    "name": "In Civil Engineering"
+                }
+            ]
+        },
+        {
+            "code": "EECE",
+            "name": "Electrical & Computer Eng",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=MENG&specsubj=EECE",
+            "specializations": [
+                {
+                    "code": "001439",
+                    "name": "In Electrical & Computer Engineering"
+                }
+            ]
+        },
+        {
+            "code": "GEOE",
+            "name": "Geological Engineering",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=MENG&specsubj=GEOE",
+            "specializations": [
+                {
+                    "code": "000452",
+                    "name": "In Geological Engineering"
+                }
+            ]
+        },
+        {
+            "code": "HCI",
+            "name": "Human Computer Interaction",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=MENG&specsubj=HCI",
+            "specializations": [
+                {
+                    "code": "001505",
+                    "name": "Sub-Specialization in Human-Computer Interaction"
+                }
+            ]
+        },
+        {
+            "code": "MECD",
+            "name": "Mechatronics Design",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=MENG&specsubj=MECD",
+            "specializations": [
+                {
+                    "code": "001692",
+                    "name": "In Mechatronics Design"
+                }
+            ]
+        },
+        {
+            "code": "MECH",
+            "name": "Mechanical Engineering",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=MENG&specsubj=MECH",
+            "specializations": [
+                {
+                    "code": "000120",
+                    "name": "In Mechanical Engineering"
+                }
+            ]
+        },
+        {
+            "code": "MINE",
+            "name": "Mining",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=MENG&specsubj=MINE",
+            "specializations": [
+                {
+                    "code": "001626",
+                    "name": "In Mining Engineering"
+                }
+            ]
+        },
+        {
+            "code": "NAME",
+            "name": "Naval Arch & Marine Eng",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=MENG&specsubj=NAME",
+            "specializations": [
+                {
+                    "code": "003290",
+                    "name": "In Naval Architecture and Marine Engineering"
+                }
+            ]
+        }
+    ]
+}

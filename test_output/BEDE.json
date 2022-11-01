@@ -1,0 +1,117 @@
+{
+    "code": "BEDE",
+    "name": "Bachelor of Educ (Elementary)",
+    "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specprogram&tname=specprogram&dept=BEDE",
+    "subjects": [
+        {
+            "code": "EAAL",
+            "name": "English As Additional Lang",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=BEDE&specsubj=EAAL",
+            "specializations": [
+                {
+                    "code": "000845",
+                    "name": "Concentration in English as an Additional Language"
+                }
+            ]
+        },
+        {
+            "code": "EXAR",
+            "name": "Expressive Arts in Education",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=BEDE&specsubj=EXAR",
+            "specializations": [
+                {
+                    "code": "000855",
+                    "name": "Concentration in Expressive Arts"
+                }
+            ]
+        },
+        {
+            "code": "FNED",
+            "name": "Foundations",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=BEDE&specsubj=FNED",
+            "specializations": [
+                {
+                    "code": "001172",
+                    "name": "Concentration First Nations Education"
+                }
+            ]
+        },
+        {
+            "code": "FREN",
+            "name": "French",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=BEDE&specsubj=FREN",
+            "specializations": [
+                {
+                    "code": "003116",
+                    "name": "Concentration in Core French"
+                }
+            ]
+        },
+        {
+            "code": "FRIM",
+            "name": "Fren Immersion Educ",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=BEDE&specsubj=FRIM",
+            "specializations": [
+                {
+                    "code": "002963",
+                    "name": "Concentration in French Immersion Education"
+                }
+            ]
+        },
+        {
+            "code": "HUMT",
+            "name": "Humanities",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=BEDE&specsubj=HUMT",
+            "specializations": [
+                {
+                    "code": "000846",
+                    "name": "Concentration in Humanities"
+                }
+            ]
+        },
+        {
+            "code": "INDI",
+            "name": "Indigenous",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=BEDE&specsubj=INDI",
+            "specializations": [
+                {
+                    "code": "003347",
+                    "name": "Indigenous Concentration"
+                }
+            ]
+        },
+        {
+            "code": "KDPR",
+            "name": "Kindergarten/Primary",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=BEDE&specsubj=KDPR",
+            "specializations": [
+                {
+                    "code": "003136",
+                    "name": "Concentration in Kindergarten/Primary"
+                }
+            ]
+        },
+        {
+            "code": "MASI",
+            "name": "Mathematics and Science",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=BEDE&specsubj=MASI",
+            "specializations": [
+                {
+                    "code": "000849",
+                    "name": "Concentration in Mathematics and Science"
+                }
+            ]
+        },
+        {
+            "code": "SPED",
+            "name": "Special Education",
+            "href": "https://courses.students.ubc.ca/cs/courseschedule?pname=specsubject&tname=specsubject&dept=BEDE&specsubj=SPED",
+            "specializations": [
+                {
+                    "code": "000379",
+                    "name": "Concentration in Special Education"
+                }
+            ]
+        }
+    ]
+}
