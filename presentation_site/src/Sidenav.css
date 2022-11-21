@@ -25,6 +25,8 @@
     font-size: 25px;
     color: #818181;
     display: block;
+    font-family: "Times New Roman", Times, serif;
+    -moz-osx-font-smoothing: grayscale;
 }
 
 /* When you mouse over the navigation links, change their color */

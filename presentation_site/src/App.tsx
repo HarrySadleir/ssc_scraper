@@ -1,12 +1,12 @@
 import React from "react";
+import Main from "./Main";
 import Sidenav from "./Sidenav";
-import Timeline from "./Timeline";
 
 function App() {
   return (
     <div>
       <Sidenav/>
-      <Timeline/>
+      <Main/>
     </div>
   );
 }
