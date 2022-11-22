@@ -1,6 +1,6 @@
 import React from "react";
 
-function Timeline() {
+function FacultiesTimeline() {
     return (
         <>
             <div style={{position: "relative", height: 0,paddingBottom: 0, boxShadow: "0 2px 8px 0 rgba(63,69,81,0.16)", margin: "auto",borderRadius: "8px", willChange: "transform", marginLeft: "200px", marginRight: 0}} >
@@ -10,4 +10,4 @@ function Timeline() {
     )
 }
 
-export default Timeline
+export default FacultiesTimeline
